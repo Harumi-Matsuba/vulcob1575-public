@@ -1,0 +1,7 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+539.01	p539_L01	26	25	22	replace:us>m replace:u>pp replace:r>g
+539.02	p539_L02	38	38	37	replace:n>t
+539.03	p539_L03	30	30	29	replace:n>t
+539.04	p539_L04	39	40	39	insert:>#
+539.05	p539_L05	34	34	34	
+539.06	p539_L06	29	29	29	

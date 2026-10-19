@@ -1,0 +1,6 @@
+p539_L01	x oc 3 S 4 Ldot w th di g oc P 3 i w x S i x L w b {monseigneur} {plus} {mine}
+p539_L02	{my} th S oc di di dl 7 x oc i w dl D 8 h 4 b L w 9 pi S w o pi 4 x 8 oc x P h 4 S D w b
+p539_L03	dl oc di oo o S D 7 dl di {plus} {de} {saturne} {sont} x w x i ne q pi {plus} ne oc dl 8 b oc 2 w
+p539_L04	ne w 8 oc dl D b 4 i b pi {c} p 4 i D di oc x di pi ne 4 9 w 3 oc dl S D b 4 di i oc dl {my} ne x 2
+p539_L05	{ucl} P oc hash i o ne w {ros} P w b S x 4 9 w b ne w S pi S P 4 L dl oc ne th {plus} D w ne
+p539_L06	9 w P 4 b D {del} 4 x w dl x 4 S oc dl 9 pi S 8 w x {sa} {estre} {Car} {ie} {crois} {quil} {est}

@@ -1,0 +1,41 @@
+line	position/context	current	other	decision	reason
+562.01	pos14 flat L-shaped sign (g) between dl and x	g	(deleted)	current	flat low L-shape clearly present between dl and x; value same g
+562.01	pos31 before final D?	x	(deleted)	current	omega, x, small triangle all visible at the shadow edge
+562.02	pos25 after plus	S	(deleted)	current	faint arc with small y-like sign visible before the following i
+562.06	pos4 small c	c	plain-word marker	current	plain small c in both; mapping artifact, no symbol disagreement
+562.06	pos13 after i	b	dl	current	clear beta with long tail; no tall ascender
+562.07	pos33 line end	?	(deleted)	ambiguous	partial strokes at binding shadow after oc; cannot tell if one glyph
+562.08	pos21 after 8 oc?	box?	gn	other	cross (stem, top bar) standing on a rectangle = key double-letter sign cross-over-box; same sign as p563 L07; changed to gn
+562.09	pos33 after {Juno}	?	(deleted)	current	partial glyph (g-like) visible at edge after Juno
+562.10	pos12 after D 7	ffx	p	current	bar clearly crosses the stem below a small loop head; p has no crossbar
+562.10	pos33 line end	3?	(deleted)	current	partial 3-shape visible at shadow edge
+562.11	pos12 after b	p	4 (a)	current	stem with loop at upper right and bar to the left = p; 4 has triangle above-left with bar to the right
+562.11	pos35-36 line end	i? ?	(deleted)	ambiguous	ink after oc at the shadow, cannot separate into glyphs
+562.14	pos1 start	c	plain-word marker	current	plain small c; mapping artifact
+562.14	pos13 after 8	oc	fl/t4/oc then n	current	cross glyph (not a tall dl) follows the 8
+562.14	pos33 line end	dl?	(deleted)	current	partial tall glyph at shadow edge
+562.15	pos34 line end	ne?	(deleted)	current	partial barred glyph at shadow edge
+562.16	pos15 small c	c	plain-word marker	current	plain small c; mapping artifact
+562.16	pos34 line end	pi?	(deleted)	ambiguous	partial bar at shadow edge, cannot confirm pi
+562.17	pos32-33 after m	b ?	(deleted)	ambiguous	one partial beta-like stroke visible after m; b kept but marked b?, trailing ? kept
+562.18	pos3 start	qq	q (l)	current	square head with long straight stem on a bold box-like q; head is boxed, not a plain loop
+562.18	pos6	ffx	q (l)	current	horizontal bar clearly crosses the long stem
+562.18	pos32 cross in cup	VM?	VM (vote shows # because VM is multi-letter)	current	all three Codex passes read VM; no disagreement
+562.18	pos35 line end	?	(deleted)	ambiguous	partial glyph after 8 at edge
+562.19	pos17 after plus oc	ffx	q (l)	current	bar crosses the stem near its foot
+562.19	pos30-31 line end	x ?	(deleted)	ambiguous	x visible at the shadow edge (kept); trailing ? cannot be checked
+562.20	pos14 group between ne and dl	ucl	? g i	current	connected plain-letter group with tall stroke and flat foot, same form as l.22; not separable symbols
+562.20	pos17 after 8	oc	n (dl) / fl / 4	current	cross glyph, no tall arching ascender
+562.20	pos35 line end	?	(deleted)	ambiguous	partial glyph after 9 w at edge
+562.21	pos9 small c	c	plain-word marker	current	plain small c; mapping artifact
+562.21	pos33 line end	ucl?	g e	ambiguous	small plain letters partly under the shadow; reading unsure, kept ucl?
+562.22	pos15 group after i	ucl	? g	current	same connected plain-letter group as l.20
+562.22	pos32-33 after S	c ?	(deleted)	current	small plain c visible after the arc; trailing ? kept
+562.23	pos19 between i and g	fl?	di (t)	ambiguous	dark lozenge with a stem rising on the left; fl vs di unclear, kept fl?
+562.23	pos36 line end	dl?	(deleted)	current	partial tall glyph at shadow edge
+562.24	pos1 start	{bien}	(merged into next word)	current	plain word "bien" clearly written before "experimente"
+562.24	pos28 line end	?	(deleted)	ambiguous	nothing legible beyond 4 at the shadow; kept
+562.25	pos32 line end after {saturnus}	x?	(deleted)	current	x visible at the shadow edge
+562.26	pos6 after 4 x	qa	q (l)	current	closed flat head with curled foot, not a straight stem
+562.26	pos29 after th	3?	9 (d)	ambiguous	single-bowl glyph with curved tail; 3 vs 9 not clear, kept 3?
+562.26	pos35 line end	?	(deleted)	ambiguous	ink at edge after qa x; unclear

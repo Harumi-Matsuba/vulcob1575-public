@@ -1,0 +1,19 @@
+line	A	B	decision	reason
+m285_L01	bien? on pourra	Bien? on pourra	A/B(case)	B capital B visible; A lowercase
+m285_L02	Siba? po. moix? de	sera poᵘʳ? mois? de	A	A reads Siba/po./moix; B sera/poour/mois not matching letters; final x-like
+m285_L03	luy? communiquer?	luy Communiquer?	B	big capital C and luy match B
+m285_L04	gm? premier? auoir?	qui p·main? auoir	B+other	'qui' clear (B); 'premier' minims (A)
+m285_L05	·palles? ·ntei? c.	aller? ·a·u? C	mixed	aller from B; second word and 'c.' from A
+m285_L06	bannib· Jadion·toit?	·bauier? Jadioustat?	other	image: bauib·, Jadion then long-s + toit; neither exact
+m285_L07	est d'importan	et Dimportant?	A	A 'est'; B 'et' misses long-s t; apostrophe uncertain
+m285_L08	Maguelle? on du	Laquille? on di·	other	capital L and 'Laguelle' with g descender; final di· cropped
+m285_L09	parestre? Carm? o. buiz?	·stu? sou·? o buiz?	mixed	·stu (B); Carm (A); o. buiz both
+m285_L10	st dacvord? aux	et daccord auec	A	·st left uncertain; dacvord and aux as A
+m285_L11	ferdinand? po	Ferdinand poᵘʳ? xx d	A	letters f.rdinand lowercase f; xd at edge treated as cipher
+m285_L12	voy? a v·gas?	luy a ··? gas?	A	voy and v·gas as A
+m285_L13	Jollny? ferdins?	Jolluy? Ferdin·	B	'luy' as in L03, so Jolluy (B)
+m285_L14	·ollny? ferdins? 98?	98	mixed	bottom half of previous line repeated plus 98 at right edge; kept 98?
+m285_L15	sa mou?	sa mor·?	A	mou with final flourish (A)
+m285_L16	d. Crupourius?	de Crucpano? 200	A	d. with dash; Crup·uius (A); xo8 at edge ignored as cipher
+m285_L17	d. ferdinan·?	de Ferdinand	A	d. + ferdinan· cropped (A)
+m285_L18	po· ·· f d.	poᵘʳ? ··? de	A	po with mark, scribble, f, d. (A)

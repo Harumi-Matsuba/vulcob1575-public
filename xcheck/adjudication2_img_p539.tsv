@@ -1,0 +1,16 @@
+line	position/context	current	other	decision	reason
+539.01	pos3 S S 4	S	8	current	large arc with small inner sign = S (one pass only)
+539.01	pos20 x _ w	g	L	ambiguous	name-only difference, value g in vk.py either way; flat base + short stem with curl, same size as p526 L; kept g per project convention (p562 adj also keeps g for this flat sign)
+539.02	pos0 {my3θ}	{my3θ}	{my} th	other	script my3 followed by a separate cipher theta (vertical bar through oval) = th; split into {my3} th (the 3 kept in the script word as in 539.04, Codex dropped it)
+539.02	pos3 oc _ di	fl	di	current	zoom: stem rises from the top of the boxed diamond (ascender + boxed foot = fl); the next diamond has no stem = di
+539.02	pos13 D _ h	8	7	current	zoom: loop with top bar = 8, not a bare 7 stroke
+539.02	pos17 b _ w	g	L	ambiguous	name-only, as 539.01 pos20
+539.02	pos23 w _ pi	o	i	current	small closed circle with a tiny tail, not hooked i
+539.02	pos27 8 _ oc?	8	7	current	8 with top bar
+539.03	pos2 oc? _ oo	fl	di	current	diamond with stem rising on its top (as 539.02 pos3) = fl
+539.03	pos11-12 plus _ saturnus	ucl? ?	{vost}	other	image shows ONE script word of four letters (v?st, not ucl); replaced the two tokens ucl? + ? by {vost}; letter 2-3 ambiguous (e/o, b/s)
+539.03	pos26 8 _ b	8	7	current	8 with top bar
+539.04	pos2 w _ oc?	8	7	current	8
+539.05	pos25 4 _ dl	g	L	ambiguous	name-only, as 539.01 pos20
+539.06	pos19 S _ w	8	7	current	8
+539.06	pos23 after {sec} {estre}	{estre}	{estre} . Car iouira/ioura qu il est (several words)	other	plain script ". Car ioura qu il est" is written after estre on the line; added {Car} {ioura} {qu} {il} {est} (spelling of ioura uncertain). The word read {que}/{qtu} by Codex is estre in the image

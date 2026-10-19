@@ -1,0 +1,5 @@
+line	position/context	current	other	decision	reason
+570.01	pos2 i _ oc?	b	S	current	long slanting stem with beta bowl at its top right (zoom), not an arc with inner sign
+570.01	pos10 x oc? _ P	n?	Ldot	current	arch with extended foot, no dot below (one pass only)
+570.01	pos19 P _ oc?	b	S	current	same beta form as pos2
+570.01	pos21 oc? _ i	qx?	ffx	other	q/9 loop with stem crossed by a horizontal bar near its foot = ffx

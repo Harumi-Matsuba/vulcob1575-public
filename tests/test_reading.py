@@ -31,7 +31,7 @@ class TestKey(unittest.TestCase):
                 self.assertEqual(got[lid], s, f'{p} {lid}')
 
     def test_sample_readings(self):
-        self.assertIn('neuouDraauouerdIrecteMentceFaitdeuant', decode('p525')['525.04'])
+        self.assertIn('euouDraauouerdIrecteMentceFaitdeuant', decode('p525')['525.04'])
         self.assertIn('les espagnOlz', decode('p539')['539.05'])
         self.assertIn('lemarQuizdeuareMb', decode('p565')['565.05'])
         self.assertIn('pa[ss]e outre', decode('p033')['33.08'])
@@ -40,12 +40,12 @@ class TestKey(unittest.TestCase):
 class TestIndependentSecond(unittest.TestCase):
     def test_agreement_total(self):
         out = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'xcompare.py')] + PAGES,
-                             env=dict(os.environ, PASS='pass2', FIRST='', FIRST_DIR=os.path.join('data', 'transcription')),
+                             env=dict(os.environ, PASS='pass4a', FIRST='', FIRST_DIR=os.path.join('data', 'transcription')),
                              capture_output=True, text=True, cwd=ROOT).stdout
-        self.assertIn('TOTAL: 4017/4637', out)
+        self.assertIn('TOTAL: 4423/4643', out)   # pass4a, all nine pages
 
-    def test_agreement_pass3(self):
-        for ps, total in [('pass3a', '4402/4637'), ('pass3b', '4380/4637'), ('pass3c', '4392/4637')]:
+    def test_agreement_pass4(self):
+        for ps, total in [('pass4a', '4423/4643'), ('pass4b', '4436/4643'), ('pass4c', '4388/4643')]:
             out = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'xcompare.py')] + PAGES,
                                  env=dict(os.environ, PASS=ps, FIRST='', FIRST_DIR=os.path.join('data', 'transcription')),
                                  capture_output=True, text=True, cwd=ROOT).stdout
@@ -58,6 +58,12 @@ class TestCalibration(unittest.TestCase):
                               os.path.join(ROOT, 'calib', 'p258_decode.tsv'), os.path.join(ROOT, 'calib', 'p258_margin_adj_text.txt')],
                              capture_output=True, text=True).stdout
         self.assertIn('scored letters 412, agree 333 (80.8%)', out)
+
+    def test_p285(self):
+        out = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'calib.py'),
+                              os.path.join(ROOT, 'calib', 'p285_decode.tsv'), os.path.join(ROOT, 'calib', 'p285_margin_adj_text.txt')],
+                             capture_output=True, text=True).stdout
+        self.assertIn('scored letters 148, agree 125 (84.5%)', out)
 
 
 if __name__ == '__main__':

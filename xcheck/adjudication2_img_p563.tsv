@@ -1,0 +1,40 @@
+line	position/context	current	other	decision	reason
+563.01	pos3	9	(deleted; i only)	current	9 and the following hooked i both visible
+563.01	pos22 sign with stem, upper loop, lower-left bowl	?	phi/VM (m)	ambiguous	no key glyph; resembles phi-like sign but not clear, kept ?
+563.01	pos26 after pi	x	D	current	x shape, not a triangle
+563.01	pos36 after g	x	D	current	x shape, not a triangle
+563.02	pos9 small c	c	plain-word marker	current	plain small c; mapping artifact
+563.02	pos13 after oc S	di	o (b)	current	dark rhombus, not a round circle
+563.02	pos24 after oc	2	x	current	flat-based 2 shape
+563.02	pos32 before 9?	i	(deleted)	ambiguous	dark short stroke on top of a 9 loop; one or two glyphs unclear, kept i?
+563.03	pos5 stem with upper-right loop and left bar	p?	phi (m)	ambiguous	p/phi pair: never changed on shape; kept p?
+563.04	pos29	9	S	current	small loop with short curved tail; not a large arc
+563.04	pos31 after oc	dl	(deleted)	current	tall arching dl visible between oc and D
+563.05	pos11 after w	x	D	current	x shape
+563.05	pos13 stem with three bars and top hook	?	ne	other	bars cross a vertical stem, matches ne (2 or more bars); changed to ne?
+563.05	pos18 before x	8?	qa	other	closed flat-topped a, identical to qa elsewhere (p562 l.19)
+563.05	pos23 after q	al?	w	ambiguous	small a-like sign with a tick, not clearly omega nor open alpha; kept al?
+563.06	pos1 line start	?	phi/VM	ambiguous	same stem/loop/bowl sign as l.1 pos22; kept ?
+563.06	pos25 after {saturnus}	ne	t4/oc/ne	current	two-bar stem, ne
+563.06	pos27 before x	8?	qa	other	closed flat-topped a (qa)
+563.06	pos37 line end	dl?	i	other	short dark hooked sign, no tall arching ascender: i
+563.07	pos3 before 8 (arc with 8)	(none)	S inserted	ambiguous	a faint arc stands left of the 8 but no separate S sign is distinguishable; kept without S
+563.07	pos5 after oc	box?	gn	other	cross over a rectangle = gn (key double-letter sign); changed to gn
+563.08	pos38 small c	c	plain-word marker	current	plain small c; mapping artifact
+563.08	pos43 line end	S	(deleted)	current	arc with y-like sign partly visible at the end
+563.09	pos1 line start	q	9	other	tail is a curved hook, not a long straight stem: 9
+563.09	pos6 circled au	at	{au}	current	letters au drawn inside an oval = at sign
+563.09	pos35 cross before P	4?	oc	other	triangle/barb sits below the bar: oc
+563.10	pos22 small c	c	plain-word marker	current	plain small c; mapping artifact
+563.10	pos31 after i	ffx	4/q	current	long stem crossed by a bar
+563.10	pos34	mu	al	current	mu shape (hooked stem), not an open alpha
+563.10	pos42 before last glyph	w?	o	ambiguous	omega-like, not clearly a circle; kept w?
+563.10	pos43 line end	?	VM	other	small cross in a cup with dot at top; changed to VM?
+563.11	pos9 after di	th	fl	current	oval with crossbar and dot: theta
+563.14	pos10 small sign after 4	{x?}	w	ambiguous	small light v-like sign, not clearly omega; kept
+563.14	pos11-12 w c	w c	w {c} (alignment)	current	identical to Codex after alignment; no disagreement
+563.14	pos19 small o before oc	o	(deleted)	current	small circle visible between pi and the cross
+563.14	pos33 cross after D	4?	oc	other	bar with triangle/barb below it; changed to oc?
+563.14	pos39 cross before i	4?	oc	other	same form as pos38 oc; changed to oc?
+563.15	pos24 after 4	ffx?	4/q	current	long stem crossed by wide bar
+563.15	pos26 after oc	dl	i	current	taller than the later short i, hook rises above x-height

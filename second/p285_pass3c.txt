@@ -1,0 +1,13 @@
+p285_L01	{Le} {Deputy} {de} {Saxe} {ont} {opinion} {que} {leur} {Maistre} {paracheue} {ceste} {saison}
+p285_L02	{de} {chasse} {auec} {lElecteur} {de} {Brandebourg} S i 4 dl S L {de} {dire} oc hash x at
+p285_L03	7 P w dl S pi b {plus} 8 w S pi b 4 {roe} 4 x oc dl b 8 oc box oc 9 dl D w 9 pi ne x 2 8 oc box x dl i
+p285_L04	qa x w b ne pi S 8 h oc S w n qa x dl {faulcune} {auoir} w S D pi {roe} P 4 b ne ffx w dl D b pi
+p285_L05	oc x 2 {c} ne w 9 dl D 9 x 8 9 pi o 4 x dl w b pi {Jadioust eray}/{Jadiousteray} {pour} {la} {fin} {dire} x dl w
+p285_L06	8 h oc S pi qa x dl w L 9 dl 3 P oc b D 7 dl 8 w {roe} {de} {St} {saturne} {se} {c} ne 4 qa x w ne q pi {on} {m’a}
+p285_L07	{dit} {estre} {seur} {de} {bien} {bon} {lieu} 8 w L {plus} ne w 9 dl D S pi dl L dl w x b {saturne} {sont} {de}
+p285_L08	4 M oc b 9 4 x w 8 qa x pi S ne 4 b 8 h dl 9 x 8 p w b 9 dl dl 4 dl T {roe} S 4 S x M w
+p285_L09	hash dl oc dl 7 8 w {plus} ne w S P 4 2 n {plus} D dl w dl D dl 8 w ne x 2 p w b 9 dl dl 4 dl 9
+p285_L10	x dl w box pi dl D 4 P b w S n 4 3 oc b D 4 x S w dl p 4 dl S 9 x 9 dl D {saturne} {c}
+p285_L11	dl oc i 4 8 w x S 9 pi p w b 9 dl dl 4 dl 9 ne w qa x pi ne 4 dl dl S dl qa x oc dl 3 4 7 x hash dl
+p285_L12	9 dl D 9 oc dl D w dl x oc 2 w b 9 pi o b dl w p S oc dl p dl ne th 4 dl S dl pi 7 b oc phi pi
+p285_L13	{roe} ne w p 4 dl b pi 9 w S L ne dl S pi {Et} {a} {tant}

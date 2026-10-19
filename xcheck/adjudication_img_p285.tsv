@@ -1,0 +1,38 @@
+line	position/context	first	second	decision	reason
+285.01	words after 'opinion' (quelcun?)	{quelcun?}	{que} {leur}	ambiguous	script word; cursive illegible enough that neither reading is clear; first kept (already marked ?)
+285.01	word 'Medira?'	{Medira?}	{Md} {ira}	ambiguous	gap between d-flourish and ira not clear; first kept (already ?)
+285.01	'parachever?'	{parachever?}	{paracheuer}	ambiguous	u/v of cursive indistinguishable; first kept (already ?)
+285.02	after '4' (4 i dl S mu)	4 i dl	4 dl (a: 4 i; one glyph fewer)	first	two separate glyphs follow the 4: short d-hook (i) then tall arched dl; vote reads only one
+285.02	S i (2nd glyph)	i	dl (run b)	first	short ~40px hooked sign, no arch; i
+285.02	line end 'oc? dl P oc? x at'	oc? dl P oc? x at	oc oc x at / oc hash x at	first	glyphs: cross, tall dl, stem with left bar (P), cross with bar, x, at; P and next cross are separate signs (bars at different heights, not crossing both stems), so not hash; dl present
+285.02	words {vef?} {Sire}	{vef?} {Sire}	{Vostre}/a/L {de} {dire}	ambiguous	script/cipher shape unclear; first kept (already ?)
+285.03	'4 x oc i b'	i	dl	first	short sign ~42px, hooked head, no arch
+285.03	'9 i D w'	i	dl	first	measured ~45px, short, no arch
+285.03	line end 'x dl i'	dl i	dl i (run c same; a: w i)	first	tall arched dl then short i; matches first
+285.03	after 8 in '8 oc oc? 9 i D': box with cross on top	oc oc?	oc dq oc (vote qq/box)	second	cross-over-box sign clearly present between oc and oc (8 oc [box+cross] oc 9); written dq per convention; first lacked it (5 glyphs, first had 4)
+285.03	line end '8 oc oc? x dl i': cross over box	oc?	dq (vote qq/box)	second	cross with box below/cross-over-box sign clearly present before x; replaced oc? by dq
+285.04	line start 'qa x'	qa x	script word {Exce}/{Lex} (a,b) ; qa x (c)	ambiguous	flat-topped a-like closed sign + x; could be script; qa/al rule: kept + ?
+285.04	'x i/dl w' before S D pi	dl	i (run a)	first	tall arched stem; matches b,c and first
+285.04	'ne ?{p2bar} w'	?{p2bar}	ffx (b,c) / stacked loops (a)	ambiguous	p-like loop at top, stem with two bars at bottom; not a clear q/9 with one crossbar; first kept + ?
+285.05	'4 x i w b pi'	i	dl	first	~45px, short curved head, no arch (same size as confirmed i)
+285.05	word {tbay?} / {Jadiouste}	{Jadiouste} {tbay?}	{Jadiousteray}	ambiguous	script word division unclear; first kept (already ?)
+285.06	'qa x i ucl': i	i	dl (b,c)	first	~40px stem, no arch
+285.06	'ucl' after i	ucl	w L (b,c)	ambiguous	looks like cursive u-c-l with looped l and flat foot; w+L not clearly shown; first kept + ?
+285.06	'9 i 3'	i	dl (b,c)	first	~42px, straight stem, no arch
+285.06	'ne q pi' near end	q	9 (a,b)	first	long straight descender (~2x loop), q
+285.06	words {vcbt?} {saturnus} {sec}	{vcbt?}	{Vost}/{St} etc.	ambiguous	script words; not resolved; first kept (already ?)
+285.07	'8 ucl plus'	ucl	w L	ambiguous	same as 285.06: script ucl vs w L not clear; first kept + ?
+285.07	'9 i D S pi i L dl'	i (x2)	dl	first	two short signs, no arch; the dl after L is tall/arched and kept
+285.07	words {sanc} {vct?}	{sanc} {vct?}	{sont} {de}	ambiguous	script words; first kept (already ?)
+285.08	'8 h i 9 x ... 9 i dl 4 dl T' (i x2) and 'dl 4 i T' variants	i i	dl dl	first	short hooked sign at both i places; tall arched at the dl places
+285.09	'hash i oc'; 'D i w'; 'D i 8'; '9 i dl' (4 i)	i	dl	first	all short (~40-45px) without arch; dl positions tall/arched
+285.10	'x i w', 'pi i D', '9 i D'	i (x3)	dl	first	short hooked signs
+285.10	box-like q after 'x i w'	qq	q (a,b) / box (c)	first	small box at top left joined to long straight stem: both elements present; q ignores box, box ignores stem
+285.11	pos 1 'dl oc'	dl	dl (a: i)	first	tall arched; matches majority
+285.11	pos 3 'oc i/dl 4'	i/dl	i (a,c) dl (b)	second	glyph itself small (~30px loop+hook); the tall stroke above is the previous line's descender
+285.11	'ne S 4 i dl S i qa': i after 4, i after S	i i	dl dl	first	~41-47px, no arch; adjacent dl taller/arched
+285.11	'S' before 4 (ne S 4)	S	absent in vote	ambiguous	thin bare arc left of 4 with no inner sign; could be S or flourish; kept + ?
+285.11	'9 i dl' and 'hash i' end	i	dl	first	short (~42px) end glyph
+285.12	five i positions (9 i D, oc i D, b i w, dl p i ne, 4 i S)	i	dl	first	short hooked signs; tall dl in the same line (ω δ x, + δ p, S δ π) are distinct
+285.13	'4 i b', 'ne i S'	i	dl	first	short, no arch
+285.13	end {Catan?}	{Catan?}	{Et a tant}	ambiguous	script; looks possibly Et a tan; not clear; first kept (already ?)

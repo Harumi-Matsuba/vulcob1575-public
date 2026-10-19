@@ -1,0 +1,9 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+33.01	p033_L01	18	22	18	insert:>####
+33.02	p033_L02	35	35	32	replace:eu>?cc replace:o>t
+33.03	p033_L03	34	33	30	delete:q> replace:o>t replace:qo>#t
+33.04	p033_L04	29	28	27	delete:f> replace:r>m
+33.05	p033_L05	37	36	30	delete:m> replace:s>d replace:qu>ccc replace:on>tg replace:o>t
+33.06	p033_L06	36	36	29	replace:bo>t insert:># replace:re>?# replace:o>t replace:n>? replace:o>t
+33.07	p033_L07	36	35	29	delete:l> replace:o>t replace:o>t replace:o>t replace:p>t replace:os>tm
+33.08	p033_L08	35	35	32	delete:l> replace:o>t replace:o>t insert:>n

@@ -1,0 +1,30 @@
+line	position/context	current	other	decision	reason
+565.01	idx1 8 [4] fl w	4	absent in Codex	ambiguous	4 with triangle above bar visible but Codex readings drop it
+565.01	idx2 4 [fl] w	fl	oc	other	cross whose stem has a box/triangle hanging below the bar (oc); not a b-like fl
+565.02	idx6 w dl [di] w	di	absent	current	small diamond/box clearly present between dl and w
+565.02	idx11 oc [dl] g x	dl	absent	current	tall arched delta present before the flat L
+565.03	idx13 n [ne] 7 dl	ne	t4/oc	current	two bars crossed by a stem, ink blot at the crossing; no loop
+565.04	idx4 b ne [7] P	7	S	current	plain 7, no arc around it
+565.04	idx17 pi S [P] w x	P	q	ambiguous	stem with a hook at the top left; could be q (bowl) or P, not decidable
+565.04	idx20 x [ne?] S	ne?	ffx	other	stem carries a loop at the top right (9-like) and bars across it: ffx, not ne
+565.04	idx30 w [guod] ros ne	guod	2 {uod}	ambiguous	initial sign is a Q/2-like flourish followed by uod; ros reads roc/roe
+565.04	idx31 guod [ros] ne	ros	{roe}/{coe}	ambiguous	last letter of the plain word is not clearly s
+565.05	idx10 8 [mu] D w	mu	al	current	mu shape (leg stroke plus two humps); no open alpha crossing
+565.05	idx30 ne w [3] 4 b	3	S	current	ʒ standing alone, no large left arc
+565.05	idx43 b w [3?] o	3?	S	current	ʒ without a left arc
+565.06	idx13 8 [h] w P	h	al	current	two slanted parallel strokes (//) visible
+565.06	idx21 8 [oc?] P 4	oc?	4	other	cross with a faint closed triangle above-left; nothing below the bar
+565.07	idx22 b [fl] w i	fl	i	current	tall stem with boxed/diamond foot visible, not a short hooked i
+565.08	idx17 w [S] oc x	S	9	current	faint large left arc is visible
+565.08	idx18 S [oc] x i	oc	4	current	cross with triangle hanging below the bar
+565.08	idx26 oc [dl] di 7	dl	i	other	short body with a hooked head, no tall arching ascender
+565.09	idx22 {mesme?} [th] dl 4	th	i	current	elongated dark oval with bar (theta)
+565.09	idx24 dl [4] dl D	4	oc	other	cross with a triangle hanging below the bar
+565.09	idx29 dl [g] 4 b	g	T/8	current	flat L-like sign with curl present
+565.09	idx30 g [4] b w	4	oc	ambiguous	not resolvable at this size
+565.10	idx11 S [phi] pi q	phi	p	current	p/phi look-alike rule: never changed on shape alone
+565.10	idx26 w [oc?] x 8	oc?	4	other	thin cross with a faint triangle above-left, nothing below the bar
+565.12	idx16 w dl [q] 9 x	q	9	current	dark heavy loop with a long, almost straight descender, clearly longer than the neighbouring 9
+565.14	idx4 dl [qa?] x oc	qa?	al	current	qa/al look-alike rule
+565.15	idx14 x i [dl?] 9 x	dl?	th	ambiguous	tall narrow loop with pointed head; neither clearly dl nor theta
+565.15	idx32 2 S [4] dl	4	oc	current	4 shape (triangle above-left) visible

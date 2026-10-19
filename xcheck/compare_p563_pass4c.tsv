@@ -1,0 +1,16 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+563.01	p563_L01	39	38	37	delete:d> replace:?>#
+563.02	p563_L02	41	41	40	insert:># delete:i>
+563.03	p563_L03	31	31	31	
+563.04	p563_L04	33	33	32	replace:d>s
+563.05	p563_L05	37	36	33	replace:u>t replace:n>i replace:a>e delete:i>
+563.06	p563_L06	37	37	35	replace:?># replace:l>t
+563.07	p563_L07	38	39	36	insert:>s replace:mm>nn replace:nn>l
+563.08	p563_L08	42	43	42	insert:>#
+563.09	p563_L09	36	36	34	replace:rr># replace:n>g
+563.10	p563_L10	42	43	38	replace:o>f replace:o>a insert:># replace:ff>l replace:a>o
+563.11	p563_L11	34	34	34	
+563.12	p563_L12	41	41	40	replace:o>l
+563.13	p563_L13	37	37	36	replace:#>o
+563.14	p563_L14	40	41	38	insert:>ee delete:e> replace:o>f
+563.15	p563_L15	30	30	28	replace:ff>l replace:n>i

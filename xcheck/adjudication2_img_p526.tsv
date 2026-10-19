@@ -1,0 +1,62 @@
+line	position/context	current	other	decision	reason
+526.01	pos0 first symbol, before h oc?	8	4	current	top bar + diagonal + small loop below = same 8 form as clear 8 at L05 pos21 / L16 pos23; no crossbar-through-stem as in a 4
+526.01	pos21 i _ w ne	8	4	current	stacked-loop 8 with top bar; no cross
+526.01	pos28 w _ L dl	dl?	i	other	short stem, one body-height, thick hooked head; the true dl two signs later is far taller and arches over
+526.01	pos32 line end after dl pi	x	(deleted)	ambiguous	crop ends at the pi at the right image edge; x not within image, cannot confirm or delete; kept
+526.02	pos4 i _ pi b	b	o	other	clean small closed oval, no stem/curl; the real beta is two signs later (pos6)
+526.02	pos9 {c} _ oc?	8	4	current	two stacked loops (8); the 4-like sign follows it
+526.02	pos12 dl _ q	8	4	current	8 with top bar
+526.02	pos21 dl _ oc?	8	4	current	8 with top bar
+526.02	pos30 oc? dl oc _ oo?	t4?	lz / fl / (deleted)	ambiguous	straight stem rising from a filled diamond foot; resembles fl (stem + boxed foot, cf p539 L02 pos3) as much as t4; Codex passes disagree (lz, fl, delete); kept t4?
+526.02	pos32 after oo? (end of line)	b?	o	other	third circle after the joined oo is a plain oval o; replaced b? by o
+526.02	pos33-34 end, S? D?	S? D?	(deleted)	ambiguous	only a very faint grey arc with dots at the image edge (probably show-through); cannot tell if S/D; kept
+526.03	pos15 S _ oc?	8	4	current	8 (loops + top bar)
+526.03	pos20 w _ D	8	4	current	8 (loops + top bar)
+526.03	pos33 line end after i	ne	(deleted)	ambiguous	image cuts the line after the i; ne not in image; kept
+526.04	pos10 dl _ oc?	8	4	current	8 with top bar
+526.04	pos17 c _ i w	b?	i	ambiguous	image shows a small oval o (not beta, not hooked i) before the i; neither reading fits; kept b? (suggest o)
+526.04	pos33-34 line end after P b	w D?	(deleted)	ambiguous	line is cut at the beta after P; w D? not in image; kept
+526.05	pos19 x _ dl 8	4	up	current	zoom: crossbar through stem with a small triangle top-left = 4, not an arrow head
+526.05	pos21 dl _ w b	8	4	current	8 with top bar over loop (zoom)
+526.05	pos29 ne _ 7	8	4	current	8 with top bar
+526.05	pos32-33 line end S x dl	x dl	(deleted)	ambiguous	only S visible at right image edge; x dl beyond crop; kept
+526.06	pos0 start	p?	phi	ambiguous	p/phi look-alike pair, never change on shape alone; kept p?
+526.06	pos19 dl _ dl 8	oc?	4 / filled 4-like	current	zoom: heavy stem above bar, filled triangle BELOW the bar = oc
+526.06	pos21 dl _ ne	8	4	current	8 with top bar
+526.06	pos32 line end	x	(deleted)	ambiguous	x only partly at image edge; kept
+526.07	pos0 start	8	4	current	8 (loop below bar), cf pos0 L01
+526.07	pos4 i _ ne	ne	oc	current	zoom: stem with two horizontal bars, no loop/triangle below = ne (one pass only)
+526.07	pos10 b 7 _ 7	up	M	ambiguous	two-stroke lambda shape with curled left foot; not a 3-hump M, but no clear stem below either; kept up, added ?
+526.07	pos21 x _ dl	4	up	current	zoom: cross with small triangle top-left = 4
+526.07	pos24 D _ L	4	up	current	same 4 shape as pos21
+526.07	pos33 line end	9	(deleted)	ambiguous	line cut by image edge; 9 not in image; kept
+526.08	pos11 x _ hash	4	up	current	zoom: cross with a faint diagonal at upper left = 4; same form as the clear dark 4 of L16 pos16
+526.08	pos19 w _ dl w	8?	i / dl / (deleted)	other	short dark blob head with loop, rises only moderately (below tops of neighbouring dl); took i
+526.08	pos25 dl _ i	8	4	current	8 with top bar
+526.08	pos30-32 end: ros 8 pi	ros 8 pi	{ros} (+4) , pi not	ambiguous	script ros and a following 8-like sign visible at the right edge (8 kept, not 4); pi not within image; kept
+526.09	pos15 b _ h	8	4	current	8 with top bar
+526.09	pos20 x _ ne	8	4	current	dark 8
+526.09	pos32 w _ D (line end)	dl?	i	current	ascender rises to the top of the line image like a dl; kept dl?
+526.10	pos11 x _ ne	4?	oc	other	zoom: small triangle formed BELOW the bar (diagonal from bar to stem foot); not above-left; took oc
+526.10	pos14 oc? _ D	t4?	oc / filled diamond with stem	ambiguous	stem + filled diamond with white centre; may be heavy oc or fl, not t4 shape; undecided, kept t4?
+526.10	pos29 7 _ hash	qa?	x	ambiguous	closed left loop with up-right tail; neither clean qa nor cross-x; qa/al-type pair rule: kept qa?
+526.10	pos32 line end	plus?	phi	current	script p with flag followed by the start of an l (plus); not phi
+526.11	pos24 w _ 7	p	phi	ambiguous	p/phi look-alike pair, never change on shape alone; kept p, added ?
+526.12	pos14 S _ h	8	4	current	8 with top bar
+526.12	pos34-36 end th? h ?	th? h ?	(deleted)	ambiguous	theta visible at right edge (th? supported); h and ? beyond the image edge; kept
+526.13	pos9 dl _ oc?	8	S + 4 / 4	current	8 clearly 8, not 4. An arc "(" stands left of it but with no separate inner sign, so S not added
+526.13	pos20 D _ i	b?	i	ambiguous	again a small oval o then hooked i (cf L04 pos17); not beta; kept b?
+526.13	pos25 dl ne _ D	w?	i / dl	current	clear omega
+526.13	pos32 line end	S	(deleted)	ambiguous	S beyond the right image edge; kept
+526.14	pos28 S _ 3	w?	at	other	ring around a dark centre next to an omega; all three passes read at; took at
+526.14	pos34 o _ pi	9?	q / 4	other	heavy straight tapering stem well below the line, small loop at top = q
+526.14	pos36-37 end 3 w?	3 w?	(deleted)	ambiguous	beyond the image edge (only pi visible); kept
+526.15	pos11 pi _ oc?	8	4	current	8
+526.15	pos14 dl _ S	-	(deleted)	current	short dash visible between the dl and the S
+526.15	pos18 b _ pi	8	4	current	8
+526.15	pos23 S _ b	8	4	current	8
+526.15	pos32-33 end di pi	di pi	D / (pi deleted)	current	last visible sign is a four-sided diamond (di), not a triangle; pi beyond the edge
+526.16	pos5 w _ b	box	qq	current	zoom: closed rectangle with a short inner tick, no stem or tail = box
+526.16	pos16 7 _ x	4	up	current	heavy cross with filled triangle top-left = 4
+526.16	pos23 dl _ w	8	4	current	8
+526.16	pos26 end {Admira}	{Admira}	(deleted)	current	"Adm..." script visible at right edge

@@ -1,0 +1,13 @@
+p285_L01	v:# v:# v:# v:# v:# v:# v:# v:# v:# v:# v:# v:# v:#
+p285_L02	v:# v:# v:# v:# v:# v:# v:s v:i v:a v:n v:s v:i v:# v:# v:o v:o v:u v:rr
+p285_L03	v:a v:p v:e v:n v:s v:e v:r v:# v:c v:e v:s v:e v:r v:a v:# v:a v:u v:o v:n v:r v:c v:o v:nn v:o v:d v:n v:t v:e v:d v:e v:l v:u v:y v:c v:o v:nn v:u v:n v:i
+p285_L04	v:# v:e v:r v:l v:e v:s v:c v:h v:o v:s v:e v:s v:q v:u v:n v:# v:# v:e v:s v:t v:e v:# v:p v:a v:r v:l v:ff v:e v:n v:t v:r v:e
+p285_L05	v:o v:u v:y v:# v:l v:e v:d v:n v:t v:d v:u v:c v:d v:e v:b v:a v:u v:n v:e v:r v:e v:# v:# v:# v:# v:# v:# v:u v:n v:e
+p285_L06	v:c v:h v:o v:s v:e v:q v:u v:n v:e v:g v:d v:n v:m v:p v:o v:r v:t v:a v:n v:c v:e v:# v:# v:# v:# v:# v:l v:a v:q v:u v:e v:l v:d v:e v:# v:#
+p285_L07	v:# v:# v:# v:# v:# v:# v:# v:c v:e v:g v:# v:l v:e v:d v:n v:t v:s v:e v:n v:g v:n v:e v:u v:r v:# v:# v:#
+p285_L08	v:a v:cc v:o v:r v:d v:a v:u v:e v:c v:q v:u v:e v:s v:l v:a v:r v:c v:h v:n v:d v:u v:c v:f v:e v:r v:d v:n v:n v:a v:n v:d v:# v:s v:a v:s v:u v:cc v:e
+p285_L09	v:ss v:n v:o v:n v:a v:c v:e v:# v:l v:e v:s v:p v:a v:y v:s v:# v:t v:n v:e v:n v:t v:n v:c v:e v:l v:u v:y v:f v:e v:r v:d v:n v:n v:a v:n v:d
+p285_L10	v:u v:n v:e v:l v:e v:n v:t v:a v:p v:r v:e v:s v:s v:a v:m v:o v:r v:t v:a v:u v:s v:e v:n v:f v:a v:n v:s v:d v:u v:d v:n v:t v:# v:#
+p285_L11	v:n v:o v:i v:a v:c v:e v:u v:s v:d v:e v:f v:e v:r v:d v:n v:n v:a v:n v:d v:l v:e v:q v:u v:e v:l v:a v:n v:n v:s v:n v:q v:u v:o v:n v:m v:a v:a v:u v:ss v:n
+p285_L12	v:d v:n v:t v:d v:o v:n v:t v:e v:n v:u v:o v:y v:e v:r v:d v:e v:b v:r v:n v:e v:f v:s v:o v:n v:f v:n v:l v:z v:a v:n v:s v:n v:e v:a v:r v:o v:m v:e
+p285_L13	v:# v:l v:e v:f v:a v:n v:r v:e v:d v:e v:s v:g v:l v:n v:s v:e v:# v:# v:#

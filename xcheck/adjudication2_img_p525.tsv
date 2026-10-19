@@ -1,0 +1,20 @@
+line	position/context	current	other	decision	reason
+525.01	idx7 ne [{fec}] {ar} 4	{fec}	lz (l+z ligature)	ambiguous	plain-looking bec/fec with a long horizontal bar ligature; could be the lz sign, not decidable
+525.01	idx17 qq [oc] i? S	oc	absent	current	two crosses are visible around the qq sign
+525.03	idx17 di [{fec}] 7 dl	{fec}	lz	ambiguous	same fec/bar group as l.1
+525.03	idx24 7 [2] S w	2	L	current	digit 2 with curved top, diagonal and flat base; not a flat L with upturned left end
+525.04	idx0 [dl] w x oc	dl	i	other	head is short and hooked, not much above the neighbouring omega/x; no tall arching ascender
+525.09	idx0 line start [?] pi dl	?	p / ffx / ?	ambiguous	dark stem with upper loop and crossing bar, unresolved glyph; kept
+525.09	idx24 m [n?] oc i	n?	absent	other	m has its three humps and no separate arch follows
+525.12	idx28 D w [4?] x qa	4?	p / oc	current	cross with closed triangle above-left (4 shape) visible
+525.13	idx27 2 4 [i?] D oc	i?	dl	current	short hooked head, much lower than the tall dl at idx23 of the same line
+525.13	idx32 8 [plus] w x	plus (word)	{plus} + n (arch)	other	a separate arch sign (n) stands between the word plus and the following omega; inserted n after plus
+525.17	idx19 i? ne [{fec}] 8 w	{fec}	lz	ambiguous	same fec/bar group
+525.17	idx35 8 oc [dq] x	dq	gn	current	square box below the left of the bar (d with box), not a 4 with extra bar
+525.19	idx7 x 4 [D?] hash	D?	? two joined triangles	other	two triangles stacked (Λ above ▽) sharing a vertex; not a single triangle
+525.19	idx30 8 oc [dq] pi	dq	gn	current	square box visible below the bar
+525.20	idx9 ne S [{fec}] x	{fec}	lz	ambiguous	same fec/bar group
+525.21	idx5 ros [c] oc m	c	L/g	other	the sign is a flat L with upturned left end (written g in this transcription), not a plain c
+525.21	idx15 b 7 [dl] dl S	dl	i	other	first of two similar signs has a short body with a thick vertical blotted head, shorter than the following tall arching dl
+525.21	idx33 i? w [dl?] D	dl?	absent	current	tall arched sign is present between omega and the triangle
+525.23	idx22 i [3?] P w	3?	9	current	3/ʒ shape with flat top and curl, no 9 loop; also 3/z look-alike rule

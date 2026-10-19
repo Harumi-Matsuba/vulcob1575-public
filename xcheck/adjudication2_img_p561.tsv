@@ -1,0 +1,16 @@
+line	position/context	current	other	decision	reason
+561.01	idx16 pi [8] w {my3}	8	dl	current	short lens-shaped 8 with tail, not a tall arched dl
+561.02	idx14 b [3?] oc qq	3?	S	other	a thin large left arc runs down around the ʒ-like sign: this is S
+561.02	idx20 g? w [8?] x i	8?	qa	other	closed flat-topped body with straight stem to the right/below (qa), not an open-tailed 8
+561.02	idx28 S [mu?] D w	mu?	qa	current	open two-hump shape with a leg stroke from the left (mu), no closed flat top
+561.03	idx4 9 [qa?] ne 4	qa?	w	other	pale omega-like wave with dark right stroke, no stem or foot below
+561.03	idx39 x [?]	?	hash	ambiguous	end glyph next to a paper stain at the right edge; stem(s) with bar and a diagonal, cannot separate hash from 4
+561.04	idx14 phi b [4?] i 9	4?	oc	current	cross with diagonal/triangle above-left, nothing hangs below the bar
+561.05	idx17 w S [4] ne x	4	oc	other	cross whose bar carries a small triangle hanging below it (oc), not above-left
+561.06	idx12 9 x [T] i D	T	pi	ambiguous	bar with a single short oblique leg; could be pi or T
+561.09	idx6 S x [Ldot?] ne	Ldot?	g/L	ambiguous	Λ-like strokes with flat foot; a dot below not visible; not clearly a flat L either
+561.11	idx3 i S? [P?] 4 i	P?	oc	current	stem with bar and a loop ABOVE the bar at the right (p-like), not a loop below (oc)
+561.15	idx6 b pi [P?] x S	P?	phi/m	current	p/phi look-alike rule; kept with ?
+561.18	idx14 4 b [al] x i	al	qa	current	al/qa look-alike rule: not changed on shape alone; marked ?
+561.18	idx22 b w [z?] pi	z?	3	current	3/z look-alike rule
+561.19	idx27 S P [4?] dl S	4?	oc	other	no triangle above-left; stem and bar with a small curl/foot hanging below the bar

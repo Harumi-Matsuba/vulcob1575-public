@@ -1,0 +1,17 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+565.01	p565_L01	4	15	3	insert:>########### delete:a> insert:>n
+565.02	p565_L02	31	30	29	delete:t> replace:n>i
+565.03	p565_L03	41	41	41	
+565.04	p565_L04	36	38	31	replace:sp>ff replace:ff>l replace:#>yei replace:q>a
+565.05	p565_L05	45	45	42	replace:i>a replace:m>s replace:e>q
+565.06	p565_L06	43	43	43	
+565.07	p565_L07	46	46	45	replace:n>i
+565.08	p565_L08	40	40	40	
+565.09	p565_L09	37	37	35	replace:ga>co
+565.10	p565_L10	41	41	40	replace:m>l
+565.11	p565_L11	35	35	35	
+565.12	p565_L12	32	32	30	replace:a>l replace:l>d
+565.13	p565_L13	40	40	40	
+565.14	p565_L14	33	33	32	replace:q>a
+565.15	p565_L15	34	34	32	replace:n>z replace:a>o
+565.16	p565_L16	25	25	25	

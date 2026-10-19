@@ -1,0 +1,2 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+570.01	p570_L01	26	28	22	replace:r>s replace:t>b replace:s>q replace:r>s insert:>g insert:>?

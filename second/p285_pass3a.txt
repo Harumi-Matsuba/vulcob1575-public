@@ -1,0 +1,13 @@
+p285_L01	{Les} {Deputez} {de} {Saxe} {ont} {opinion} {que} {leur} {Md} {ira} {paracheuer} {cette} {saison}
+p285_L02	{de} {chasse} {auec} {lElecteur} {de} {Brandebourg} S i 4 i S mu {Vostre} {dire} oc oc x at
+p285_L03	7 P w dl S pi b {plus} 8 w S pi b 4 {roe} 4 x oc i b 8 oc qq oc 9 i D o 9 pi ne x 2 8 oc qq x w i
+p285_L04	{Exce} w b ne pi S 8 h oc S w n qa x i {pourra} {auoir} w S D pi {roe} P 4 b ne ?{stacked loops} w dl D b pi
+p285_L05	oc x 2 {c} ne w 9 i D 9 x 8 9 pi o 4 x i w b pi {Jadiousteray} {icy} {pour} {la} {fin} {dire} x dl w
+p285_L06	8 h oc S pi qa x i {ucl} S i 3 P oc b D 7 dl 8 w {roe} {Vost} {saturnue} {sec} {c} ne 4 qa x w ne 9 pi {on} {ma}
+p285_L07	{dit} {estre} {seué} {de} {bien} {bon} {lieu} 8 {ucl} {plus} ne w 9 i D S pi i L dl w x b {saturnue} {sont} {des}
+p285_L08	4 M oc b 9 4 x w 8 qa x pi S ne 4 b 8 h i 9 x 8 p w b 9 i dl 4 i T {roe} S 4 S x M w
+p285_L09	hash i oc dl 7 8 w {plus} ne w S P 4 2 n {plus} D i w dl D i 8 w ne x 2 p w b 9 i dl 4 dl 9
+p285_L10	x i w q pi i D 4 P b w S n 4 3 oc b D 4 x S w dl p 4 dl S 9 x 9 i D {saturnue} {c}
+p285_L11	i oc i 4 8 w x S 9 pi p w b 9 dl dl 4 dl 9 ne w qa x pi ne 4 i dl S i qa x oc dl 3 4 7 x hash i
+p285_L12	9 i D 9 oc i D w dl x oc 2 w b 9 pi o b i w p S oc dl p i ne th 4 i S dl pi 7 b oc phi pi
+p285_L13	{roe} ne w p 4 dl b pi 9 w S L ne i S pi {Et} {a} {tant}

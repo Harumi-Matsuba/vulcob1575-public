@@ -1,0 +1,17 @@
+line	position/context	current	other	decision	reason
+33.02	idx4 9 pi [up] 4 dl	up	n (arch)	ambiguous	pointed Λ-like hat, cannot see whether a stem hangs below (up) or the top is rounded (n)
+33.03	idx0 line start [qa?] x w	qa?	absent	ambiguous	glyph cut by the left edge of the crop, unreadable; kept
+33.03	idx30 i g [mu?] oc dl	mu?	qa	other	after the flat L-like sign comes a closed flat-topped a with a curled foot below (qa); no mu legs
+33.04	idx0 line start [p?] 4 i	p?	absent	ambiguous	glyph cut by the left edge of the crop; kept
+33.04	idx11 w 8 [z] pi D	z	3	current	3/z look-alike pair: never changed on shape alone; marked ?
+33.05	idx0 line start [3?] 4 i	3?	absent	ambiguous	first glyph is at/outside the left crop edge; image starts with the 4; kept
+33.05	idx3 4 i [S] qa? x	S	9	current	faint large left arc is visible around the y-like sign
+33.05	idx8 pi ne [qa?] up S	qa?	? (unresolved)	ambiguous	pale a-like sign with dark blot; not clearly different from qa
+33.05	idx9 ne qa? [up] S	up	n	ambiguous	solid black pointed hat; cannot see a stem below (up) or a round top (n)
+33.05	idx30 ne oc [dl?] D D?	dl?	g	ambiguous	small pale sign with hooked head (i/dl); no flat L or tall bracket visible; kept
+33.05	idx32 dl? D [D?] b	D?	di	other	sign is a four-sided diamond with a stem on its left, not a triangle
+33.06	idx0 line start [o?] oc dl	o?	x / fl / ?	ambiguous	dark irregular blot at the left edge
+33.06	idx8 b? [pi?] 4 x	pi?	{c} / ?	ambiguous	small very pale mark, unreadable
+33.07	idx0 line start [ne?] x w	ne?	absent	ambiguous	glyph cut by the left edge of the crop; kept
+33.07	idx19 i D [P] 4 b	P	oc / t4 / fl (all different)	current	clear ⊣ (stem with bar to the left at mid-height), no loop under a bar; the three Codex readings do not even agree with each other
+33.08	idx0 line start [ne?] 7 i	ne?	absent	ambiguous	glyph cut by the left edge of the crop; kept

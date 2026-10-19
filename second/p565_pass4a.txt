@@ -1,0 +1,16 @@
+p565_L01	{Monseigneur} {Vous} {aurez} {veu} {par} {ma} {depesche} {du} {xxviiiᵉ} {il} {a} {mocé} 8 oc fl w
+p565_L02	{sec} {saturne} D i w dl ne fl dl L x pi x b ne w P ne x S {my} P w x D {mais} ne {manut}
+p565_L03	w S P t4 L dl pi dl w x oc n ne 7 dl D n i {puis} P b fl 3 P D w 3 pi dl D n w 9 pi 8 ne 7 b w b
+p565_L04	S x b ne 7 P w b 3 i hash i fl dl 9 pi p p w x ne p 9 pi L w dl S T w 2 w i {ros} ne 7 qa x
+p565_L05	pi ne q w n oc ne q i 8 h D w b P b i dl 8 i P t4 ne w 3 pi dl D ne w S t4 b qa x i th 9 w x 7 b w 3 o
+p565_L06	fl dl 7 w n D pi 9 pi P w S 8 h w P t4 b 9 w 8 t4 P t4 b 9 oc 3 i w h t4 dl 9 t4 x S D b i 8 h w
+p565_L07	3 t4 i dl D w dl 7 dl D w S D 7 dl D b w D fl x b i w i 8 w ne x 2 3 t4 b qa x i th 9 pi ne t4 8 fl x b D
+p565_L08	9 pi ne 7 b 8 h i 9 x 8 6 h t4 b ne w S fl x i ne w S D fl i di 7 ne q w dl 7 L x w b pi S
+p565_L09	i w P x i S o i w dl x oc x n t4 hash w x b pi b {my} th dl fl dl D pi dl 8 fl b w b i w dl
+p565_L10	oo o D w dl x dl 2 3 w S q pi q w x b 7 w S D pi 9 fl qq w t4 x 8 n dl w i dl D w dl D i fl dl
+p565_L11	9 fl o D w dl i b T 7 x t4 dl D t4 L w 8 2 t4 P b w S n w b pi 3 w box 7 dl D {saturne}
+p565_L12	7 ne ne b w S P fl dl S w {my} 7 box w dl 9 9 x {Juno} S x b 8 pi {my} ne x 2 7 b w
+p565_L13	S 8 b i di 9 pi P x i S ne w P t4 b D w 3 pi dl D 9 w ne t4 b 8 h i 9 x 8 3 t4 D h i t4 n
+p565_L14	o i w dl qa x fl dl t4 hash w x b pi {plus} ne w S x n 9 i D {manut} P w x D 9 w S i 7
+p565_L15	7 x fl i b pi x {ainsi} {quon} {m’a} {dit} t4 x i th 9 x 9 i D S w dl L dl pi x b VM fl 2 S fl dl
+p565_L16	3 t4 i S D b w 9 pi 8 w {my} 9 fl i D di b t4 i D w b {sec} {Vous}

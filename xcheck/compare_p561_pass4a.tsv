@@ -1,0 +1,20 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+561.01	p561_L01	40	40	40	
+561.02	p561_L02	38	38	38	
+561.03	p561_L03	40	40	38	replace:m>f replace:?>gn
+561.04	p561_L04	36	37	34	insert:>f replace:m>f replace:a>o
+561.05	p561_L05	35	35	34	replace:s>y
+561.06	p561_L06	41	41	41	
+561.07	p561_L07	41	41	40	replace:l>ff
+561.08	p561_L08	39	39	39	
+561.09	p561_L09	42	42	41	replace:pp>g
+561.10	p561_L10	41	42	39	replace:l>ff replace:l>ff insert:>#
+561.11	p561_L11	40	40	39	replace:p>o
+561.12	p561_L12	42	42	42	
+561.13	p561_L13	34	36	34	insert:># insert:>f
+561.14	p561_L14	38	38	38	
+561.15	p561_L15	39	39	38	replace:p>f
+561.16	p561_L16	38	38	37	replace:n>i
+561.17	p561_L17	40	40	40	
+561.18	p561_L18	37	37	34	replace:a>q replace:r>m replace:o>mm
+561.19	p561_L19	35	36	35	insert:>#

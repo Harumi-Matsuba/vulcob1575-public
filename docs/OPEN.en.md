@@ -13,6 +13,7 @@
 | stem with an upper-right loop and lower-left bowl | r (context) | p.563 l.1, l.6, l.10; p.565 l.15 ("recevoir", "resolution", "attirer") | written "?"; value inferred from context only |
 | three-bar stem with a top-right hook | e (context) | p.563 l.5 ("asseurement") | written "?"; one instance |
 | cross in a cup | ? | p.562 l.3 and l.18 ("son fre?e") — looks like r in context, transcribed as VM? | unresolved |
+| cross standing on a box (`dq`) | mm | p.562 l.8, p.563 l.7 "comme"; p.285 | Tomokiyo's mm. Two signs written "gn" in the second adjudication renamed dq (marked "?") |
 
 ## 2. Shape pairs that the two transcribers and the image adjudication could not separate
 - 3 (m) vs ʒ (r): image-based changes to z gave non-words on p.525 (serblable, directerent, tellerent); kept 3 and marked "?" where the adjudicator could not decide.
@@ -40,6 +41,7 @@ These are listed per position in `xcheck/adjudication_img_<page>.tsv` (decision 
 | fec, sec, sanc, estre, toe, vib, roc, roe, ar, puis, x | nulls (the reading never needs them) | absent from the margin decipherments where checked (p.33, p.258) | probable |
 
 ## 4. Passages not read
+- p.570 (one line, 22 symbols): shuffled keys sometimes score as well as the real key (4/1,000; 8/1,000 with table symbols only). No reading is given (the key output looks like "…roit peu ou point de proffit", but one line cannot confirm it).
 - p.539 l.2–3: "[my3θ] sont n'avoient charge" and "nonobstant que est · [saturnus] [sanc]" — syntax unclear around the code words.
 - p.561 l.1–4 and l.18–19, p.562 l.25–26, p.565 l.9 and l.15–16: partly unreadable or code words.
 - p.526 l.9–10, l.13–14: syntax unclear.
