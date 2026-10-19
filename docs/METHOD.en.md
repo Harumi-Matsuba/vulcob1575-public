@@ -60,11 +60,19 @@ p.570 (one line) does not reach 0/1,000; its reading is not given (READING, OPEN
 | p.285 | 148 | 125 (84.5%) |
 | **both** | 560 | **458 (81.8%)** |
 
+With the reference margin replaced by the word-level majority of five independent readings (Codex 3 runs — one of them the reading used in the adjudication above — and two Claude Sonnet 5.5 readers; none saw the cipher, the decode or the other readings; `calib/readers/`, `src/mvote.py`, `calib/p258_margin_vote.txt`, `calib/p285_margin_vote.txt`). The method and tie rule were fixed before the result was seen; decode and scoring unchanged:
+
+| page | letters scored | agree |
+|---|---|---|
+| p.258 | 398 | 341 (85.7%) |
+| p.285 | 148 | 128 (86.5%) |
+| **both** | 546 | **469 (85.9%)** |
+
 Against the other margin readings the p.258 decode gives 82.1% (Sonnet) and 85.8% (Codex); the reference itself is uncertain, and the p.285 margin is faint (13 of 18 lines keep uncertain words). Many letters are not scored, mostly where the margin spells out what the cipher gives as a plain-letter code word. For the record: Codex pass 1 alone, decoded, against the margin of p.33 (read by Claude Opus 5.5): 85.5% (234 letters).
 
 **Share of symbols with a value** (final transcription, nine pages): of 4,672 symbols and plain-letter groups, 4,552 (97.4%) have a value, 18 (0.4%) are unreadable, 102 (2.2%) are plain-letter groups (code words or nulls), most without a known meaning.
 
-**Status: partial reading.** On the seven read pages (p.525–526, 539, 561–565): control 0/1,000 on every page; lowest independent agreement 88.8% (p.565), 95.2% over the seven pages; calibration 81.8% (two pages). Not called a full reading because the calibration is below 85% and most code words are unexplained. p.570 (one line) is left unread.
+**Status: full reading (of the seven read pages; p.570 excluded).** On the seven read pages (p.525–526, 539, 561–565): control 0/1,000 on every page; lowest independent agreement 88.8% (p.565), 95.2% over the seven pages; 97.4% of symbols have a value; calibration 85.9% on two pages (against the five-reader majority margin; 81.8% against a single adjudicated margin reading). Most code words are unexplained (OPEN section 3). p.570 (one line) is left unread.
 
 ## AI use (COPE disclosure)
 - Claude Opus 5.5 (Anthropic): prior-work search, key table, first transcription of p.33 and p.539, coordination, decoding, word division, the 15 context reversions and 2 sign renamings, documents.

@@ -68,3 +68,18 @@ class TestCalibration(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TestCalibration(unittest.TestCase):
+    def test_majority_margin_calibration(self):
+        import re
+        tot = agree = 0
+        for pg in ('258', '285'):
+            out = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'calib.py'),
+                                  os.path.join(ROOT, 'calib', f'p{pg}_decode.tsv'),
+                                  os.path.join(ROOT, 'calib', f'p{pg}_margin_vote_text.txt')],
+                                 capture_output=True, text=True, cwd=ROOT).stdout
+            m = re.search(r'as is: scored letters (\d+), agree (\d+)', out)
+            tot += int(m.group(1)); agree += int(m.group(2))
+        self.assertEqual((agree, tot), (469, 546))
+
