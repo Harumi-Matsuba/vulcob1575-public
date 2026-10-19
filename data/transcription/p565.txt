@@ -2,7 +2,7 @@
 # Transcribed from tiles gallica/tiles/c398_f599_r{1..7}c{1,2}.jpg (re-cut at 2x from gallica/full/c398_f599.jpg). Symbol transcription only, not deciphered; 16 cipher lines (565.01 is only the tail of the plain opening line).
 # "?" alone = glyph with no key entry (stem + upper-right loop + lower-left bowl); token+"?" = uncertain reading. {nez?} = a short plain word (read "nez"/"mes"), {manua?} = plain word that recurs in 565.02 and 565.14. fl = the b-shaped glyph with a box/pointed foot (Nflat, n). qa = the "a with curled foot" glyph (read as q: marquiz, lesquelz, mesme qu'on). "S" is the open-arc + y sign.
 # clear (before the block): "21. decemb. 1577." / "Monseigneur, Vous aurez veu par ma decembre? du xxm.e? de ce moys"
-# v2: image adjudication against Codex pass1, 2026-10-20
+# Adjudicated by image against an independent Codex transcription (second/p565_pass1.txt), 2026-10-20
 565.01	8 4 fl w
 565.02	| {fec} | {saturnus} | D i w dl di w dl ne oc dl g x pi x b ne w P ne x S | {my} | P w x D | {mais?} | ne | {manua?}
 565.03	9 w S P 4 g dl pi dl w x oc n ne 7 dl D n i | plus | P b oc 3? P D w 3? pi dl D n w 9 pi 8 ne 7 b w b

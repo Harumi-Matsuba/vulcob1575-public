@@ -4,15 +4,15 @@
 
 フランス国立図書館 BnF の Cinq Cents de Colbert 398 には、皇帝の宮廷に駐在したフランスの大使 Jean de Vulcob（1575–76年）と Guillaume Ancel（1576–78年・1584年）の書簡が綴じられている。暗号の部分の多くは、当時の秘書が左の余白に解読を書き込んでいる。ここでは、それがない部分（p.525–526、p.539、p.561–563、p.565、p.570 の1行）を、友清理士氏が復元した「Vulcob and Ancel's Cipher (1575-1584)」の表で読んだ。
 
-- **状態：部分的な読み。** 暗号125行（記号4,377個）を通して読み、大半は語として読める（[docs/READING.md](docs/READING.md)）。符号語（暗号の中の平文の文字の語）の多くは意味が分からず、似た形の記号の組の一部は文脈で決めている（[docs/OPEN.md](docs/OPEN.md)）。
-- **先行との関係：** 鍵の表は友清理士氏の復元で、同氏は、この鍵で未解読の書簡が読めると書いている（[Cryptiana, French Ciphers for German (and Eastern) Affairs](https://cryptiana.web.fc2.com/code/frencheastern.htm)）。読みは載せていない。George Lasry 氏は、1573年の Vulcob 宛の書簡（BnF fr.3318）を解いたとき、この巻の鍵を比べている（[Cryptiana GL.htm](https://cryptiana.web.fc2.com/code/GL.htm)）。調べた範囲では、これらの頁の読みの公開は見当たらない（[SOURCES.md](SOURCES.md)、2026-10-20）。ただし、別のセッションによる否定のための先行調べ（docs/PRIOR_CHECK.md）はまだで、「初めて」とは書かない。2024年の学会で Damien Fontvieille 氏が Vulcob の暗号書簡について発表しているが、中身は確かめられていない。
+- **状態：部分的な読み。** 暗号125行（記号4,377個）を通して読み、大半は語として読める（対照 0/1,000、独立の2回目の頁ごとの最低 73.1〜91.7%、較正 80.8%）（[docs/READING.md](docs/READING.md)）。符号語（暗号の中の平文の文字の語）の多くは意味が分からず、似た形の記号の組の一部は文脈で決めている（[docs/OPEN.md](docs/OPEN.md)）。
+- **先行との関係：** 鍵の表は友清理士氏の復元で、同氏は、この鍵で未解読の書簡が読めると書いている（[Cryptiana, French Ciphers for German (and Eastern) Affairs](https://cryptiana.web.fc2.com/code/frencheastern.htm)）。読みは載せていない。George Lasry 氏は、1573年の Vulcob 宛の書簡（BnF fr.3318）を解いたとき、この巻の鍵を比べている（[Cryptiana GL.htm](https://cryptiana.web.fc2.com/code/GL.htm)）。Damien Fontvieille 氏の2024年の発表は Vulcob の1570年代の暗号通信を、行間にある当時の解読をもとに扱ったもので、ここで読んだ Ancel の1577年の部分とは重ならない（学会報告による）。解読に加わっていない別の読み手が、すでに読まれていると示すつもりで探したが、2026-10-20 の時点で、調べた先にこれらの暗号部分の解読は見当たらない（[docs/PRIOR_CHECK.md](docs/PRIOR_CHECK.md)）。確かめられなかった先が残るので、「初めて」とは書かない。
 - **人は書き起こしを確かめていません。** 書き起こし・照合・読みは AI（Claude と OpenAI Codex）によるもので、写本と照らして人が確かめてはいません。AI どうしの一致は、人による確認の代わりにはなりません。
 - **数字**（出どころは [docs/METHOD.md](docs/METHOD.md)）：
-  - 独立の2回目：書き起こしを決めた後、OpenAI Codex に新しい文脈で、画像と記号名の一覧だけから読ませた。値で比べて 4,017/4,637＝86.6%（頁ごとに 73.1〜93.8%、名前どおりなら 85.7%）。同じ Codex が同じ画像を2回読んだときの一致は 90.9%。
+  - 独立の2回目：書き起こしを決めた後、OpenAI Codex に、それを見せずに、新しい文脈で4回読ませた（行画像と記号名の一覧だけ）。値で比べた一致は、回ごとに全体 86.6%・94.9%・94.5%・94.7%。頁ごとの最低は 73.1%（p.570、1行）〜91.7%（p.565）。最も低い回で、p.526 84.6%、p.561 81.5%、p.570 73.1%。
   - 対照：鍵の値をかき混ぜた鍵1,000通りで、本物以上は全頁で0回。
-  - 較正：当時の解読がある2頁（p.33、p.258）を、Codex が余白を見ずに読んだ書き起こしに鍵を当てると、余白の当時の解読と、比べられた文字の 85.5%（234字）と 82.0%（389字）が一致。符号語の位置などの長い食い違いは数えていない。
+  - 較正：余白に当時の解読がある p.258 を、余白を見せずに同じ手順で読み、余白と文字で比べて 80.8%（412字。符号語の位置などの長い食い違いは数えない）。
   - 値の付いた記号 97.5%、読めない記号 0.4%、平文の文字の語 2.1%。
-- **AI の使用：** 先行の調査・鍵の表・書き起こし・解読・スクリプト・文書は Anthropic の Claude（Claude Code。主に Claude Opus 5.5、書き起こしと画像での裁定の一部は Claude Sonnet 5.5）。照合用と独立の2回目の書き起こしは OpenAI の Codex（codex-cli 0.163.0-alpha.10.2、既定のモデル）。対象の選定、作業の指示、公開の判断は人。
+- **AI の使用：** 先行の調査・鍵の表・書き起こし・解読・スクリプト・文書は Anthropic の Claude（Claude Opus 5.5 と Claude Sonnet 5.5）。照合用と独立の2回目の書き起こしは OpenAI の Codex（codex-cli 0.163.0-alpha.10.2、既定のモデル）。対象の選定、作業の指示、公開の判断は人。
 
 ## 内容（要約。推定を含む）
 - **1577年10月22日（p.523–526）：** 大公マティアスがネーデルラントへ向かった件。ネーデルラントの諸身分の使者 Malstet は、マティアスを総督としてでなく領主として皇帝に求めていた。暗号の部分は、皇帝（符号 saturnus）がこの件への関与を否定するだろうという見立てと、その理由：若い大公は兄である皇帝の許しなしに部屋から一歩も出られず、夜は閉ざされる城を抜け出せたはずがない、ほかに頼れる者もいない、と。
@@ -23,8 +23,8 @@
 ## この読みで加えたこと
 1. 当時の解読がない部分を特定した（友清氏の挙げた頁を全部見た。[docs/METHOD.md](docs/METHOD.md)）。
 2. その部分の記号を、行ごとに記号名で書き起こした（`data/transcription/`）。
-3. 鍵に足したもの：uu、ff、nn の形の確かめ、平らな L 形＝g、単独の c＝空字など（[docs/OPEN.md](docs/OPEN.md) §1）。
-4. 読み、対照、較正、別の AI による独立の2回目。
+3. 鍵に足したもの：uu、ff、nn の形の確かめ、平らな L 形＝g、単独の c＝空字など（[docs/OPEN.md](docs/OPEN.md) の1節）。
+4. 読み、対照、較正（p.258）、別の AI による独立の2回目（4回）。
 
 ## 構成
 | 場所 | 中身 |
@@ -32,13 +32,14 @@
 | docs/READING.md | 行ごとの鍵の出力と読み（英語版 READING.en.md） |
 | docs/METHOD.md | 方法・数字・AI の使用・限界 |
 | docs/OPEN.md | 未解決の点（記号・符号語・読めない所） |
+| docs/PRIOR_CHECK.md | 先行の反証調査 |
 | data/key.tsv | 鍵の表（友清氏の表を記号名で書いたもの） |
 | data/transcription/ | 最終の書き起こし（`<頁>.txt`）と1回目（`<頁>_first.txt`） |
 | data/decoded/ | 鍵を当てた出力 |
-| second/ | Codex の書き起こし（pass1＝照合用、pass2＝独立の2回目）と、渡した指示 |
+| second/ | Codex の書き起こし（pass1＝照合用、pass2・pass3a–c＝独立の2回目）と、渡した指示 |
 | xcheck/ | 画像での裁定の記録、独立の2回目との比較、対照の表 |
-| calib/ | 較正（余白の書き起こし、Codex の読みに鍵を当てた出力） |
-| src/ | 鍵の適用・対照（vk.py）、比較（xcompare.py）、較正（calib.py）、行の切り出し（lines.py, tiles.py） |
+| calib/ | 較正（p.258 の書き起こしと余白の読み、鍵の出力） |
+| src/ | 鍵の適用・対照（vk.py）、比較（xcompare.py, namecompare.py, vote.py）、較正（calib.py）、行の切り出し（lines.py, tiles.py） |
 | tests/ | `python3 -m unittest discover -s tests` |
 
 画像はこのリポジトリに入れていない。資料は SOURCES.md の参照コードと Gallica のコマ番号で示す。

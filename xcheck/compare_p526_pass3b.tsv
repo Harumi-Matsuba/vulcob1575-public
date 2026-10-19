@@ -1,0 +1,17 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+526.01	p526_L01	33	32	29	replace:c>a replace:c>a replace:n>i delete:u>
+526.02	p526_L02	34	33	26	replace:r>b replace:c>#a replace:c>a replace:c>a replace:t>n replace:rst>b
+526.03	p526_L03	34	33	31	replace:c>a replace:c>a delete:l>
+526.04	p526_L04	34	33	30	replace:c>a replace:r>#i delete:et>
+526.05	p526_L05	34	32	29	insert:>un delete:nc> replace:c>a delete:un>
+526.06	p526_L06	32	32	28	replace:f>m replace:o>? replace:c>a insert:># delete:u>
+526.07	p526_L07	34	33	29	replace:c>a replace:u>cc replace:a>u replace:a>u delete:d>
+526.08	p526_L08	33	32	28	replace:a>u replace:c>n replace:c>a replace:ce>a
+526.09	p526_L09	34	34	31	replace:c>a replace:c>a replace:n>i
+526.10	p526_L10	33	33	29	replace:a>o replace:t>? replace:q>u replace:#>m
+526.11	p526_L11	31	31	30	replace:f>m
+526.12	p526_L12	37	34	33	replace:c>a delete:zh?>
+526.13	p526_L13	33	33	29	replace:c>sa replace:r>i replace:e>n delete:s>
+526.14	p526_L14	37	36	33	insert:># replace:e>rr replace:d>l delete:me>
+526.15	p526_L15	34	33	30	replace:c>a replace:c>a replace:c>a delete:e>
+526.16	p526_L16	27	26	23	replace:tt>nn replace:a>u replace:c>a delete:#>

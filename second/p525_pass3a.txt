@@ -1,0 +1,25 @@
+p525_L01	oc x b S {Monseigneur} i ne S lz x - 4 i S w 7 8 oc qq i S D b w 9 pi {plus} ne
+p525_L02	q w p 7 8 oc dl ne w 9 i D S al i L i w x b {sec} {saturnus} 9 w S i b w qa x oc dl i dl D w b
+p525_L03	P b w D pi S oc dl i dl D w i D i oo di S lz 7 dl D x b 7 2 S w 3 o ne 7 o q pi {pur} {my}
+p525_L04	i w x oc x 9 b 7 4 x oc x w b 9 i b pi 8 D w 3 pi dl D 8 w p 7 i D 9 w x 7 dl D {sune}
+p525_L05	{Juno} 7 i dl S P ne x S D oc S D n w dl pi {c} 8 x S w b {c} ne x 2 P w b S x 7 9 w b
+p525_L06	S i ne P w x D 9 pi dl 2 7 x oc i b i 7 3 4 i S {puis} P w dl S pi 3 4 i S 8 oc dl S i
+p525_L07	9 pi b w ne 7 dl 7 D x b w 9 oc x 8 w 9 x i pi x dl w P b i dl 8 w {c} ne 7 dl oc x {au} i D x
+p525_L08	b w 9 i 8 w ne x 2 qa x i 7 D oc x S i oc x b S pi S D w pi dl 8 b 7 i dl D w {c} b w x pi
+p525_L09	p pi dl 8 w D pi ne q w 3 pi dl D {plus} 7 P w i dl w P oc m oc i D i ne p 7 i b w x dl P 7 S
+p525_L10	h oc b S 9 pi S 7 8 h 7 3 o b w S 7 dl S ne w 8 oc dl L w 9 i 8 w ne x 2 S w i L dl pi
+p525_L11	x b {saturnus} n oc dl p b w b pi D 7 dl di S w dl p 7 x D qa x 7 x dl w D pi ne q pi
+p525_L12	h w x b pi i ne w x S D P pi x S oc b D i b 9 x 8 h 7 S D w p x qa x i p w b 3 pi
+p525_L13	D oc x di pi ne 7 dl x i D P 7 b w i ne q pi 3 w dl D dl 7 2 4 dl D oc dl 8 {plus} n w x 7 x 8 x dl
+p525_L14	P w b S oc qq 7 L w 7 x P b w S 9 pi ne x 2 9 x {plus} ne i ne w x S D {estre} {mi} {me}
+p525_L15	9 pi 8 oc dl p i 7 dl 8 w {plus} 9 w P b pi dl 9 b pi x dl pi S w 3 o ne 7 o ne pi b w S oc ne x
+p525_L16	D i oc dl 7 x 9 pi hash w x 9 pi S 7 3 4 L w S D pi i 3 P w b i 7 ne w 7 x w 8 ne 7
+p525_L17	qa x pi ne q w 7 x 8 oc dl D b 7 i b w i ne S lz 8 w b D 7 i dl {my} 7 P ne x S 8 oc gn x
+p525_L18	dl i qa x w 9 pi P x i S P w x 9 w i oc x b S {my} dl 7 x oc i D 9 pi 8 oc x S D n 3 w
+p525_L19	7 box w dl 9 x 4 ?{two joined triangles} hash i {plus} ne w S i pi x b 9 w 3 7 ne S D w di S 8 oc gn pi
+p525_L20	9 w P x i S i ne S lz x pi b i p i pi ne 7 x oc i D 9 pi 3 7 dl 9 w 7 x 3 w S 3 pi
+p525_L21	{saturnus} dl oc di {ros} L oc m w b dl pi x b 7 i dl S i qa x 7 x 8 x dl S 9 i S oc i w D
+p525_L22	3 7 i S pi dl D i w b pi 3 w dl D {ros} S w i L dl pi x b 9 pi S 9 i D th P 7 2 S o 7 S {c} w dl
+p525_L23	D b 7 i di oc i D 7 x w 8 S 7 3 7 L w S D pi i 9 P w b i 7 ne pi dl oc dl 7 x w 8 ne pi
+p525_L24	9 i D S w {ucl} L dl w x b 7 b 8 h i 9 x 8 {sec} {pur} i w dl pi x oc 2 i 8 2 P w b S oc qq w
+p525_L25	qa x i 3 oc dl S D b pi 9 pi 9 oc x D w b pi dl S 7 8 oc dl S 8 i w dl 8 pi {plus} ?{filled downward triangle} w ne q pi

@@ -1,2 +1,2 @@
-# p.33 (f59) left-margin contemporary decipherment, read by the main session (Claude Opus) from gallica/p033_f59_margin_y55/y67.jpg; ends at "cho[ses]" (lower margin not legible in the crops)
+# p.33 (f59) left-margin contemporary decipherment, read by Claude Opus 5.5 from the page image (Gallica f59, left margin); ends at "cho[ses]" (lower margin not legible in the crops)
 Jay sceu pour certain que l'Electeur de Saxe devant l'election y a fait mettre en avant quelque chose sur le fait de la Religion pour faire quelque decret au prejudice de l'Electeur palatin. Mais quelques uns des Electeurs ne l'ont trouvé bon et entre autres celuy de Cologne dict resoluement que si on vouloit parler de ces cho[ses] ...

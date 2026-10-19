@@ -1,0 +1,16 @@
+p526_L01	4 h oc S pi dl 7 2 w pi n D pi {ucl} P w dl S ne 9 i 4 w ne x 2 S w i L dl pi
+p526_L02	9 pi ne i o pi b ne {c} 4 oc dl 4 q x w pi dl S oc dl 4 oc dl S w i ne dl oc fl oo o
+p526_L03	D oc x di w S ne w S 7 x D b w S 4 oc dl i w 4 D x b pi S qa x oc dl x w i
+p526_L04	7 3 pi dl w b 7 ne w dl 4 oc dl D b w {c} i i w dl {plus} P ne x S i w x b S P b
+p526_L05	dl D {my} dl 7 2 w pi x oc M 7 S i oc dl 9 7 x up dl 4 w b pi dl D w ne 4 7 S
+p526_L06	phi b pi b w {ucl} 9 pi S P oc x i ne w b S oc dl ?{filled 4-like sign} dl 4 ne w {c} S w S dl pi x w
+p526_L07	4 w {plus} i ne ne pi x b 7 M 7 b D i w dl D 9 7 x up dl D up L w i pi dl D w dl
+p526_L08	ne i pi x qa x oc dl 7 w x up hash w th 9 pi P w dl dl w 7 i dl 4 i D w b {ucl} 4
+p526_L09	ne w 9 i D S w i L dl pi x b 7 b 4 h i 9 x 4 ne w {plus} q 7 x D b pi 3 w i D
+p526_L10	D b oc P L b 7 dl 9 pi x oc ne oc ?{filled diamond with stem} D w ne oc dl 7 9 i oc x S D w 7 x hash i phi
+p526_L11	9 i D S w i L dl w x b {saturnus} pi x S D 9 pi S i b w ne w phi 7 i b w 7 {au}
+p526_L12	i ne w x S D P w x 9 pi P w S 4 h w b ne pi S S x S 9 i D th L w dl D i ne
+p526_L13	P ne x S 3 7 D i dl S 4 oc dq pi i ne w dl pi x D i i w dl ne dl D pi 3 S ne pi
+p526_L14	dl pi P 7 b D i b w dl D qa x w dl x i b oc dl ne w 3 i 9 2 {c} S at 3 o ne 7 o q pi
+p526_L15	w dl 9 oc dl S oc x n P pi 4 oc dl - S x b 4 pi {my} w S 4 b i x i D di oc x D
+p526_L16	ne pi S q w qq b pi S {my} w dl x oc 2 7 up x S P b i dl 4 w S

@@ -1,0 +1,37 @@
+line	position_context	first	second	decision	reason
+258.01	4? after {plus} (before '| dl x')	4?	absent	ambiguous	glyph reads as a 4-like tick fused to the s of 'plus' next to a fold line; cannot tell symbol from stroke
+258.01	3rd symbol of word 'dl x dl' (after x)	dl	i	second	head is a straight up-left blob-topped ascender with no arch to the right, same form as agreed i in 10 (o i w); moderate confidence, tall ascender
+258.01	symbol after 'S 4'	i	dl	second	tall ascender arching over to the right, plainly the delta form
+258.01	after 'S oc' (S oc dl p i ne th)	dl	i	ambiguous	ascender runs off the top edge of the line image so arch cannot be judged; kept first + ?
+258.01	line end 'S qa?'	qa	n	ambiguous	glyph cut by the page edge (flat-topped a-like fragment); qa/al-type, kept first
+258.02	first symbol	oc?	f	first	cross with loop/triangle hanging below the bar, i.e. oc; no p/ffx loop or crossbar on a stem
+258.03	'L b 4 dl 9 pi'	dl	i	first	ascender arches over to the right, tall delta
+258.03	line end '... pi ?'	?	absent	ambiguous	last glyph(s) truncated at margin; kept first
+258.05	line end S	S	absent	first	large left arc with inner sign visible at the edge
+258.06	'ne q pi'	q (9/l)	d (9)	first	stem straight and long, about 2.5 times loop height
+258.07	3/z in 'w 3/z i pi'	3/z	m	ambiguous	look-alike pair 3/z, rule: not decided on shape; kept first + ?
+258.08	3rd symbol of 'qa x dl'	dl	i	second	same straight blob-headed ascender as 01 pos 3, no arch; moderate confidence
+258.08	'6 {ce}'	6	null/#	ambiguous	6-like glyph fused with script 'ce'; may be part of a plain word; kept first + ?
+258.08	'b pi | pi P' (after enco-re)	two pi	one e	second	only one pi lies between beta and the P (checked at 4x); extra pi removed
+258.08	'pi P 9/q x'	9/q	q (l)	second	heavy straight descender much longer than loop
+258.09	3/z in 'ne w 3/z P pi'	3/z	m	ambiguous	look-alike pair 3/z; kept first + ?
+258.10	symbol after 7 in 'S 4 8 h 7 i D'	i	dl	second	tall hooked arch over to the right, delta form (contrast the short i after o on the same line)
+258.10	'D w ne q pi'	q (l)	d	first	long straight descender
+258.11	line end '| 9?'	9?	absent	ambiguous	only a sliver of a stem at the page edge; kept first
+258.12	line end 'w? 9 pi?'	w? 9 pi?	absent	ambiguous	w? is a faint small curl; 9 and pi partly visible at the fold; kept first as marked
+258.13	'x w dl i b'	dl	i	first	tall arched delta followed by short i (checked at 5x)
+258.13	'S oc dl' (after 4 b 4 i)	oc	f	first	cross with triangle below the bar, i.e. oc
+258.14	'dl {ee}' near line end	dl	i	ambiguous	glyph is neither an arched delta nor clearly i; may be the d of script 'dee'; kept first + ?
+258.15	line start (before 'b pi S')	(none)	g	ambiguous	only a dark flat dash at the left edge, possible foot of a cut L/g; kept first
+258.15	'4 x D T dl D'	T	a	second	flat top with diagonal stroke, a 7; T would have a centred stem
+258.16	'2 oc Ldot? z' (second read 'o s')	Ldot? z	o s	first	lambda with blob foot then z-like zigzag; no oc/S shape
+258.17	'pi i 6 g'	i	dl	second	tall arched delta
+258.17	'6 g'	g	d	first	stem with bar at left top and curl above, not a centred T
+258.17	3/z at line end	3/z	m	ambiguous	look-alike pair 3/z; kept first + ?
+258.18	'phi? g | dl' (second reads one d)	g, dl	d	first	gamma-like g with left-set top bar then a faint but arched delta; both present
+258.19	5th symbol 'dl ? i i'	i	dl	second	last glyph tall arched delta, previous glyph short i
+258.19	'ne q pi x b'	q (l)	d	first	long straight descender
+258.19	'c | p | {plus}'	p	null	second	only one p, which is the initial of the script word 'plus'; separate p deleted
+258.20	line end S	S	absent	first	arc with inner sign visible at the edge
+258.21	'S w P b i dl 8 w'	S w P	S P	second	no omega between the S and the P (checked at 5x)
+258.21	'S i ne {mea}'	S i	S n i	second	a separate arch (n) stands between S and i

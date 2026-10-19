@@ -1,0 +1,26 @@
+p562_L01	ne w S D i w dl D pi dl ne oc dl x w x b ne pi P ne x S {plus} ne q pi P w x D
+p562_L02	D b pi P 4 b D i 8 w ne x 2 o oo b L i 4 7 9 i D {plus} i ne w 3 P pi b
+p562_L03	x D S oc x S D w dl i b S oc dl 4 b pi VM pi i ne q x 2 S w b 4 o w S oc i dl q pi
+p562_L04	p 4 i b w 4 o oo dl pi S 8 i w dl D 9 4 x D 7 dl D {plus} ne w b oc 2 8 4 D h
+p562_L05	p w b 7 D oc x D w S ne pi S P b oc x i S i oc dl S P oc hash i o ne w S {ros}
+p562_L06	x pi b {c} 3 4 i dl D w dl i fl S oc dl 9 b oc i D P 4 b 8 w ne 7 {Monseigneur}
+p562_L07	x oc x S P oc m w th i x lz pi b pi dl qa x w ne th D w b 3 pi S n w D b oc
+p562_L08	9 i D S w i lz dl pi x b {Saturne} ne w qa x pi ne 8 oc gn pi 4 x 8 x dl S P b
+p562_L09	3 w dl D dl 4 x oc i D P oc hash i o ne pi w S D i 3 pi qa x i 8 w ne x 2 {Juno}
+p562_L10	P b w dl 9 b pi 8 w D 7 ffx 4 i b w P 4 b ne w o oc x D {my} S w 3 o ne pi
+p562_L11	dl 4 dl D x oc x ne oc i b 4 7 i b pi 4 i dl S P ne x S D oc S di pi S P w b oc
+p562_L12	x oc 2 7 dl D S oc dl P 4 2 th qa x 4 S i pi dl P b oc 2 w i ne S pi 8 oc dl D
+p562_L13	i D {plus} ne 4 b 8 h i 9 x 8 3 4 D h i 4 S 2 p x S D n oc dl lz oc m w b
+p562_L14	{c} dl w P pi x D oc dl w dl 8 fl b pi S 4 x oc i b 9 pi qa x w ne 8 oc S D w
+p562_L15	D oc x b dl w b 4 8 4 b i ne w dl D b pi D i pi dl D ne pi S w S P 4 L dl oc
+p562_L16	o w ne q pi S P 7 b oc ne q pi S {c} p 7 i D dl w 4 dl di 3 oc i dl S S pi 8 b
+p562_L17	P ne x S i w x b S P pi D i di pi S 8 h oc S pi S qa x i 9 w S 8 oc m
+p562_L18	o oc q w 4 q w 8 D i oc dl {my} 4 9 pi p 7 x oc b i S w b n oc dl p b w VM w 8
+p562_L19	S pi P b pi S w dl D w qa x pi ne {plus} oc ffx i 8 i w b qa x i ne w x pi
+p562_L20	7 ne q w b D b oc m w b i ne ?{V-shaped sign} lz i dl 8 fl dl D i dl 4 dl D b pi 3 x dl w b pi 9 w
+p562_L21	8 w S P 4 hash w th {c} oc dl ne x 2 p oc x b dl i D oc x D b pi 8 w ne 7 4 b lz
+p562_L22	S oc dl x oc 2 4 L w 8 pi qa x i ?{V-shaped sign} lz 4 9 x w dl x 4 P ne x S i w x b S
+p562_L23	4 x D b w S dl 4 L x w b pi S 7 x dl i di L w dl i w x b dl w 7 P oc ne i D 4
+p562_L24	{bien affectionné} 8 w S i oc x b S 8 2 P 4 b w i ne q pi 3 w dl D i ne 4
+p562_L25	8 h 4 dl D pi w dl ne 7 8 h 4 3 o b w 9 x 9 i D n w i L dl w x b {Saturne}
+p562_L26	S oc dl 4 x q w S 4 x 7 dl D 7 L w 9 pi S w n P 4 L dl oc ne th 9 pi ne 7 qa x

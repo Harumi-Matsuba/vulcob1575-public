@@ -1,0 +1,53 @@
+line	A	B	decision	reason
+m258_L01	du?	sil?	B	first glyph is 8/s-shaped, not d; three letters ending in z-tail
+m258_L02	de guerre	desquelles	A	"d.e guerr..." readable; B's word absent
+m258_L02	et	Je	other	image shows J + s-i-z-like glyphs: transcribed "J siz?" (unc)
+m258_L02	diuag?	doiz?	A	D/I-loop + iuag visible
+m258_L03	ces	les?	A (unc)	first glyph is a looped capital, not a tall l
+m258_L03	poinct pallier?	principaulx	A	p-o-i-n-c-t then pallia-; line cut at image edge
+m258_L04	Car	Cas?	other (unc)	last letter unclear (o-like with tail): Ca·?
+m258_L04	en	et	A	final glyph is the z-form seen in "en" elsewhere (L20, L25)
+m258_L05	l'Empereur	Lempereur	other	small l + E-form, no apostrophe visible: lEmpereur
+m258_L05	se	est	B (unc)	ligature ends in st-like stroke
+m258_L06	verroit	encore	B (unc)	ends in -ea with long tail, not -oit
+m258_L07	luy?	les	B (unc)	no descender (not y); l-u-l-e shape
+m258_L08	Innita?	autres?	other (unc)	I + minims + e/a: Inn·a?
+m258_L08	Loys	Lesd	other (unc)	L-o-y + d-like bowl-and-stem: Loyd?
+m258_L08	Elect?	lettres	A	E-l-e-c-t + hooked end
+m258_L09	duc	du	other (unc)	three letters d-u-r(c?): dur?
+m258_L09	Casimir	Cazimir	B	z-descender visible
+m258_L10	Princes?	Lempescheront?	A	big P then rinces; seroit se follows
+m258_L11	pouvoit	pouuoir	A	ends -oit; u written (pouuoit)
+m258_L11	par cam?-	Car ceulx?	other (unc)	ends with hyphen; P-a-r then c/g-a-m-: Par? cgam-?
+m258_L12	biz?	bien	other (unc)	b-e-i-z with z-tail; same word as L32
+m258_L12	telles	lella?	other (unc)	t-e-l-l-e + unclear end: telle·?
+m258_L13	entreprinse	entreprises	other (unc)	reads entreprin then separate long-s word
+m258_L13	sur	leur	other	no l-e before s; sur
+m258_L14	frais	bras	other	f-form, z ending: fraiz
+m258_L15	l'Empire	Lempire	B	capital L, no apostrophe
+m258_L16	l'argent	Largent	B	capital L, no apostrophe
+m258_L16	s'	sy	B	y-shaped end
+m258_L18	du	de	B (unc)	final word ends -e-like
+m258_L19	debueroit	deburoit	A	extra e-like letter between u and r
+m258_L20	bourse	bource	B (unc)	c-like rather than tall s
+m258_L21	raison	Raison	B	large R-form
+m258_L22	quil	que	other (unc)	gue + l-like final stroke: quel?
+m258_L23	sommer?	sonneront?	A	about six minims, short word
+m258_L23	pr	pour?	A	p with abbreviation stroke, kept unexpanded
+m258_L24	defens?	defense	A	ends in s-form with abbreviation dot
+m258_L25	Hongrie	Hongrye	other (unc)	y-form but first vowel looks u: Hungrye?
+m258_L26	d'autant	dautant	B	no apostrophe
+m258_L26	moindre	moindres	A	ends -re with flourish
+m258_L27	D'avantage	Dauantage	B	no apostrophe; u as written
+m258_L28	seroient	feroient	A (unc)	no crossbar
+m258_L29	quils	quilz	B	z-form ending
+m258_L30	a	celuy	B (unc)	c-like start
+m258_L31	Ca?	de	B (unc)	ink blot + vowel
+m258_L31	maiesté?	mayence	B	y visible, ends -ence
+m258_L31	de	se	B	tall s then e
+m258_L32	s'il	quil	A	gap after que; sil
+m258_L32	avoit	auroit	A	no r; auoit
+m258_L32	bien?	bien	other (unc)	beiz? as in L12
+m258_L33	vng?	ung	other	v-form initial: vng
+m258_L33	?lumeument?	Remuement	B (unc)	R-form with crossbar
+m258_L33	et	en	B	z-form same as other en

@@ -1,0 +1,8 @@
+p033_L01	v:# v:# v:i v:# v:# v:i v:a v:y v:s v:e v:u v:# v:# v:c v:e v:r v:t v:a v:i v:n v:# v:# v:p
+p033_L02	v:# v:# v:d v:e v:s v:a v:n v:t v:l v:e v:l v:e v:c v:t v:i v:o v:n v:y v:a v:f v:a v:i v:t v:m v:e v:tt v:r v:e v:e v:n v:a v:u v:a v:n v:t
+p033_L03	v:u v:e v:l v:q v:u v:e v:c v:h v:o v:s v:e v:s v:u v:r v:l v:e v:f v:a v:i v:t v:d v:e v:l v:a v:r v:e v:l v:i v:g v:q v:o v:n v:#
+p033_L04	v:a v:i v:r v:e v:# v:l v:# v:d v:e v:c v:m v:e v:t v:a v:u v:p v:r v:e v:i v:u v:d v:i v:c v:e v:d v:e v:# v:#
+p033_L05	v:a v:i v:d v:q v:u v:e v:l v:? v:s v:s v:u v:n v:s v:d v:e v:s v:e v:l v:e v:c v:t v:e v:u v:r v:s v:n v:e v:l v:o v:g v:t v:t v:r v:o v:uu v:e
+p033_L06	v:u v:o v:n v:# v:e v:n v:t v:r v:# v:a v:u v:t v:r v:e v:s v:c v:e v:l v:u v:y v:d v:e v:c v:o v:l v:o v:g v:n v:e v:d v:i v:s v:t v:r v:e v:s v:o
+p033_L07	v:u v:e v:m v:e v:n v:t v:# v:s v:i v:o v:n v:u v:o v:u v:l v:o v:i v:t v:o v:a v:r v:l v:e v:r v:d v:e v:c v:e v:s v:c v:h v:o v:s v:e v:s
+p033_L08	v:a v:i v:l v:s v:e v:n v:i v:r v:o v:i v:t v:d v:e v:s v:o v:r v:t v:e v:# v:c v:e v:l v:a v:n v:# v:p v:a v:ss v:e v:o v:u v:t v:r v:e

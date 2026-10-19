@@ -1,0 +1,15 @@
+p563_L01	ne w i D S w i L dl pi x b {saturne} 3 oc dl S D b 7 VM w 8 pi D oc i b x dl S i dl L D ne i w
+p563_L02	b P ne 7 i S i b {c} D oc S o 4 P b w S ne pi dl x oc x 4 7 oc 4 b 8 h i x 8 w b dl pi S D w
+p563_L03	{sec} ne x 2 phi 7 i b w 7 x oc i b P 4 b D 9 x P 4 hash w D pi 3 S {le} {Sole} {roy}
+p563_L04	8 w S 3 pi dl x pi S P 4 b D i 8 x ne 7 b i D w th {Monseigneur} 4 box w dl S oc D {plus}
+p563_L05	i w S 4 8 h w 4 hash w D b ne 3 pi dl D qa x pi ne q w S pi b 7 ne 4 9 w b dl i w b pi
+p563_L06	VM pi S oc ne x D i oc dl 9 x 9 i D S w i L dl w x b {saturne} ne w qa x pi ne 7 ne 4 x w b i
+p563_L07	D w S 8 oc gn w i x L w dl D P ne x S i w x b S n 4 L w S P w b S oc q 7 L w S dl 4
+p563_L08	7 x 8 x fl w 3 pi dl D o w S oc i dl 9 pi 3 4 m 4 i S w i dl D w ne q i L w dl 8 pi {c} 3 oc i dl
+p563_L09	9 pi L x w {au} pi 7 x w 8 ne w 9 i D S pi i L dl w x b {Juno} dl pi S D 7 dl D di b oc P
+p563_L10	o i w dl P oc x b x w x 9 w oc i dl oc dl 8 pi S {c} w S D 7 dl D 9 i 4 i 8 mu ne w 9 4 box i b o VM
+p563_L11	ne w S pi S D 7 di fl 9 pi ne w 3 P i b pi 7 {plus} ne {peu} S w 8 oc x b S pi {c} D b 4
+p563_L12	oc b 9 i dl 4 i b w x pi x 3 w S phi w qa x oc dl di w P w x D o oo D w dl i b 9 w x S ne w x
+p563_L13	b S D 7 {c} pi S oc b 9 i dl 4 i b pi S n i 8 w dl {ucl} P oc hash i o ne w ne pi S w ne pi 8
+p563_L14	D w x b S 9 w S 4 {c} w {c} o b 4 dl 9 pi oc x b L ne w S qa x pi ne th D oc x D w S oc oc i S
+p563_L15	dl w S pi x oc x 9 b oc dl D 9 w o pi 4 x 8 oc x P 4 q oc i o ne i b

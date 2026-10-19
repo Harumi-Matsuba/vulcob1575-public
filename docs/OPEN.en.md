@@ -4,12 +4,12 @@
 | symbol (token) | value used | evidence | status |
 |---|---|---|---|
 | m-shaped double sign (`m`) | uu / uv | p.33 "trouué" = margin "trouvé" | confirmed by contemporary decipherment (1 instance) |
-| ʒ-like curl (`z`) | r | p.33 "decret" | 1 clear instance; elsewhere 3 (m) and ʒ (r) are not separable by shape (see 2) |
+| ʒ-like curl (`z`) | r | p.33 "decret" | 1 clear instance; elsewhere 3 (m) and ʒ (r) are not separable by shape (see section 2) |
 | lone plain small c (`c`) | null | p.33 l.6, p.539 l.4, p.526 | inferred: never needed by the reading |
 | flat L-like sign (`L`) | g | seigneur, Borgia, gendarmerie, magesté (p.561); also p.526 | inferred from 6+ words; not in Tomokiyo's table as drawn |
 | q with crossbar (`ffx`) | ff | affaire, affection, officier (p.562), difficile (p.563), affoiblir (p.563) | Tomokiyo has "ff?"; confirmed by context |
 | box-like q (`qq`) | nn | personnage, bonne, ordonné, connoistre | Tomokiyo's nn; confirmed by context |
-| 4 with an extra bar (`gn` / `{gn?}`) | gn? | one instance on p.525 l.1 (first pass); the adjudicated transcription reads qq (nn) there: "connoistre" | resolved as qq in v2; no independent gn instance |
+| 4 with an extra bar (`gn` / `{gn?}`) | gn? | one instance on p.525 l.1 (first pass); the adjudicated transcription reads qq (nn) there: "connoistre" | resolved as qq in the adjudicated transcription; no independent gn instance |
 | stem with an upper-right loop and lower-left bowl | r (context) | p.563 l.1, l.6, l.10; p.565 l.15 ("recevoir", "resolution", "attirer") | written "?"; value inferred from context only |
 | three-bar stem with a top-right hook | e (context) | p.563 l.5 ("asseurement") | written "?"; one instance |
 | cross in a cup | ? | p.562 l.3 and l.18 ("son fre?e") — looks like r in context, transcribed as VM? | unresolved |
@@ -36,7 +36,7 @@ These are listed per position in `xcheck/adjudication_img_<page>.tsv` (decision 
 | nelluy benitow (p.258) | probably l'Electeur palatin et duc Casimir | p.258 margin "Loys Elect. Palatin et duc Casimir" beside these groups | probable (calibration page) |
 | manua, manue | a person (Spanish side?) | p.561 "[manue] a dit", p.565 "le susdit [manua]" | open |
 | mitte, mime (p.258) | "les autres Electeurs", "du pis qu'ils" ? | p.258 margin at the same places | open |
-| mare, nez/mez, totum, bel, mim | ? | deciphered letters p.439–501 (low-confidence alignments by an AI sub-agent; not included) | open |
+| mare, nez/mez, totum, bel, mim | ? | deciphered letters p.439–501 (low-confidence alignments by Claude Sonnet 5.5; not included) | open |
 | fec, sec, sanc, estre, toe, vib, roc, roe, ar, puis, x | nulls (the reading never needs them) | absent from the margin decipherments where checked (p.33, p.258) | probable |
 
 ## 4. Passages not read

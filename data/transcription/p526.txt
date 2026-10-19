@@ -5,8 +5,8 @@
 # clear (l.16 end, continues): "Admira[l] ..." ; next line: "Castille qui bien d'artifice a trouue aste nouuelle bien estrange."  (plain text from here; clear lines below not cipher)
 # clear: Castille qui bien d'artifice a trouue ...  nouuelle bien estrange.
 # clear (new paragraph): Mardy dernier aux Estatz de la baße Austriche en presence des Archiducs / Ernest, Mathias et Maximilian / de fidelite et obeissance. En quoy ilz s'estoient monstrez difficiles au commancement ... desirant que ... confirmast par escrit les libertez ... (about 8 further plain lines, ends "... pour le regard de la ... Archiducs primi..."; not transcribed in detail)
-# v2: image adjudication against Codex pass1, 2026-10-20
-# v2 main-session revision: al -> qa back (the image call gave auon/auenuiron; qa (q) makes qu'on/qu'environ). L (flat L sign) is now g in vk.py.
+# Adjudicated by image against an independent Codex transcription (second/p526_pass1.txt), 2026-10-20
+# Reverted by context, marked "?" (not an image decision): al -> qa back (the image call gave auon/auenuiron; qa (q) makes qu'on/qu'environ). The flat L sign is read g (see src/vk.py).
 526.01	8 h oc? S pi dl 7 2 w pi n D pi? | ros | P w dl S ne? 9 i 8 w ne x 2 S w dl? L dl pi x
 526.02	9 pi ne i b pi b ne? c 8 oc? dl 8 q x w pi dl S oc? dl 8 oc? dl S w i ne dl oc t4? oo? b? S? D?
 526.03	D oc? x di w S ne w S 7 x D b w S 8 oc? dl i w 8 D x b pi S qa? x oc? dl x w i ne

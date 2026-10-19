@@ -2,8 +2,8 @@
 # i (hook) vs dl (tall-stem delta) is often hard to tell at tile resolution; those readings carry "?" when doubtful. "at" = circled "au" sign (l.7). Page appears to end at l.25 (nothing below in tile r6).
 # Letter date: p.523 (f557) heading '22. octob. 1577'; p.523-526 are one letter (p.524 continues without a new heading). Opening: 'Comme la negotiation du Sr de Malstet envoyé depuis un mois en ça de la part des Estats du pays bas vers l'Empereur ...'
 # p.524 last line (f558, gallica/tiles/f558_lastline.jpg), after clear '... ce qu'il se remembroit bien vest(?).' :
-# v2: image adjudication against Codex pass1, 2026-10-20
-# v2 main-session revision: phi -> p and z -> 3 everywhere on this page (the shape-based calls gave mait/maire/mrere/maut/merme and serblable/directerent/tellerent; p (f) and 3 (m) make the words). Shape alone does not separate these here.
+# Adjudicated by image against an independent Codex transcription (second/p525_pass1.txt), 2026-10-20
+# Reverted by context, marked "?" (not an image decision): phi -> p and z -> 3 everywhere on this page (the shape-based calls gave mait/maire/mrere/maut/merme and serblable/directerent/tellerent; p (f) and 3 (m) make the words). Shape alone does not separate these here.
 524.99	P 4 b | 8 w ?
 525.01	oc x b S | {Monseigneur} | i ne | {fec} {ar} | 4 i? S w 7 8 oc qq oc i? S D b w 9? pi | plus | ne
 525.02	q w p? 7 8 oc dl ne w 9 i? D S al i? g dl w x b | {fec} | {saturnus} | 9? w S i? b w qa x oc dl i dl D w b

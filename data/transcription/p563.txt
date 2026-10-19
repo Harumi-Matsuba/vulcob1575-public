@@ -2,7 +2,7 @@
 # Transcribed from tiles gallica/tiles/c398_f597_r{1..7}c{1,2}.jpg (re-cut at 2x from gallica/full/c398_f597.jpg). Symbol transcription only, not deciphered; 15 cipher lines.
 # i (hook) vs dl (tall delta) judged at 2x crops; doubtful readings carry "?". Bare "?" = glyph with no key entry: stem + upper-right loop + lower-left bowl (563.01, .06, .10; context says r) and a three-bar stem with a top hook (563.05; context says e). fl? in .13 = heavy b-shaped glyph. {x} = small two-stroke plain x; c = small one-stroke plain c (null). "S" is the open-arc + y sign; the thin vertical line crossing it is the tail of a long s above.
 # clear (before the block): none; the cipher starts at the top of the page.
-# v2: image adjudication against Codex pass1, 2026-10-20
+# Adjudicated by image against an independent Codex transcription (second/p563_pass1.txt), 2026-10-20
 563.01	ne w 9 i D S w i g dl pi x b | {saturnus} | 3? oc dl S D b 7 ? w 8 pi x oc i b x dl S i dl g x ne i w
 563.02	b P ne 7 i S i b c D oc S di 4 P b w S ne pi dl x oc 2 4 7 ne 4 b 8 h i 9? x 8 w b dl pi S D w
 563.03	ros | ne x 2 p? 7 i b w 7 x oc i b P 4 b D 9 x P 4 hash w D pi 3? S | {Je} {Vous} {say?}

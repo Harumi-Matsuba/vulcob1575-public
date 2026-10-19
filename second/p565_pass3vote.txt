@@ -1,0 +1,16 @@
+p565_L01	v:# v:# v:# v:# v:c v:o
+p565_L02	v:# v:# v:t v:i v:e v:n v:e v:n v:l v:o v:g v:u v:e v:u v:r v:l v:e v:p v:l v:u v:s v:# v:p v:e v:u v:t v:# v:l v:#
+p565_L03	v:d v:e v:s v:p v:a v:g v:n v:e v:n v:e v:u v:o v:s v:t v:a v:n v:t v:s v:i v:# v:p v:r v:o v:m v:p v:t v:e v:m v:e v:n v:t v:s v:e v:d v:e v:c v:l v:a v:r v:e v:r
+p565_L04	v:s v:u v:r v:l v:s v:p v:e v:r v:m v:i v:ss v:i v:o v:n v:d v:e v:s v:l v:e v:u v:ff v:s v:d v:e v:g v:e v:n v:s v:d v:e v:y v:# v:# v:l v:a v:a v:u
+p565_L05	v:e v:l v:l v:e v:s v:o v:l v:l v:i v:c v:a v:t v:e v:r v:p v:r v:i v:n v:c v:i v:p v:a v:l v:e v:m v:e v:n v:t v:l v:e v:s v:a v:r v:a v:u v:i v:z v:d v:e v:u v:a v:r v:e v:s v:b
+p565_L06	v:o v:n v:a v:e v:s v:t v:e v:d v:e v:p v:e v:s v:c v:a v:e v:p v:a v:r v:d v:e v:c v:a v:p v:a v:r v:d v:o v:m v:i v:e v:h v:a v:n v:d v:a v:u v:s v:t v:r v:i v:c v:h v:e
+p565_L07	v:m v:a v:i v:n v:t v:e v:n v:a v:n v:t v:e v:s v:t v:a v:n v:t v:r v:e v:t v:o v:u v:r v:i v:e v:i v:c v:e v:l v:u v:y v:m v:a v:r v:a v:u v:i v:z v:d v:e v:l v:a v:c v:o v:u v:r v:t
+p565_L08	v:d v:e v:l v:a v:r v:c v:h v:i v:d v:u v:c v:c v:h v:a v:r v:l v:e v:d v:a v:u v:i v:l v:e v:s v:t v:o v:i v:t v:a v:l v:l v:e v:n v:a v:g v:u v:e v:r v:e v:s
+p565_L09	v:i v:e v:p v:u v:i v:s v:b v:i v:e v:n v:u v:o v:u v:s v:a v:ss v:e v:u v:r v:e v:r v:# v:i v:n v:o v:n v:t v:e v:n v:d v:o v:r v:e v:r v:i v:e v:n
+p565_L10	v:o v:b v:t v:e v:n v:u v:n v:y v:m v:e v:s v:f v:e v:l v:e v:u v:r v:a v:e v:s v:t v:e v:d v:o v:nn v:e v:a v:u v:c v:s v:n v:e v:i v:n v:t v:e v:n v:t v:i v:o v:n
+p565_L11	v:d v:o v:b v:t v:e v:n v:i v:r v:d v:a v:u v:a v:n v:t v:a v:g v:e v:c v:y v:a v:p v:r v:e v:s v:s v:e v:r v:e v:m v:e v:tt v:a v:n v:t v:#
+p565_L12	v:a v:l v:a v:r v:e v:s v:p v:o v:n v:s v:e v:# v:a v:tt v:e v:n v:d v:d v:u v:# v:s v:u v:r v:c v:e v:# v:l v:u v:y v:a v:r v:e
+p565_L13	v:s v:c v:r v:i v:t v:d v:e v:p v:u v:i v:s v:l v:e v:p v:a v:r v:t v:e v:m v:e v:n v:t v:d v:e v:l v:a v:r v:c v:h v:i v:d v:u v:c v:m v:a v:t v:h v:i v:a v:s
+p565_L14	v:b v:i v:e v:n v:a v:u v:o v:n v:a v:ss v:e v:u v:r v:e v:# v:l v:e v:s v:u v:s v:d v:i v:t v:# v:p v:e v:u v:t v:d v:e v:s v:i v:a
+p565_L15	v:a v:u v:o v:i v:r v:e v:u v:# v:# v:# v:# v:a v:u v:i v:z v:d v:u v:d v:i v:t v:s v:e v:i v:g v:n v:e v:u v:r v:# v:o v:y v:s v:o v:n
+p565_L16	v:m v:a v:i v:s v:t v:r v:e v:d v:e v:c v:e v:# v:d v:o v:i v:t v:t v:r v:a v:i v:t v:e v:r v:# v:#

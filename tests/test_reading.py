@@ -44,6 +44,21 @@ class TestIndependentSecond(unittest.TestCase):
                              capture_output=True, text=True, cwd=ROOT).stdout
         self.assertIn('TOTAL: 4017/4637', out)
 
+    def test_agreement_pass3(self):
+        for ps, total in [('pass3a', '4402/4637'), ('pass3b', '4380/4637'), ('pass3c', '4392/4637')]:
+            out = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'xcompare.py')] + PAGES,
+                                 env=dict(os.environ, PASS=ps, FIRST='', FIRST_DIR=os.path.join('data', 'transcription')),
+                                 capture_output=True, text=True, cwd=ROOT).stdout
+            self.assertIn('TOTAL: ' + total, out, ps)
+
+
+class TestCalibration(unittest.TestCase):
+    def test_p258(self):
+        out = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'calib.py'),
+                              os.path.join(ROOT, 'calib', 'p258_decode.tsv'), os.path.join(ROOT, 'calib', 'p258_margin_adj_text.txt')],
+                             capture_output=True, text=True).stdout
+        self.assertIn('scored letters 412, agree 333 (80.8%)', out)
+
 
 if __name__ == '__main__':
     unittest.main()

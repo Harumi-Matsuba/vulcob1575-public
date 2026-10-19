@@ -5,7 +5,7 @@
 # qx = "q with a crossbar" (l.10 "7 qx 4 i b w", l.18 "4 qx w 8 D", l.19 "oc qx i 8 i w b"): by context it reads ff (affaire / affection / officier), not l. qq = box-like "q" (nn, l.18 "bonne"). fl = flat-like glyph (dark square with a tall stem, l.23, between i and g). VM? = cross sitting in a cup (l.3, l.18), may be Vostre Majeste. "|" in l.6 and l.24 stands for a full stop (dot) after plain text/cipher.
 # Lines run to the right edge and are cut by the binding shadow; the last token is "?" or token? where a glyph is partly visible. Lines 7, 10, 11 wrap hidden text (l.10 "...semble m" + l.11 "nant" = maintenant).
 # clear: l.6 ends with the plain word Monseig(neur) (cut at the edge). l.5 ends with the nomenclature letters "ros" (pour), as in p539 l.5. l.8 and l.25 plain "saturnus". l.9 plain "Juno". l.10 and l.18 plain "my". l.20 and l.22 the letters "ucl" (est). l.24 starts with plain "bien experimente." (reading of the first word uncertain) then cipher after the dot.
-# v2: image adjudication against Codex pass1, 2026-10-20
+# Adjudicated by image against an independent Codex transcription (second/p562_pass1.txt), 2026-10-20
 562.01	ne w S D i w dl D pi dl ne oc dl g x w x b ne pi P ne x S plus ne q pi P w x D?
 562.02	D b pi P 4 b D i 8 w ne x 2 o oo b g i 4 7 9 i D plus S i ne w 3 P pi b?
 562.03	x D S oc x S D w dl i b S oc dl 4? b pi VM? pi i ne q x 2 S w b 4 o w S oc i dl 9 pi

@@ -1,7 +1,7 @@
 # BnF Cinq Cents de Colbert 398, p.33 (Gallica btv1b525218133 f59), Vulcob, 9 Nov 1575. CALIBRATION: contemporary decipherment in left margin.
 # images: gallica/p033_f59_x25y55.jpg, x59y55, x25y67, x59y67 (cipher), p033_f59_margin_y55/y67 (margin)
 # preceding clear text: "... sur le decret qui fut fait en la diete d'Augsbourg de l'an mil vc cinquante cinq, comme j'ay desja escrit."
-# v2: image adjudication against Codex pass1, 2026-10-20
+# Adjudicated by image against an independent Codex transcription (second/p033_pass1.txt), 2026-10-20
 33.01	i 4 2 | S w x | ros? | {sanc} | {estre} | 8 w b D 4 i dl | plus | {ucb+}
 33.02	{smua?} | {sec} | 9 pi up 4 dl D | ne w q pi 8 D i oc dl | - | 4 | p 4 i D | 3 w box b pi | w dl | 4 x 4 dl D
 33.03	qa? x w ne | qa? x pi | 8 h oc S pi | n x b | ne pi | p 4 i D | 9 w ne 4 | b w ne i g mu? oc dl | {roe}

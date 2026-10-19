@@ -1,0 +1,26 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+525.01	p525_L01	27	26	24	replace:##>oe delete:o>
+525.02	p525_L02	37	37	36	replace:f>o
+525.03	p525_L03	36	36	34	replace:#>o replace:y>g
+525.04	p525_L04	38	38	38	
+525.05	p525_L05	34	36	34	insert:># insert:>#
+525.06	p525_L06	37	37	35	replace:y>g replace:m>r
+525.07	p525_L07	39	40	39	insert:>#
+525.08	p525_L08	39	40	39	insert:>#
+525.09	p525_L09	40	39	39	delete:s>
+525.10	p525_L10	39	39	39	
+525.11	p525_L11	33	33	33	
+525.12	p525_L12	38	38	37	replace:a>o
+525.13	p525_L13	40	41	39	replace:i>n insert:>s
+525.14	p525_L14	32	33	32	insert:>#
+525.15	p525_L15	39	39	39	
+525.16	p525_L16	37	37	37	
+525.17	p525_L17	37	37	35	replace:#>o replace:mm>gn
+525.18	p525_L18	38	38	38	
+525.19	p525_L19	32	32	30	replace:t>? replace:mm>gn
+525.20	p525_L20	37	37	36	replace:#>o
+525.21	p525_L21	34	34	32	insert:>g replace:n>i delete:n>
+525.22	p525_L22	40	41	40	insert:>#
+525.23	p525_L23	39	39	38	replace:m>d
+525.24	p525_L24	38	37	37	delete:g>
+525.25	p525_L25	38	38	37	replace:e>b

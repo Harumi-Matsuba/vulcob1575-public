@@ -1,0 +1,23 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+258.01	p258_L01	29	29	22	insert:>nuis delete:unsai> insert:># replace:n>i replace:q>n
+258.02	p258_L02	33	33	31	replace:o>f insert:>z delete:#>
+258.03	p258_L03	26	25	24	replace:n>i delete:?>
+258.04	p258_L04	34	34	34	
+258.05	p258_L05	32	31	31	delete:s>
+258.06	p258_L06	29	29	28	replace:l>d
+258.07	p258_L07	34	34	34	
+258.08	p258_L08	30	28	26	replace:nc>i delete:e> replace:d>l
+258.09	p258_L09	28	29	28	insert:>#
+258.10	p258_L10	34	34	32	replace:i>n replace:l>d
+258.11	p258_L11	30	30	29	replace:d>#
+258.12	p258_L12	42	39	39	delete:ede>
+258.13	p258_L13	36	36	34	replace:n>i replace:o>f
+258.14	p258_L14	34	34	33	replace:n>i
+258.15	p258_L15	37	38	36	insert:>g replace:d>a
+258.16	p258_L16	25	27	23	replace:ppr>os insert:>z insert:>#
+258.17	p258_L17	36	36	34	replace:i>n replace:g>d
+258.18	p258_L18	37	37	35	insert:># replace:gn>d
+258.19	p258_L19	33	33	30	replace:i>n replace:l>d replace:f>#
+258.20	p258_L20	36	35	35	delete:s>
+258.21	p258_L21	32	32	31	delete:e> insert:>s
+258.22	p258_L22	23	19	19	delete:#l??>

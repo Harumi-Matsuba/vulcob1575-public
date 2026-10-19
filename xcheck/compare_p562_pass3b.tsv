@@ -1,0 +1,27 @@
+first_line	second_line	n_first	n_second	matched	diffs(first>second)
+562.01	p562_L01	32	31	31	delete:u>
+562.02	p562_L02	32	31	31	delete:s>
+562.03	p562_L03	36	36	35	replace:s>m
+562.04	p562_L04	33	32	32	delete:h>
+562.05	p562_L05	32	32	31	replace:b>g
+562.06	p562_L06	28	29	28	insert:>#
+562.07	p562_L07	33	32	32	delete:?>
+562.08	p562_L08	30	30	29	replace:tt>gn
+562.09	p562_L09	33	32	32	delete:?>
+562.10	p562_L10	33	32	31	replace:ff>f delete:m>
+562.11	p562_L11	36	34	33	replace:f>a delete:i?>
+562.12	p562_L12	33	33	33	
+562.13	p562_L13	32	32	32	
+562.14	p562_L14	32	32	30	insert:># replace:o>t delete:n>
+562.15	p562_L15	34	33	33	delete:l>
+562.16	p562_L16	33	34	33	insert:>#
+562.17	p562_L17	33	31	31	delete:r?>
+562.18	p562_L18	35	34	32	replace:nn>l replace:ff>l delete:?>
+562.19	p562_L19	31	29	28	replace:ff>l delete:u?>
+562.20	p562_L20	35	36	32	replace:#>?gi replace:o>a delete:?>
+562.21	p562_L21	32	34	31	insert:># replace:#>ge
+562.22	p562_L22	32	32	30	replace:#>?g delete:?>
+562.23	p562_L23	36	35	34	replace:n>t delete:n>
+562.24	p562_L24	28	27	27	delete:?>
+562.25	p562_L25	32	31	31	delete:u>
+562.26	p562_L26	35	34	32	replace:q>l replace:m>l delete:?>

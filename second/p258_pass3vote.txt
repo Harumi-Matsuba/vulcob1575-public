@@ -1,0 +1,22 @@
+p258_L01	v:q v:u v:e v:l v:# v:n v:u v:i v:s v:a v:n v:c v:e v:a v:# v:# v:a v:# v:s v:o v:i v:f v:i v:l v:z v:a v:u v:s v:n
+p258_L02	v:f v:n v:s v:a v:i v:t v:# v:z v:s v:o v:n v:t v:a v:ss v:e v:z v:m v:a v:l v:a v:ff v:e v:c v:t v:i v:o v:nn v:e v:z v:m v:a v:i v:s
+p258_L03	v:# v:# v:# v:# v:# v:y v:e v:n v:a v:l v:e v:m v:a v:g v:n v:e v:a v:g v:r v:a v:i v:d v:e v:p v:e
+p258_L04	v:l v:e v:u v:r v:d v:e v:ss v:e v:i v:n v:p v:o v:u v:rr v:o v:i v:t v:i v:l v:s v:o v:r v:t v:i v:r v:e v:ff v:e v:t v:s v:i v:l v:z v:u
+p258_L05	v:n v:t v:f v:a v:i v:r v:e v:e v:n v:t v:r v:e v:p v:r v:i v:s v:e v:o v:uu v:e v:r v:t v:e v:c v:o v:n v:t v:r v:e v:e v:u
+p258_L06	v:# v:# v:# v:p v:l v:u v:s v:i v:e v:u v:r v:s v:c v:a v:u v:s v:e v:s v:d v:e v:s v:q v:u v:e v:l v:d v:e v:s v:n
+p258_L07	v:i v:c v:y v:d v:e v:u v:s v:p v:r v:i v:n v:c v:i v:p v:a v:l v:e v:s v:c v:a v:r v:# v:# v:e v:n v:p v:r v:e v:m v:i v:e v:r v:l v:i
+p258_L08	v:# v:# v:q v:u v:i v:# v:e v:n v:c v:o v:r v:e v:p v:l v:u v:s v:m v:a v:l v:a v:ff v:e v:c v:t v:i v:o v:nn v:e
+p258_L09	v:e v:n v:u v:e v:r v:s v:l v:e v:s v:d v:i v:t v:z v:# v:# v:# v:# v:l v:e v:m v:p v:e v:s v:c v:h v:e v:r v:o v:i
+p258_L10	v:p v:o v:uu v:o v:i v:t v:s v:a v:c v:h v:a v:n v:t v:b v:i v:e v:n v:# v:t v:e v:l v:d v:e v:s v:e v:n v:t v:r v:e v:p v:r v:i v:s v:e
+p258_L11	v:d v:r v:o v:i v:e v:n v:t v:s v:u v:r v:l v:e v:s v:f v:r v:a v:i v:s v:c v:o v:mm v:u v:n v:s v:d v:e v:# v:# v:# v:#
+p258_L12	v:e v:n v:t v:q v:u v:i v:s v:y v:e v:m v:p v:l v:o v:y v:e v:r v:o v:i v:t v:s v:e v:r v:o v:i v:t v:a v:u v:t v:a v:n v:t v:d v:e v:d v:i v:m v:i v:n v:u
+p258_L13	v:q v:u v:i v:d v:e v:u v:e v:r v:o v:i v:t v:u v:e v:i v:i v:r v:e v:n v:s v:a v:b v:o v:u v:r v:s v:e v:a v:r v:a v:i v:s v:f v:n v:# v:l v:e
+p258_L14	v:b v:u v:t v:i v:o v:n v:s v:# v:d v:e v:m v:a v:n v:d v:e v:s v:o v:uu v:e v:n v:t v:# v:l v:a v:d v:e v:f v:e v:n v:s v:e v:i v:# v:f
+p258_L15	v:g v:r v:e v:s v:d v:e v:h v:o v:n v:g v:r v:i v:e v:e v:n v:s v:e v:r v:o v:i v:e v:n v:t v:d v:a v:u v:t v:a v:n v:t v:m v:o v:i v:n v:d v:r v:e v:s
+p258_L16	v:# v:s v:y v:o v:o v:s v:s v:e v:r v:o v:i v:e v:n v:t v:# v:# v:z v:p v:o v:rr v:o v:i v:e v:n v:t v:# v:#
+p258_L17	v:d v:e v:m v:a v:y v:e v:n v:c v:d v:s v:e v:d v:o v:u v:t v:a v:n v:s v:b v:i v:e v:n v:# v:# v:# v:y v:a v:u v:o v:i v:t v:u v:n v:r v:e v:m
+p258_L18	v:e v:n v:l v:a v:l v:e v:m v:a v:g v:n v:e v:# v:m v:e v:s v:m v:e v:m v:d v:t v:e v:n v:l v:e v:u v:r v:q v:u v:a v:r v:t v:i v:e v:r v:i v:l v:z
+p258_L19	v:n v:t v:e v:n v:? v:i v:n v:d v:u v:m v:e v:i v:l v:d v:e v:u v:r v:# v:# v:# v:l v:e v:m v:o v:i v:n v:s v:l v:e v:s v:g v:e v:n
+p258_L20	v:rr v:e v:u v:i v:pp v:r v:o v:i v:e v:n v:t v:s v:u v:r v:l v:e v:u v:r v:p v:a v:y v:s v:p v:l v:u v:s v:l v:i v:c v:e v:n v:t v:i v:e v:u
+p258_L21	v:# v:s v:u v:r v:c v:e v:u v:s v:d v:e v:s v:a v:u v:t v:r v:e v:s v:p v:r v:i v:n v:c v:e v:s v:s v:i v:l v:# v:n v:e v:l v:e
+p258_L22	v:a v:u v:e v:n v:o v:i v:t v:c v:h v:o v:s v:e v:p v:i v:r v:e v:# v:# v:#

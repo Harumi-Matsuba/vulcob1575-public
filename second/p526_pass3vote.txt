@@ -1,0 +1,16 @@
+p526_L01	v:a v:h v:o v:s v:e v:n v:a v:y v:e v:e v:s v:t v:e v:# v:p v:e v:n v:s v:l v:d v:i v:a v:e v:l v:u v:y v:s v:e v:i v:g v:n v:e
+p526_L02	v:d v:e v:l v:i v:b v:e v:r v:l v:# v:a v:o v:n v:a v:l v:u v:e v:e v:n v:s v:o v:n v:a v:o v:n v:s v:e v:i v:l v:n v:o v:o v:o v:b
+p526_L03	v:t v:o v:u v:t v:e v:s v:l v:e v:s v:a v:u v:t v:r v:e v:s v:a v:o v:n v:i v:e v:a v:t v:u v:r v:e v:s v:q v:u v:o v:n v:u v:e v:i
+p526_L04	v:a v:m v:e v:n v:e v:r v:a v:l v:e v:n v:a v:o v:n v:t v:r v:e v:# v:i v:i v:e v:n v:# v:p v:l v:u v:s v:i v:e v:u v:r v:s v:p v:r
+p526_L05	v:n v:t v:# v:n v:a v:y v:e v:e v:u v:o v:cc v:a v:s v:i v:o v:n v:d v:a v:u v:u v:n v:a v:e v:r v:e v:n v:t v:e v:l v:a v:a v:s
+p526_L06	v:m v:r v:e v:r v:e v:# v:d v:e v:s v:p v:o v:u v:i v:l v:e v:r v:s v:o v:n v:a v:n v:a v:l v:e v:# v:s v:e v:s v:n v:e v:u v:e
+p526_L07	v:a v:e v:# v:i v:l v:l v:e v:u v:r v:a v:cc v:a v:r v:t v:i v:e v:n v:t v:d v:a v:u v:u v:n v:t v:u v:g v:e v:i v:e v:n v:t v:e v:n
+p526_L08	v:l v:i v:e v:u v:q v:u v:o v:n v:a v:e v:u v:u v:ss v:e v:z v:d v:e v:p v:e v:i v:n v:e v:a v:i v:n v:a v:i v:t v:e v:r v:# v:a
+p526_L09	v:l v:e v:d v:i v:t v:s v:e v:i v:g v:n v:e v:u v:r v:a v:r v:a v:h v:i v:d v:u v:a v:l v:e v:# v:l v:a v:u v:t v:r v:e v:m v:e v:i v:t
+p526_L10	v:t v:r v:o v:p v:g v:r v:a v:n v:d v:e v:u v:o v:l v:o v:o v:t v:e v:l v:o v:n v:a v:d v:i v:o v:u v:s v:t v:e v:a v:u v:ss v:i v:m
+p526_L11	v:d v:i v:t v:s v:e v:i v:g v:n v:e v:u v:r v:# v:e v:u v:s v:t v:d v:e v:s v:i v:r v:e v:l v:e v:m v:a v:i v:r v:e v:a v:#
+p526_L12	v:i v:l v:e v:u v:s v:t v:p v:e v:u v:d v:e v:p v:e v:s v:a v:h v:e v:r v:l v:e v:s v:s v:u v:s v:d v:i v:t v:z v:g v:e v:n v:t v:i v:l
+p526_L13	v:p v:l v:u v:s v:m v:a v:t v:i v:n v:s v:a v:o v:mm v:e v:i v:l v:e v:n v:e v:u v:t v:i v:i v:e v:n v:l v:i v:t v:e v:m v:s v:l v:e
+p526_L14	v:n v:e v:p v:a v:r v:t v:i v:r v:e v:n v:t v:q v:u v:e v:n v:u v:i v:r v:o v:n v:l v:e v:m v:i v:d v:y v:# v:s v:rr v:m v:b v:l v:a v:b v:l v:e
+p526_L15	v:e v:n v:d v:o v:n v:s v:o v:u v:s v:p v:e v:a v:o v:n v:y v:s v:u v:r v:a v:e v:# v:e v:s v:a v:r v:i v:u v:i v:t v:t v:o v:u v:t
+p526_L16	v:l v:e v:s v:l v:e v:nn v:r v:e v:s v:# v:e v:n v:u v:o v:y v:a v:u v:u v:s v:p v:r v:i v:n v:a v:e v:s

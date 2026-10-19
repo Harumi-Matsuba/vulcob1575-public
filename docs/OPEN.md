@@ -6,7 +6,7 @@
 | 記号（名前） | 当てた値 | 根拠 | 状態 |
 |---|---|---|---|
 | m 形の二重字（`m`） | uu／uv | p.33「trouué」＝余白の「trouvé」 | 当時の解読で確かめた（1例） |
-| ʒ 形（`z`） | r | p.33「decret」 | はっきりした例は1つ。ほかでは 3（m）と ʒ（r）を形で分けられない（§2） |
+| ʒ 形（`z`） | r | p.33「decret」 | はっきりした例は1つ。ほかでは 3（m）と ʒ（r）を形で分けられない（2節） |
 | 単独の平文の小さな c（`c`） | 空字 | p.33 l.6、p.539 l.4、p.526 | 推定：読みで一度も要らない |
 | 平らな L 形（`L`） | g | seigneur、Borgia、gendarmerie、magesté（p.561）、p.526 | 6語以上からの推定。友清氏の表の描き方にはない |
 | 横線のある q（`ffx`） | ff | affaire、affection、officier（p.562）、difficile、affoiblir（p.563） | 友清氏の表に「ff?」。文脈で確かめた |
@@ -38,7 +38,7 @@
 | nelluy benitow（p.258） | l'Electeur Palatin et duc Casimir か | p.258 でこの語の横の余白に「Loys Elect. Palatin et duc Casimir」 | 可能性あり（較正の頁） |
 | manua、manue | 人物（スペイン側?） | p.561「[manue] a dit」、p.565「le susdit [manua]」 | 未確定 |
 | mitte、mime（p.258） | 「les autres Electeurs」「du pis qu'ils」か | p.258 の同じ位置の余白 | 未確定 |
-| mare、nez／mez、totum、bel、mim | ? | 解読済みの書簡 p.439–501（AI のサブエージェントによる確かさの低い対応。ここには入れていない） | 未確定 |
+| mare、nez／mez、totum、bel、mim | ? | 解読済みの書簡 p.439–501（Claude Sonnet 5.5 による確かさの低い対応。ここには入れていない） | 未確定 |
 | fec、sec、sanc、estre、toe、vib、roc、roe、ar、puis、x | 空字 | 確かめた所（p.33、p.258）で余白に対応する語がない | 可能性が高い |
 
 ## 4. 読めていない所
@@ -48,5 +48,5 @@
 - p.562 は行末が綴じ目の影で切れている。
 
 ## 5. 確かめていないこと
-- 書き起こしと画像を、人は確かめていない（README）。
+- 書き起こしと画像を、人は確かめていない（README・METHOD.md）。
 - 日付（p.539＝1577-11-02、p.561＝1577-12-14、p.565＝1577-12-21、p.525–526＝1577-10-22〔p.523 の見出し〕）は頁の見出しから読んだ。差出人（Ancel）は友清氏の一覧に従い、署名とは照らしていない。

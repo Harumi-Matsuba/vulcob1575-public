@@ -1,0 +1,15 @@
+p563_L01	v:l v:e v:i v:t v:s v:e v:i v:g v:n v:e v:u v:r v:# v:m v:o v:n v:s v:t v:r v:a v:m v:e v:c v:e v:t v:o v:i v:r v:u v:n v:s v:i v:n v:g v:t v:l v:i v:e
+p563_L02	v:r v:p v:l v:a v:i v:s v:i v:r v:# v:t v:o v:s v:b v:a v:p v:r v:e v:s v:l v:e v:n v:u v:o v:u v:a v:a v:l v:a v:r v:c v:h v:d v:u v:c v:e v:r v:n v:e v:s v:t v:e
+p563_L03	v:# v:l v:u v:y v:m v:a v:i v:r v:e v:a v:u v:o v:i v:r v:p v:a v:r v:t v:d v:u v:p v:a v:ss v:e v:t v:e v:m v:s v:# v:# v:#
+p563_L04	v:c v:e v:s v:m v:e v:n v:u v:e v:s v:p v:a v:r v:t v:i v:c v:u v:l v:a v:r v:i v:t v:e v:z v:# v:a v:tt v:e v:n v:s v:o v:t v:#
+p563_L05	v:i v:e v:s v:a v:c v:h v:e v:a v:ss v:e v:t v:r v:l v:m v:e v:n v:t v:q v:u v:e v:l v:l v:e v:s v:e v:r v:a v:l v:a v:d v:e v:r v:n v:i v:e v:r v:e
+p563_L06	v:m v:e v:s v:o v:l v:u v:t v:i v:o v:n v:d v:u v:d v:i v:t v:s v:e v:i v:g v:n v:e v:u v:r v:# v:t v:e v:q v:u v:e v:l v:a v:l v:a v:u v:e v:r v:i
+p563_L07	v:t v:e v:s v:c v:o v:gn v:e v:i v:u v:g v:e v:n v:t v:p v:l v:u v:s v:i v:e v:u v:r v:s v:s v:a v:g v:e v:s v:p v:e v:r v:s v:o v:nn v:a v:g v:e v:s v:n v:a
+p563_L08	v:a v:u v:c v:u v:n v:e v:m v:e v:n v:t v:b v:e v:s v:o v:i v:n v:d v:e v:m v:a v:uu v:a v:i v:s v:e v:i v:n v:t v:e v:l v:l v:i v:g v:e v:n v:c v:e v:# v:m v:o v:i v:n
+p563_L09	v:d v:e v:g v:u v:e v:# v:e v:a v:u v:e v:c v:l v:e v:d v:i v:t v:s v:e v:i v:g v:n v:e v:u v:r v:# v:n v:e v:s v:t v:a v:n v:t v:t v:r v:o v:p
+p563_L10	v:b v:i v:e v:n v:p v:o v:u v:r v:u v:e v:u v:d v:e v:o v:i v:n v:o v:n v:c v:e v:s v:# v:e v:s v:t v:a v:n v:t v:d v:i v:a v:i v:c v:a v:l v:e v:d v:a v:tt v:i v:r v:b v:#
+p563_L11	v:l v:e v:s v:e v:s v:t v:a v:t v:n v:d v:e v:l v:e v:m v:p v:i v:r v:e v:a v:# v:l v:# v:s v:e v:c v:o v:u v:r v:s v:e v:# v:t v:r v:a
+p563_L12	v:o v:r v:d v:i v:n v:a v:i v:r v:e v:u v:e v:u v:m v:e v:s v:m v:e v:q v:u v:o v:n v:n v:e v:p v:e v:u v:t v:b v:o v:t v:e v:n v:i v:r v:d v:e v:u v:s v:l v:e v:u
+p563_L13	v:r v:s v:t v:a v:# v:e v:s v:o v:r v:d v:i v:n v:a v:i v:r v:e v:s v:s v:i v:c v:e v:n v:# v:p v:o v:ss v:i v:b v:l v:e v:l v:e v:s v:e v:l v:e v:c
+p563_L14	v:t v:e v:u v:r v:s v:d v:e v:s v:a v:e v:e v:# v:b v:r v:a v:n v:d v:e v:o v:u v:r v:g v:l v:e v:s v:q v:u v:e v:l v:z v:t v:o v:u v:t v:e v:s v:o v:o v:i v:s
+p563_L15	v:n v:e v:s v:e v:u v:o v:u v:d v:r v:o v:n v:t v:d v:e v:b v:e v:a v:u v:c v:o v:u v:p v:a v:a v:o v:i v:b v:l v:i v:r
