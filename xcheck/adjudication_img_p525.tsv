@@ -1,0 +1,116 @@
+line	position/context	first_token	second_token	decision	reason
+525.01	token 16 (0-based, bars excluded)	{gn?}	qq	second	square bowl with stem and bar, no triangle (not gn)
+525.01	token 23 (0-based, bars excluded)	9	q	ambiguous	curved tail ~1.7x body; not a straight q stem
+525.02	token 16 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.02	token 2 (0-based, bars excluded)	p	phi	second	crossbar through stem plus loop top right
+525.02	token 22 (0-based, bars excluded)	9?	q	ambiguous	curved tail ~1.7x body, ends in dot; keep 9?
+525.02	token 28 (0-based, bars excluded)	qa	al	first	flat-topped closed a with foot = qa, not open alpha
+525.02	token 31 (0-based, bars excluded)	i? i?	dl i dl	second	three glyphs between oc and D: tall, short, tall
+525.02	token 6 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.02	token 9 (0-based, bars excluded)	9	q	first	short curved tail
+525.03	token 14 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.03	token 17 (0-based, bars excluded)	{fec}	lz	first	three-letter script word, much wider than one symbol
+525.03	token 27 (0-based, bars excluded)	m	z	second	flat top bar, descends below baseline (yogh)
+525.03	token 28 (0-based, bars excluded)	b	o	second	small circle not beta
+525.03	token 31 (0-based, bars excluded)	b	o	second	small circle not beta
+525.03	token 9 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.04	token 0 (0-based, bars excluded)	dl	i	first	stem rises to top of line, tall
+525.04	token 14 (0-based, bars excluded)	9	q	first	short tail
+525.04	token 21 (0-based, bars excluded)	3	z	second	descends below baseline, yogh form
+525.04	token 27 (0-based, bars excluded)	p	phi	second	crossbar through stem plus loop
+525.04	token 29 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.04	token 31 (0-based, bars excluded)	9	q	first	short curl tail
+525.04	token 5 (0-based, bars excluded)	9	q	ambiguous	curved diagonal tail ~1.7x body
+525.05	token 2 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.05	token 33 (0-based, bars excluded)	9?	q	first	short tail
+525.06	token 14 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.06	token 22 (0-based, bars excluded)	plus?	{puis}	second	script reads p-u-i-s, no tall l
+525.06	token 25 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.06	token 28 (0-based, bars excluded)	z	3	first	yogh: descends below baseline
+525.06	token 34 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.06	token 7 (0-based, bars excluded)	9	q	first	short curl tail
+525.07	token 0 (0-based, bars excluded)	9	q	ambiguous	curved tail ~1.7x body
+525.07	token 12 (0-based, bars excluded)	9	q	first	short tail
+525.07	token 17 (0-based, bars excluded)	9	q	first	curved tail ~1.5x body, not straight stem
+525.08	token 2 (0-based, bars excluded)	9	q	first	curved tail ~1.25x body
+525.08	token 9 (0-based, bars excluded)	qa	al	first	flat-topped closed a = qa
+525.09	token 10 (0-based, bars excluded)	3	z	second	sits below baseline with flat hooked top, yogh
+525.09	token 18 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.09	token 24 (0-based, bars excluded)	n?	(none)	ambiguous	extra hump after m uncertain; keep n?
+525.09	token 26 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.09	token 30 (0-based, bars excluded)	p	phi	second	crossbar through stem plus loop
+525.10	token 26 (0-based, bars excluded)	9	q	first	short tail
+525.10	token 37 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.10	token 4 (0-based, bars excluded)	9	q	first	curved tail ~1.6x body
+525.11	token 17 (0-based, bars excluded)	i? p	dl phi	second	tall delta; stem crossed by bar with loop
+525.11	token 22 (0-based, bars excluded)	qa	al	first	flat-topped closed a = qa
+525.11	token 6 (0-based, bars excluded)	p	phi	second	crossbar plus loop
+525.12	token 20 (0-based, bars excluded)	9	q	ambiguous	curved tail ~1.9x body
+525.12	token 28 (0-based, bars excluded)	4?	oc	first	closed triangle with extended bar = 4, no loop
+525.12	token 30 (0-based, bars excluded)	dl? p?	i phi	second	short hooked head; crossed stem with loop (qa x kept)
+525.13	token 21 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.13	token 27 (0-based, bars excluded)	i?	dl	ambiguous	medium height, head curls right; between i and dl
+525.13	token 31 (0-based, bars excluded)	8	x	first	image shows 8 then script plus; second adds x/n not seen
+525.13	token 39 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.14	token 15 (0-based, bars excluded)	9	q	first	curved tail ~1.2x body
+525.14	token 20 (0-based, bars excluded)	9	q	first	curved tail ~1.4x body
+525.14	token 5 (0-based, bars excluded)	box?	qq	second	open square bowl with stem, not closed box
+525.15	token 0 (0-based, bars excluded)	9	q	first	curved tail ~1.0x body
+525.15	token 11 (0-based, bars excluded)	9	q	first	curved tail, not straight stem
+525.15	token 18 (0-based, bars excluded)	9	q	first	short curved tail
+525.15	token 26 (0-based, bars excluded)	3	z	second	tail curls below baseline, yogh
+525.15	token 6 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.16	token 11 (0-based, bars excluded)	9	q	first	short tail
+525.16	token 22 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.16	token 6 (0-based, bars excluded)	9	q	first	short tail
+525.17	token 0 (0-based, bars excluded)	qa	al	first	flat-topped closed a = qa
+525.17	token 19 (0-based, bars excluded)	{fec}	lz	first	script word, wider than a symbol
+525.17	token 25 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.17	token 35 (0-based, bars excluded)	box	dq	second	cross above small box = dq
+525.18	token 14 (0-based, bars excluded)	9	q	first	curved tail ~1.3x body
+525.18	token 2 (0-based, bars excluded)	qa	al	first	flat-topped closed a = qa
+525.18	token 26 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.18	token 28 (0-based, bars excluded)	9	q	first	curved tail ~1.0x body
+525.18	token 5 (0-based, bars excluded)	9	q	first	short curved tail
+525.19	token 14 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.19	token 18 (0-based, bars excluded)	9	q	first	short tail
+525.19	token 30 (0-based, bars excluded)	box?	dq	second	cross above box = dq
+525.19	token 4 (0-based, bars excluded)	9	q	first	short tail
+525.19	token 7 (0-based, bars excluded)	D?	bow	ambiguous	inverted triangle with bar; not clearly a bowtie, not clearly D
+525.20	token 0 (0-based, bars excluded)	9	q	first	curved tail ~1.1x body
+525.20	token 13 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.20	token 15 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.20	token 23 (0-based, bars excluded)	9	q	first	curved tail ~1.4x body
+525.20	token 28 (0-based, bars excluded)	9	q	first	curved tail
+525.20	token 4 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.20	token 9 (0-based, bars excluded)	{fec}	lz	first	script word
+525.21	token 18 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.21	token 19 (0-based, bars excluded)	qa	al	first	flat-topped closed a = qa
+525.21	token 25 (0-based, bars excluded)	i?	dl	second	bowl with tall arching ascender
+525.21	token 27 (0-based, bars excluded)	9	q	first	curved tail ~1.5x body
+525.21	token 4 (0-based, bars excluded)	ros c	{ros} g	first	script c-like letter, not a cipher g
+525.22	token 18 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.22	token 2 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.22	token 24 (0-based, bars excluded)	9	q	ambiguous	curved tail ~2x body
+525.22	token 27 (0-based, bars excluded)	9	q	first	short curved tail
+525.22	token 30 (0-based, bars excluded)	?	th	second	theta: ellipse with bar
+525.22	token 7 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.23	token 12 (0-based, bars excluded)	3	S	second	arc "(" encloses the hook: circled hook S
+525.23	token 21 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.23	token 22 (0-based, bars excluded)	3	q	ambiguous	yogh-like (maybe z), not q; keep 3 with ?
+525.23	token 26 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.23	token 3 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.23	token 6 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.24	token 0 (0-based, bars excluded)	9	q	first	curved tail
+525.24	token 1 (0-based, bars excluded)	dl?	i	second	short body with small hooked head (curls up-left)
+525.24	token 15 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.24	token 16 (0-based, bars excluded)	9	q	first	curved tail ~1.3x body
+525.24	token 28 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.24	token 36 (0-based, bars excluded)	box	qq	second	square bowl with stem and bar, not closed box
+525.24	token 5 (0-based, bars excluded)	?	{ucl}	second	script letters ucl
+525.25	token 0 (0-based, bars excluded)	qa	al	first	flat-topped closed a = qa
+525.25	token 10 (0-based, bars excluded)	9	q	first	curved tail ~1.4x body
+525.25	token 12 (0-based, bars excluded)	9	q	first	curved tail ~1.4x body
+525.25	token 2 (0-based, bars excluded)	dl	i	second	short body with small hooked head (curls up-left)
+525.25	token 29 (0-based, bars excluded)	i?	dl	second	tall ascender arching over to the right
+525.25	token 33 (0-based, bars excluded)	D?	?{filled inverted triangle}	second	filled inverted triangle, not open delta

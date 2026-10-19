@@ -1,0 +1,25 @@
+p525_L01	
+p525_L02	
+p525_L03	t4 x b S {Monseigneur} i ne lz al - 4 i S w 7 8 t4 qq t4 i S D b w q pi {plus} ne
+p525_L04	q w p 7 8 t4 dl ne w q i D S al i L dl w x b {le} {saturne} q w S i b w al x t4 dl i dl D w b
+p525_L05	P b w D pi S t4 dl i dl D w i D i bow di lz 7 dl D x b 7 2 S w 3 o ne 7 o q pi {pur} {my}
+p525_L06	dl w x t4 x q b 7 4 x t4 x w b q i b pi 8 D w 3 pi dl D 8 w p 7 i D q w x 7 dl D {sune}
+p525_L07	{Juno} 7 i dl S P ne x S D t4 S D n w dl pi {c} 8 x S w b {c} ne x 2 P w b S x 7 q w b
+p525_L08	S i ne P w x D q pi dl 2 7 x t4 i b i 7 3 4 i S {puis} P w dl S pi 3 4 i S 8 t4 dl S i
+p525_L09	q pi b w ne 7 dl 7 D x b w q t4 x 8 w q x i pi x dl w P b i dl 8 w {c} ne 7 dl t4 x at i D x
+p525_L10	b w q i 8 w ne x 2 al x i 7 D t4 x S i t4 x b S pi S D w pi dl 8 b 7 i D w {c} b w x pi
+p525_L11	p pi dl 8 w D pi ne q w 3 pi dl D {plus} 7 P w i dl w P t4 m t4 S D i ne p 7 i b w x dl P 7 S
+p525_L12	h t4 b S q pi S 7 8 h 7 3 o b w S 7 dl S ne w 8 t4 dl L w q i 8 w ne x 2 S w i L dl pi
+p525_L13	x b {saturne} n t4 dl p b w b pi D 7 dl di S w dl p 7 x D al x 7 x dl w D pi ne q pi
+p525_L14	h w x b pi i ne w x S D P pi x S t4 b D i b q x 8 h 7 S D w p x al x i p w b 3 pi
+p525_L15	D t4 x di pi ne 7 dl x i D P 7 b w i ne q pi 3 w dl D dl 7 2 4 dl D t4 dl 8 {plus} n w x 7 x 8 x dl
+p525_L16	P w b S t4 qq 7 L w 7 x P b w S q pi ne x 2 q x {plus} ne i ne w x S D {estre} {mi}
+p525_L17	q pi 8 t4 dl p i 7 dl 8 w {plus} q w P b pi dl q b pi x dl pi S w 3 o ne 7 o ne pi b w S t4 ne x
+p525_L18	D i t4 dl 7 x q pi hash w x q pi S 7 3 4 L w S D pi i 3 P w b i 7 ne w 7 x w 8 ne 7
+p525_L19	al x pi ne q w 7 x 8 t4 dl D b 7 i b w i ne lz 8 w b D 7 i dl {my} 7 P ne x S 8 t4 dq x
+p525_L20	dl i al x w q pi P x i S P w x q w i t4 x b S {my} dl 7 x t4 i D q pi 8 t4 x S D n 3 w
+p525_L21	7 box w dl q x 4 ?{two joined triangles} hash i {plus} ne w S i pi x b q w 3 7 ne S D w di S 8 t4 dq pi
+p525_L22	q w P x i S i ne S lz x pi b i p i pi ne 7 x t4 i D q pi 3 7 dl q w 7 x 3 w S 3 pi
+p525_L23	{saturne} dl t4 di {ros} L t4 m w b dl pi x b 7 dl dl S i al x 7 x 8 x dl S q i S t4 i w D
+p525_L24	3 7 i S pi dl D i w b pi 3 w dl D {ros} S w i L dl pi x b q pi S i D th P 7 2 S o 7 S {c} w dl
+p525_L25	D b 7 i di t4 i D 7 x w 8 S 7 3 7 L w S D pi i q P w b i 7 ne pi dl t4 dl 7 x w 8 ne pi

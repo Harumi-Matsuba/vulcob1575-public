@@ -1,0 +1,8 @@
+p033_L01	{mme} {iay} {deja} {faict} i 4 2 S w x {ros} {sans} {estre} 8 w b D 4 i dl {plus} {ucl} P
+p033_L02	{mua} {sec} 9 pi up 4 dl D ne w q pi 8 D i oc dl L 4 p 4 i D 3 w box b pi w dl 4 x 4 dl D
+p033_L03	x w ne qa x pi 8 h oc S pi n x b ne pi p 4 i D 9 w ne 4 b w ne i g qa oc dl {ros}
+p033_L04	4 i b pi {plus} ne {plus} q w 8 3 pi D 4 x P b w i x 9 mu 6 w q pi {pur} {belluny}
+p033_L05	4 i S qa x pi ne ? up S x dl S 9 w S pi ne w 8 D pi x b S dl w ne oc dl D b di b oc m w
+p033_L06	x oc dl g w dl D ? 4 x D b pi S 6 pi q x 2 9 pi 8 oc q oo g fl pi 9 i S D b w S oc
+p033_L07	x w 3 pi dl D {plus} S i oc dl x oc x ne oc i D P 4 b q pi b 9 pi 8 w S 8 h oc 3 w S
+p033_L08	7 i q n w dl i b oc i D 9 pi S oc b di pi {plus} 8 w oc 7 dl {vcl} P 4 hash pi oo x D b pi

@@ -1,0 +1,44 @@
+line	position/context	first_token	second_token	decision	reason
+562.01	token 13: ...oc dl g x w...	g	fl	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.01	token 21: ...pi P ne x S...	ne	oc	first	stem with two horizontal bars, no loop or foot
+562.01	token 30: ...P w x D?...	x	(none)	first	x visible before the final partly hidden sign at the binding shadow
+562.02	token 16: ...oo b g i 4...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.02	token 24: ...D plus S i ne...	S	(none)	first	faint arc and curl present after que (plus)
+562.05	token 0: ...p w b...	p	4	first	stem with closed loop at upper right and left stroke (p), not a plain 4
+562.07	token 11: ...i x g pi b...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.07	token 16: ...pi dl qa x w...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha 
+562.08	token 6: ...w i g dl pi...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.08	token 12: ...b {saturnus} ne w qa...	ne	oc	first	stem with two clear bars, no loop
+562.08	token 14: ...ne w qa x pi...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.08	token 20: ...8 oc? box? pi 4...	box?	gn	ambiguous	cross-bar and stem with a rectangle attached at lower left: looks like dq (cross over box), neither box nor gn; keep first reading with ?
+562.09	token 23: ...3 pi qa x i...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.09	token 26: ...x i z w ne...	z	8	second	flat top stroke over a closed lower loop, same as the 8 signs in this line (open-tail c form), not the z curl
+562.10	token 11: ...D 7 ffx 4 i...	ffx	t4	first	q with loop at top and crossbar through stem (qx), not a 4-like sign
+562.11	token 11: ...i b p 7 i...	p	4	first	stem with loop at top right and left bar (p), as l.5
+562.12	token 13: ...2 th qa x 4...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.13	token 27: ...oc dl g oc m...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.14	token 23: ...9 pi qa x w...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.15	token 16: ...dl D S pi D...	S	b	second	only a long swash stroke with a small curl (beta); no circling arc
+562.15	token 30: ...P 4 g dl oc...	g	dl	first	flat bracket sign followed by a separate dl; second dropped one sign
+562.16	token 0: ...b w ne...	b	o	second	small closed circle (o), not beta
+562.17	token 22: ...pi S qa x i...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.18	token 0: ...b oc qq...	b	o	second	small closed circle (o), not beta
+562.18	token 2: ...b oc qq w 4...	qq	q	first	box-shaped top with stem and left bar = box q (qq), not the round long-tailed q
+562.18	token 5: ...w 4 ffx w 8...	ffx	q	first	q with a crossbar through the stem
+562.19	token 10: ...D w qa x pi...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.19	token 16: ...plus oc ffx i 8...	ffx	4	first	q/9 with crossbar through the stem, loop at top left; not a 4
+562.19	token 22: ...w b qa x i...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.20	token 13: ...i ne ucl dl 8...	ucl	?{V-shaped sign} lz i	first	plain-script letters ucl (est) with a tall initial stroke; second split them into signs
+562.21	token 32: ...4 b ucl?...	ucl?	lz	first	plain letters ucl at the binding shadow
+562.22	token 7: ...2 4 g w 8...	g	{c}	first	bracket-like sign with flat foot, larger than the plain c; not script
+562.22	token 11: ...8 pi qa x i...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha
+562.22	token 14: ...x i ucl 4 9...	ucl	?{V-shaped sign} lz	first	plain letters ucl
+562.23	token 8: ...dl 4 g x w...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.23	token 18: ...dl i fl? g w dl...	fl? g	di lz	first	tall stem rising from a dark box/diamond foot (flat sign, fl) then the flat bracket g; stem is attached, so not a free diamond
+562.24	token 1: ...{bien} {experimente} 8 w...	{experimente}	{opportunement}	ambiguous	plain script word after bien: letters not clearly legible at this scale
+562.25	token 25: ...w i g dl w...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.26	token 5: ...4 x 9? w S...	9?	qa	second	loop with a long descending curled tail below baseline: qa shape
+562.26	token 14: ...D 7 g w 9...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.26	token 23: ...P 4 g dl oc...	g	lz	first	flat bracket-like sign (small curl at upper left, flat foot; same family as p561 flat L = Gbr [ ); no l+z ligature loop
+562.26	token 28: ...ne th 3 pi ne...	3	9	ambiguous	flat top, S-bend, long tail curling left: 3 or 9 not decidable; keep first with ?
+562.26	token 32: ...ne 7 qa x ?...	qa	al	first	a with closed upper loop, stem and foot, same shape as the unambiguous qa elsewhere; not the open alpha (partly in shadow)

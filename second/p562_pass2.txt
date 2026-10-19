@@ -1,0 +1,26 @@
+p562_L01	ne w S D i w dl D pi dl ne t4 dl lz x w x b ne pi P ne x S p {?} ne q pi P w D
+p562_L02	D b pi P 4 b D i 8 w ne x 2 o oo b lz i 4 7 9 i D {plus} i ne w z P pi dl
+p562_L03	x D S t4 x S D w dl i b S t4 dl 4 b pi VM pi i ne q x 2 S w b 4 o w S t4 i dl 9 pi
+p562_L04	p 4 i b w 4 o oo dl pi S 8 i w dl D 9 4 x D 7 dl D {plus} ne w b t4 2 8 4 D h
+p562_L05	4 w b 7 D t4 x D w S ne pi S P b t4 x i S i t4 dl S P t4 hash i o ne w S {ros}
+p562_L06	x pi b {c} 3 4 i dl D w dl i t4 S t4 dl 9 b t4 i D P 4 b 8 w ne 7 {Monseigneur}
+p562_L07	x t4 x S P t4 m w th i x lz pi b pi dl al x w ne th D w b 3 pi S n w D b t4
+p562_L08	9 i D S w i lz dl pi x b {saturne} ne w al x pi ne 8 t4 ne pi 4 x 8 x dl S P b
+p562_L09	3 w dl D dl 4 x t4 i D P t4 hash i o ne pi w S D i 3 pi al x i 8 w ne x 2 {Juno}
+p562_L10	P b w dl 9 b pi 8 w D 7 gn 4 i b w P 4 b ne w o t4 x D {my} S w 3 o ne pi dl
+p562_L11	dl 4 dl D x t4 x ne t4 i b 4 7 i b pi 4 i dl S P ne x S D t4 S di pi S P w b t4
+p562_L12	x t4 2 7 dl D S t4 dl P 4 2 th al x 4 S i pi dl P b t4 2 w i ne S pi 8 t4 dl D
+p562_L13	i D {plus} ne 4 b 8 h i 9 x 8 3 4 D h i 4 S 2 p x S D n t4 dl lz t4 m w b
+p562_L14	{c} dl w P pi x D t4 dl w dl 8 t4 b pi S 4 x t4 i b 9 pi al x w ne 8 t4 S D w
+p562_L15	D t4 x b dl w b 4 8 4 b i ne w dl D b pi D i pi dl D ne pi S w S P 4 lz dl t4 ne
+p562_L16	o w ne q pi S P 7 b t4 ne q pi S {c} p 7 i D dl w 4 dl di 3 t4 i dl S S pi 8 b pi
+p562_L17	P ne x S i w x b S P pi D i di pi S 8 h t4 S pi S al x i 9 w S 8 t4 m
+p562_L18	o t4 qq w 4 q w 8 D i t4 dl {my} 4 9 pi p 7 x t4 b i S w b n t4 dl p b w VM w 8
+p562_L19	S pi P b pi S w dl D w al x pi ne {plus} t4 q i 8 i w b al x i ne w x pi D
+p562_L20	7 ne q w b D b t4 m w b i ne {ucl} i dl 8 t4 dl D i dl 4 dl D b pi 3 x dl w b pi 9 w
+p562_L21	8 w S P 4 hash w th {c} t4 dl ne x 2 p t4 x b dl i D t4 x D b pi 8 w ne 7 4 b lz
+p562_L22	S t4 dl x t4 2 4 {c} w 8 pi al x i {ucl} 4 9 x w dl x 4 P ne x S i w x b S {c}
+p562_L23	4 x D b w S dl 4 lz x w b pi S 7 x dl i di lz w dl i w x b dl w 7 P t4 ne i D 4
+p562_L24	{bien} {opportunement} 8 w S i t4 x b S 8 2 P 4 b w i ne q pi 3 w dl D i ne 4
+p562_L25	8 h 4 dl D pi w dl ne 7 8 h 4 3 o b w 9 x 9 i D n w i lz dl w x b {saturne}
+p562_L26	S t4 dl 4 x q w S 4 x 7 dl D 7 lz w 9 pi S w n P 4 lz dl t4 ne th 9 pi ne 7 al x

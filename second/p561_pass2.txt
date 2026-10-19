@@ -1,0 +1,19 @@
+p561_L01	i w dl 4 2 P w x w dl D pi dl b pi 8 w {my} {oct} th 4 x b t4 dl D di b 4 i D pi 3 4 i z i 8 w
+p561_L02	ne x 2 {manue} 4 q i D 7 x dl P w b z t4 qq 4 g w al x i ne 7 x i z al D w ne x 2 P 4 b ne
+p561_L03	7 dl D q w ne 4 b 8 h i q x 8 3 4 D h i 4 z {my} dl w phi 4 x D P 7 z q t4 b w z dl 7 x hash
+p561_L04	dl D phi {au} {saturnus} 3 4 b 8 h pi z i phi b t4 i q w z pi dl D 8 t4 dq w i ne 4 8 oc dq 4 dl 8 w
+p561_L05	{my} {vcl} dl w 8 pi hash 4 i b pi {my} z pi b w z t4 ne x w q pi phi {au} ne P 4 b D 2 i ne up t4 x
+p561_L06	q b 4 pi z D b w t4 x q x pi i D {Juno} t4 x q x q i D z w i g dl w x b 4 b 8 h i q x 8 z i
+p561_L07	q x P b w z i pi b {my} ne w 3 t4 dl z D b w P 4 b ne w z pi ffx w D th q t4 qq 4 dl D P w b z i
+p561_L08	hash i t4 dl q w ne pi x w b g pi dl z q pi g x w b phi pi P 4 b ne 7 ne w 3 4 g dl pi 8 oc dq w
+p561_L09	ne pi dl 4 z x up ne i w ne pi 3 4 b al x i th q pi x 4 b w 3 o t4 dl 4 x dl t4 3 q w q t4 3 i w h
+p561_L10	t4 dl q 7 x z D b i 8 h w oc ffx b 4 dl D 3 w z phi pi q w o 4 i ne ffx pi b 8 4 x D i t4 dl z 4
+p561_L11	D i z t4 4 i b pi w dl D i w b pi z w dl D 4 D t4 x di 8 w al x i 4 w z D pi t4 b q t4 qq w
+p561_L12	D t4 x 8 h 4 dl D ne 7 g w dl q 4 b 3 pi b i w pi z q w x z q pi b dl i w b pi z q i w D pi z
+p561_L13	i 3 P w b i 4 ne pi z D w dl x w z 4 z P i b pi {c} b 4 D i z o t4 dl w 8 pi phi {au}
+p561_L14	oo o z w b x 4 dl D ne w q i D z w i g dl pi x b {saturnus} dl w ne pi P w x D q i b w 8 D pi
+p561_L15	3 w dl D b pi phi x z pi b 4 i dl z i {my} {vcl} z P w 8 i 4 ne pi 3 pi dl D 8 t4 dl D pi dl x w z
+p561_L16	b w 8 pi th q pi z z x z q i D w n q i pi D w z 8 pi dl t4 dl oo o z D 4 dl D z 4 3 4
+p561_L17	g w z D pi i 3 P w b i 4 ne w 4 pi dl D b w D pi dl x i 8 2 P t4 x z q w D b t4 i z n w
+p561_L18	3 4 i dl pi z ne w q i D 3 4 b al x i th z pi b w 3 pi box 4 dl D 4 ne 7 at i x phi q x
+p561_L19	q i D z i w x b o oo b g i 7 {roc} ne x 2 q t4 qq pi b phi pi z P t4 dl z pi {c} t4 b w z

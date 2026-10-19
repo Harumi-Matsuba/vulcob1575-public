@@ -1,0 +1,97 @@
+line	position/context	first_token	second_token	decision	reason
+561.01	token 24: ...x b 4 dl D...	4	oc	second	cross with small enclosed loop below the crossbar at lower right, tapered foot (not the 4 triangle above crossbar at left, cf. 4 at idx 21)
+561.01	token 36: ...4 i S i 8...	S	z	first	thin tall arc ( immediately left of the z-like curl, same arc+curl unit as the other S signs
+561.02	token 14: ...w b 3 oc qx...	3	z	ambiguous	arc plus z-like curl with descending blob (looks like the S unit seen elsewhere); not a clear 3 (m) nor a bare z
+561.02	token 16: ...3 oc qx 4 g?...	qx	qq	second	square box bowl with right stem and left bar at the box base; same glyph the first pass itself calls qq on p562 l.18; not the round-bowl q with crossbar through the stem (cf. p561 l.07 idx 26)
+561.02	token 20: ...g? w 8? x i...	8?	al	ambiguous	8-like double loop, open on the left; neither a clear 8 nor a clear alpha
+561.02	token 27: ...x i S mu? D...	S	z	first	arc + curl unit as above
+561.02	token 28: ...i S mu? D w...	mu?	al	ambiguous	two-hump u-shape with preceding slash; not a closed alpha loop, but mu not certain
+561.03	token 4: ...D 9 qa ne 4...	qa	w	ambiguous	small faint a-like glyph with a dark flick at upper right, no tail below; not an omega, qa vs alpha unclear
+561.03	token 20: ...i 4 S {my3} dl...	S	z	first	arc + curl unit
+561.03	token 30: ...P 7 S 9 4?...	S	z	first	arc + curl unit
+561.03	token 32: ...S 9 4? b w...	4?	oc	second	cross with small closed loop at lower right, as oc
+561.03	token 35: ...b w S dl 7...	S	z	first	arc + curl unit, arc dark and clear
+561.03	token 39: ...7 x ?...	?	hash	ambiguous	two verticals with a crossbar and a diagonal, at binding shadow; hash plausible but second bar not visible
+561.04	token 10: ...h pi S i phi...	S	z	first	arc + curl unit
+561.04	token 14: ...phi b 4 i 9...	4	oc	ambiguous	cross with filled wedge below crossbar, no clear closed loop or tapered foot; 4 vs oc unclear
+561.04	token 18: ...9 w 3 pi dl...	3	z	ambiguous	same glyph as idx 4 (flat top bar, diagonal, middle bump, bowl with blob foot) = the 3 form; no arc, so not S; z has no separate shape here [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.05	token 12: ...pi {my3} S pi b...	S	z	first	arc + curl unit
+561.05	token 16: ...b w S 4 ne x...	S 4	z oc	first	arc + curl unit; the following cross is plain (no tapered V foot or loop), so 4 not oc
+561.05	token 32: ...i ne n oc x...	n	up	ambiguous	angular apex with long thin left leg and thick right foot, neither a clean round arch nor a clear arrowhead
+561.06	token 4: ...4 pi S D b...	S	z	first	arc + curl unit
+561.06	token 12: ...9 x T i D...	T	pi	first	single stem under a long bar (T), not the two-legged pi seen at idx 3
+561.06	token 23: ...i D S w i...	S	z	first	arc + curl unit
+561.06	token 39: ...x 8 S i?...	S	z	first	arc + curl unit
+561.07	token 5: ...b w 3 i pi...	3	z	ambiguous	flat top bar, diagonal, bowl with blob foot: same 3 form as elsewhere, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.07	token 12: ...ne w 3 oc dl...	3	z	ambiguous	same 3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.07	token 15: ...oc dl S D b...	S	z	first	arc + curl unit
+561.07	token 24: ...ne w S pi qx...	S	z	first	arc + curl unit
+561.07	token 26: ...S pi qx w D...	qx	ffx	first	q whose stem is crossed by a horizontal bar: same glyph under two names (qx = ffx shape); keep first name; value l vs ff differs only through the vk mapping
+561.07	token 39: ...w b 3 i?...	3	z	ambiguous	same 3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.08	token 2: ...hash i oc dl 9...	oc	ne	first	single horizontal bar crossing a stem with slanted foot; ne needs two or more bars
+561.08	token 14: ...pi dl S 9 pi...	S	z	first	arc + curl unit
+561.08	token 30: ...ne w 3 4 g...	3	z	ambiguous	3 form (flat top, bump, blob foot), no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.08	token 36: ...pi 8 4? dq w...	4?	oc	second	cross with small closed triangular loop at lower right
+561.09	token 4: ...dl 4 S x g...	S	z	first	arc + curl unit
+561.09	token 6: ...S x g ne i...	g	up	second	clear Lambda: thin left leg with serif foot, thick right stem with foot; not the bracket/flat-L shape (note: first pass wrote L here, main session replaced with g)
+561.09	token 15: ...4 b qa x i...	qa	al	ambiguous	upper closed loop plus lower loop with right tail: more complex than alpha, no clear tail below as in qa
+561.09	token 25: ...b w 3 o oc...	3	z	ambiguous	3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.09	token 33: ...dl oc 3 9 w...	3	z	ambiguous	3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.09	token 38: ...9 oc 3 i? w...	3	z	ambiguous	3 form, no arc (small, under a cross) [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.10	token 5: ...7 x S D b...	S	z	first	arc + curl unit
+561.10	token 13: ...w oc qx b 4...	qx	ffx	first	q with horizontal bar across the stem: same glyph (qx = ffx shape), keep first name
+561.10	token 20: ...3 w S phi pi...	S	z	first	arc + curl unit
+561.10	token 29: ...i ne q pi b...	q	ffx	first	long-tailed q with no crossbar visible, so not ffx
+561.10	token 40: ...dl c? S 4...	S	{c} z	first	arc + curl unit; the plain c before it is already in the first reading (c? at idx 39)
+561.11	token 2: ...D i S P? 4 i...	S P?	z oc	ambiguous	S: arc + curl unit (first). Next glyph: cross with a separate hook at upper right, not a clear P (stem with left stroke) nor an oc loop/foot
+561.11	token 15: ...b pi 3 w dl...	3	z	ambiguous	3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.11	token 26: ...8 w qa x i...	qa	al	ambiguous	closed upper loop, wide lower bowl with base stroke to the right, no tail below; qa vs alpha not decidable
+561.11	token 31: ...4 w S D pi...	S	z	first	arc + curl unit
+561.11	token 36: ...oc b 3 9 oc...	3	(none)	second	the beta (long stroke with 3-shaped bowl) already contains the curl; no separate 3 sign between b and 9
+561.11	token 39: ...9 oc qx w...	qx	qq	second	square box bowl, left bar at the base, right stem: same glyph as p562 l.18 qq
+561.12	token 16: ...4 b 3 pi b...	3	z	ambiguous	3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.12	token 22: ...w pi S 9 w...	S	z	first	arc + curl unit
+561.12	token 26: ...w x S 9 pi...	S	z	first	arc + curl unit
+561.12	token 35: ...b pi S 9 dl...	S	z	first	arc + curl unit
+561.12	token 37: ...S 9 dl w D...	dl	i	second	dark short stroke with loop and hook at lower-left, no tall swash above x-height (dl in this line have a high swash)
+561.12	token 41: ...D pi S...	S	z	first	arc + curl unit
+561.13	token 1: ...i? 3 P w...	3	z	ambiguous	3 form (flat top, bump, blob foot), no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.13	token 9: ...ne pi S D w...	S	z	first	arc + curl unit
+561.13	token 15: ...x w S 4 S...	S	z	first	arc + curl unit
+561.13	token 17: ...S 4 S P i...	S	z	first	arc + curl unit
+561.13	token 22: ...b pi c b 4...	c	{c}	first	same plain small c in both readings (first writes c as a token; value-space alignment artefact)
+561.13	token 27: ...D i S o oc...	S	z	first	arc + curl unit
+561.14	token 2: ...oo? o S w b...	S	z	first	arc + curl unit
+561.14	token 14: ...i D S w i...	S	z	first	arc + curl unit
+561.15	token 6: ...b pi P? x S...	P?	phi	ambiguous	stem with short left bar AND a closed loop (white centre) at the upper right: loop makes it phi, not plain P [coordinator rule: p vs phi not decided on shape alone; keep first, add ?]
+561.15	token 8: ...P? x S pi b...	S	z	first	arc + curl unit
+561.15	token 14: ...i dl S i {my3}...	S	z	first	arc + curl unit
+561.15	token 18: ...{my3} {bel?} S P w...	S	z	first	arc + curl unit
+561.15	token 26: ...ne pi 3 pi dl...	3	z	ambiguous	3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.15	token 38: ...x w S...	S	z	first	arc + curl unit
+561.16	token 7: ...9 pi S S x S...	S S	z z	first	two arc + curl units side by side, both arcs visible
+561.16	token 10: ...S x S 9 i...	S	z	first	arc + curl unit
+561.16	token 21: ...D w S 8 pi...	S	z	first	arc + curl unit
+561.16	token 29: ...oo o S D 4...	S	z	first	arc very faint (visible only after contrast stretch) but present at left of the curl
+561.16	token 34: ...dl D S 4 3...	S	z	first	arc + curl unit (arc faint)
+561.17	token 2: ...g? w S D pi...	S	z	first	arc + curl unit
+561.17	token 6: ...pi i? 3 P w...	3	z	ambiguous	3 form, no arc [coordinator rule: 3 vs z not decided on shape alone; keep first, add ?]
+561.17	token 30: ...ne x S 9 w...	S	z	first	arc + curl unit
+561.17	token 36: ...b oc dl S n...	dl	i	second	short thick stroke with small loop and hook, no tall swash (compare the true dl at idx 22 with a high swash)
+561.17	token 37: ...oc dl S n w...	S	z	first	arc + curl unit (arc visible at right edge of crop)
+561.18	token 2: ...3 4 i dl? pi...	i	z	first	small thin hook-topped loop (i form), not a z/3 curl
+561.18	token 5: ...dl? pi S oc w 9...	S oc	z ne	second	S: arc + curl (first); the following sign is a stem with two horizontal bars = ne, not oc
+561.18	token 18: ...i th? S pi b...	S	z	first	arc + curl unit
+561.18	token 24: ...z? pi box 4 dl?...	box	bow	first	rectangle with bars inside, not two triangles meeting at a point
+561.18	token 29: ...D 4 oc 7 at...	oc	ne	second	stem with two clear horizontal bars, no loop or foot
+561.18	token 34: ...i x oc 9 x...	oc	phi	ambiguous	stem with a loop at upper right and two bars below; oc vs phi not decided on shape alone
+561.19	token 3: ...i D S i w...	S	z	first	arc + curl unit
+561.19	token 14: ...i 7 ? oo? al? oc x...	? oo? al?	{roc}	second	small plain-script letters r-o-c(a) in a cluster, not cipher signs; then the stem with two bars
+561.19	token 17: ...oo? al? oc x 2...	oc	ne	second	stem with two clear horizontal bars after the plain word, no loop
+561.19	token 21: ...2 9 4? qa? pi...	4?	oc	second	cross with small closed triangular loop at lower right
+561.19	token 22: ...9 4? qa? pi b...	qa?	qq	second	square box bowl with left bar at base and right stem
+561.19	token 27: ...phi pi S P 4...	S	z	first	arc + curl unit
+561.19	token 29: ...S P 4 dl S...	4	oc	ambiguous	cross with slight foot before dl; loop not clear
+561.19	token 31: ...4 dl S pi c...	S	z	first	arc + curl unit
+561.19	token 34: ...pi c 4 b w...	4	oc	second	cross with closed triangular loop at lower right (before b w)
+561.19	token 37: ...b w S...	S	z	first	arc + curl unit

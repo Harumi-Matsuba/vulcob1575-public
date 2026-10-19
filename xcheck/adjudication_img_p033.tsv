@@ -1,0 +1,39 @@
+line	position/context	first_token	second_token	decision	reason
+33.01	line start	i	? {iay} i {saue}	first	the extra tokens are plain text of the preceding clear passage; cipher starts at the hooked i
+33.01	after w x	ros	{roe}	ambiguous	plain script reads r-o-e/s; ros as nomenclature vs spelled word undecidable
+33.01	after ros	{sanc} {estre}	{saincte}	ambiguous	script looks like sanc + estre (long s) with small gap; saincte also possible
+33.01	after i dl	plus {ucb+}	{plus} {ucl} P	ambiguous	plus same; ucl with crossed l vs ucl + a separate ⊣ (P) at line end undecidable
+33.02	line start	{smua}	{mua}	ambiguous	image starts at the crop edge with a stray mark before m; s not clear
+33.02	after D i	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.03	line start	qa	(absent)	ambiguous	first glyph at the left edge of the cropped line image is not (or only partly) visible, so it cannot be checked; kept with ?
+33.03	after w ne	qa	al	ambiguous	a-like glyph with upper loop; qa vs al vs 8 not decidable
+33.03	after 8 h	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.03	after i g	mu	al	ambiguous	small a-like glyph after the g-bracket; mu vs al undecidable
+33.03	after mu	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.03	after oc dl	{toe}	{roe}	second	same word-form as 33.01 "roe" (r with x-like shape), not t
+33.04	line start	p	(absent)	ambiguous	first glyph at the left edge of the cropped line image is not (or only partly) visible, so it cannot be checked; kept with ?
+33.05	line start	3	(absent)	ambiguous	first glyph at the left edge of the cropped line image is not (or only partly) visible, so it cannot be checked; kept with ?
+33.05	after S	qa	al	ambiguous	a-like glyph with upper loop; undecidable
+33.05	after pi ne	qa	?	ambiguous	a-like glyph overlapped by an ink blot; undecidable
+33.05	after w ne	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.05	after oc	dl	g	ambiguous	small glyph with curled top; dl vs bracket g undecidable
+33.05	after dl D	D	?	ambiguous	square/diamond with a stem (box-like, maybe dq); not a plain triangle
+33.05	after D b	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.06	line start	o?	?	ambiguous	dark blot at line start; kept o?
+33.06	after o?	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.06	after oc dl	{c}	g	first	small plain c
+33.06	after dl D	b pi	?	ambiguous	beta overlapped by a smudge of plain script; undecidable
+33.06	after pi 8	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.06	after oo g	fl	L	first	stem with boxed foot = fl; the bracket g is the preceding glyph
+33.06	after 9 i	8?	S	second	open arc plus y-sign = S
+33.06	after w S	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.07	line start	ne	(absent)	ambiguous	only a fragment of the glyph is visible at the left crop edge
+33.07	after S i	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.07	after dl x	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.07	after x ne	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.07	after i D	P	fl	first	stem with a left bar (P), no boxed foot
+33.07	after 8 h	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.08	line start	ne	(absent)	ambiguous	first glyph at the left edge of the cropped line image is not (or only partly) visible, so it cannot be checked; kept with ?
+33.08	after i b	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.08	after pi S	oc	fl	first	cross with bar and closed triangle hanging below the bar = oc; the second transcriber names it fl
+33.08	after 7 dl	ucl	?{v-shaped sign} {ce}	ambiguous	v-shaped stroke plus cc with long tail; could be ucl or v + ce; undecidable

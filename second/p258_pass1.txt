@@ -1,0 +1,22 @@
+p258_L01	qa x w ne {plus} i x i S 4 dl 8 w 7 {nelluy} {c} 7 {benitow} S oc i p i ne th 4 x S i
+p258_L02	p dl S 4 i D {my} th S oc dl D 4 hash w th 3 4 ne 7 ffx w 8 D i oc qq w th / 3 4 i S
+p258_L03	{hoste} {disposee} {comme} {elle} {son} - w dl 4 ne w 3 4 L dl w 7 L b 4 i q pi P T
+p258_L04	ne w x b q pi hash w i dl P oc x at oc i D i ne S oc b D i b w ffx pi di / S i ne th x
+p258_L05	dl D p 4 i b pi w dl D b w P b i S w oc m pi b D pi 8 oc dl di b pi w x
+p258_L06	{roe} {mais} {a} P ne x S i pi x b S 8 4 x S pi S q w S qa x w ne q pi S i
+p258_L07	i 8 2 q w x S P b i dl 8 i P 4 ne w S 8 4 b {sans} {pome} w dl P b w 3 i pi b ne i
+p258_L08	{Saturne} / {si} qa x i {be} w dl 8 oc b pi P qq x S 3 4 ne 7 ffx w 8 D i oc qq w
+p258_L09	w dl x w b n ne w S q i D th {nelluy} {c} {benitow} {ne} ne w 3 P pi S 8 / w b oc i
+p258_L10	P oc m oc i D / S 4 8 h 7 dl D o i w dl {plus} D w ne q pi S w dl D b w P b i S w
+p258_L11	q b oc i w dl D / S x b ne pi S p b 4 i S 8 oc gn x dl S / q pi {mais} {Zotum} {c} {plus}
+p258_L12	w dl D / qa x i S 2 w 3 P ne oc 2 w b oc i D / S w b oc i D 4 x D 7 dl D q w q i 3 i dl x
+p258_L13	qa x i q w x w b oc i D x w dl i b / w dl S 4 o oc x b S pi / 4 b 4 i S oc dl {peu} ne w
+p258_L14	o x D i oc dl S / {my} q w 3 4 dl q pi / S oc m w dl D {roe} ne 4 q w p pi dl S w {de} p
+p258_L15	L b pi S / q w h oc dl L b i w / pi dl S w b oc i w dl D q 4 x D 7 dl D 3 oc i dl q b w S
+p258_L16	{Mitte} S 2 oc lz S S w b oc i w dl D {mime} {my} th P oc at oc i w dl D {c} {principale}
+p258_L17	q w 3 4 2 pi dl 6 g S w q oc x D 7 dl S o i w dl {plus} {se} {sil} 2 4 x oc i D x dl b w 3
+p258_L18	w dl ne 4 ne w 3 4 L dl w {c} 3 w S 3 pi phi g D w dl ne w x b qa x 4 b D i w b i ne th
+p258_L19	dl D pi dl u i dl q x 3 w i ne q pi x b {c} {plus} {roe} ne w 3 oc i dl S ne w S L w dl
+p258_L20	at w x i up b oc i w dl D S x b ne w x b P 4 2 S P ne x S ne i 8 pi dl D i w x
+p258_L21	{plus} S x b 8 w x S q w S 4 x D b w S P b i dl 8 w S n i ne {ne} dl w ne pi
+p258_L22	7 x w dl oc i D 8 h oc S pi P i b w {sans} {estre} {point}

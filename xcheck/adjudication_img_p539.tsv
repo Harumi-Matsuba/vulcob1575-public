@@ -1,0 +1,36 @@
+539.01	idx23 ctx:w b _ {mine}	{Monseigneur} plus	{monseigneur} {plus}	first	formatting only (braces/?), same reading
+539.01	idx11 ctx:di b _ P 3	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.01	idx3 ctx:oc x _ S 4	S	8	first	not individually zoomed (or trailing token); first kept
+539.01	idx1 ctx:x _ x S	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.02	idx27 ctx:4 x _ x P	8 oc	9 fl	mixed	8 has open tail (first right); oc/fl sign question
+539.02	idx23 ctx:S w _ pi 4	o	i	first	not individually zoomed (or trailing token); first kept
+539.02	idx19 ctx:g w _ pi S	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+539.02	idx13 ctx:dl D _ h 4	8	9	first	open-tail 8 visible, not 9
+539.02	idx8 ctx:7 x _ i w	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.02	idx4 ctx:oc fl _ di dl	(none)	di	ambiguous	extra di inserted by second; not resolved, no change
+539.02	idx2 ctx:{my3θ} S _ fl di	oc	(none)	ambiguous	sequence after S (oc/fl/di/di) not resolvable; no change
+539.02	idx0 ctx: _ S oc	{my3θ}	{my} th	first	{my3θ} vs {my} th: same marks, split difference only
+539.03	idx28 ctx:8 b _ 2 w	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.03	idx26 ctx:oc dl _ b oc	8	9	first	open-tail 8 visible, not 9
+539.03	idx24 ctx:plus ne _ dl 8	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.03	idx22 ctx:q pi _ ne oc	plus	{plus}	first	formatting only (braces/?), same reading
+539.03	idx10 ctx:dl di _ x w	plus ucl ? {saturnus} {sanc}	{plus} {vot} {saturne} {sans}	ambiguous	"ucl" word looks like script "vbt"/"ucl", not resolved; sanc ends in c (first right); saturnus kept
+539.03	idx1 ctx:dl _ fl oo	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.04	idx36 ctx:oc dl _ ne x	{my3}	{my}	first	{my3} has a z-like tail in image
+539.04	idx34 ctx:di i _ dl {my3}	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.04	idx26 ctx:w 3 _ dl S	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.04	idx23 ctx:ne 4 _ w 3	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+539.04	idx17 ctx:D di _ x di	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.04	idx2 ctx:ne w _ dl D	8 oc	9 fl	mixed	8 first (open tail); oc/fl sign question
+539.05	idx30 ctx:ne th _ D w	plus	{plus}	first	formatting only (braces/?), same reading
+539.05	idx27 ctx:g dl _ ne th	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.05	idx15 ctx:x 4 _ w b	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+539.05	idx8 ctx:ne w _ P w	ros	{ros}	first	formatting only (braces/?), same reading
+539.05	idx2 ctx:ucl P _ hash i	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.05	idx0 ctx: _ P oc	ucl	{ucl}	first	formatting only (braces/?), same reading
+539.06	idx22 ctx:w x _ 	{fec} {estre}	{sec} {qtur} {Car} {iouvre} {ay} {il} {est}	second	"sec estre" legible (long-s); remaining words are plain French after the period, not cipher
+539.06	idx19 ctx:pi S _ w x	8	9	first	open-tail 8 visible, not 9
+539.06	idx16 ctx:oc dl _ pi S	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+539.06	idx14 ctx:4 S _ dl 9	oc	fl	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+539.06	idx6 ctx:b D _ 4 x	ucl	{vel}	ambiguous	script u/v-cl word, not resolved
+539.06	idx0 ctx: _ w P	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem

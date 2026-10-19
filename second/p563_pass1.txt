@@ -1,0 +1,15 @@
+p563_L01	ne w i D S w i g dl pi x b {saturnus} z t4 dl S D b 7 phi w 8 pi x t4 i b x dl S i dl g D ne i w
+p563_L02	b P ne 7 i S i b {c} D t4 S o 4 P b w S ne pi dl x t4 x 4 7 ne 4 b 8 h q x 8 w b dl pi S D w
+p563_L03	{sec} ne x 2 phi 7 i b w 7 x t4 i b P 4 b D q x P 4 hash w D pi z S {je} {Vous} {pry}
+p563_L04	8 w S z pi dl x pi S P 4 b D i 8 x ne 7 b i D w th {Monseigneur} 4 box w dl S t4 dl D {pour}
+p563_L05	i w S 4 8 h w 4 hash w D b ne z pi dl D al x pi ne q w S pi b 7 ne 4 q w b dl i w b pi
+p563_L06	phi pi S t4 ne x D i t4 dl q x q i D S w i g dl w x b {saturnus} ne w al x pi ne 7 ne 4 D w b i
+p563_L07	D w 8 t4 ne w i x g w dl D P ne x S i w x b S n 4 g w S P w b S t4 qq 7 g w S dl 4
+p563_L08	7 x 8 x fl w z pi dl D o w S t4 i dl q pi z 4 m 4 i S w i dl D w ne q i g w dl 8 pi {c} z t4 o dl S
+p563_L09	q pi g x w {au} pi 7 x w 8 ne w q i D S pi i g dl w x b {Juno} dl pi S D 7 dl D di b t4 P
+p563_L10	o i w dl P t4 x b x w x q w t4 i dl t4 dl 8 pi S {c} w S D 7 dl D q i ffx i 8 mu ne w q 4 box i b o phi
+p563_L11	ne w S pi S D 7 di fl q pi ne w z P i b pi 7 {plus} ne {pour} S w 8 t4 x b S pi {c} D b 4
+p563_L12	t4 b q i dl 4 i b w x pi x z w S phi w al x t4 dl di w P w x D o oo D w dl i b q w x S ne w x
+p563_L13	b S D 7 {c} pi S t4 b q i dl 4 i b pi S n i 8 w dl {ucl} P t4 hash i o ne w ne pi S w ne pi 8
+p563_L14	D w x b S q w S 4 w w {c} o b 4 dl q pi oc x b L ne w S lz x pi ne th D t4 x D w S t4 t4 i S
+p563_L15	dl w S pi x t4 x q b t4 dl D q w o pi 4 x 8 t4 x P 4 ffx t4 i o ne i b

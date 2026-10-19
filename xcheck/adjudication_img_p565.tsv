@@ -1,0 +1,104 @@
+line	position/context	first_token	second_token	decision	reason
+565.01	after 8	4	(absent)	first	a 4 stands between 8 and the boxed-foot glyph
+565.01	after 4	fl?	fl	second	stem with a boxed foot is clear: fl
+565.02	line start	{fec}	{sec}	first	long-s + ec; same word, long s written f
+565.02	after {fec}	{saturnus}	{saturne}	ambiguous	ending of the plain word ue/us not decidable
+565.02	after w dl	di w dl	(absent)	first	three glyphs are present (diamond-like, omega, delta); second dropped them
+565.02	after ne	oc dl	fl	first	two glyphs: oc (bar+hanging triangle) then delta; not one fl
+565.02	after S	{nez?}	{my}	second	plain word reads my (m, y with tail)
+565.02	after x D	{mais}	{maie}	ambiguous	last letter s vs e undecidable
+565.02	line end	{manua?}	{manue}	ambiguous	last letter a vs e undecidable
+565.03	after S P	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.03	after w x	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.03	after n	ne	oc	first	two horizontal bars crossed by stem (dark blot) = ne, not bar+triangle
+565.03	after n i	plus	{puis}	ambiguous	script reads p-u-?-a/s; l-ascender not visible but nomenclature plus also possible
+565.03	after P b	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.03	after oc	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.03	after D w	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.04	after b ne	7	i	first	a plain 7
+565.04	after w b	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.04	after hash i	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.04	after pi S	P	q	first	stem with a short stroke at upper left (P), no loop
+565.04	after w x	ne	ffx	ambiguous	stem with p-like top loop and 3 bars: ne vs ffx undecidable
+565.04	after T w	guod ros	2 w i {coe}	first	plain script words guod and ros are legible; second read g as 2
+565.04	after ne 7	qa	al	ambiguous	a-like glyph with upper loop and open tail; read 8/qa/al across pages, not decidable
+565.05	after w n	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.05	after i 8	mu	al	first	slanted mu-shaped stroke, not alpha
+565.05	after i P	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.05	after ne w	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.05	after ne w	3	S	first	a 3-shaped glyph, no enclosing arc
+565.05	after 3	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.05	after 4 b	qa	al	ambiguous	a-like glyph with upper loop; not decidable
+565.05	after b w	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.06	line start	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.06	after w P	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.06	after w 8	oc	t4	ambiguous	image shows a clear 4 (closed triangle above-left of bar): neither oc nor t4
+565.06	after oc P	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.06	after b 9	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.06	after oc	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.06	after w h	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.06	after dl 9	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.07	after 3	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.07	after x b	fl	i	first	stem with a boxed foot = fl
+565.07	after x 2	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.07	after 3	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.07	after 4 b	qa	al	ambiguous	a-like glyph with upper loop; not decidable
+565.07	after pi ne	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.07	after 4 8	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.08	after 9	pi	T	first	two-legged pi, not a single-stem T
+565.08	after 6 h	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.08	after w S	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.08	after S D	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.08	after oc	dl	i	first	tall loop with ascender curling over
+565.09	after dl x	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.09	after x n	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.09	after pi b	{mesme?}	{my}	ambiguous	short plain script word, not decidable
+565.09	after {mesme?}	th	i	first	oval with a bar = theta
+565.09	after th dl	4	fl	first	cross with triangle, no boxed foot
+565.09	after pi dl	g	T	first	bracket with curved top = g, not T
+565.09	after g	4	fl	first	cross shape, no boxed foot
+565.10	after dl 2	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.10	after w S	phi	g	first	loop on stem with a crossbar = phi, not a bracket
+565.10	after pi 9	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.10	after qq w	oc	t4	ambiguous	glyph looks like a 4 (triangle above-left); neither oc nor t4
+565.10	after 8 n	i?	dl	second	tall delta with top hook, not the small i
+565.10	after D i	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.11	after 9	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.11	after 7 x	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.11	after dl D	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.11	after 8 2	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.11	after b pi	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.11	line end	{saturnus}	{saturne}	ambiguous	ending not decidable
+565.12	after 7 ne	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.12	after S P	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.12	after S w	{nez?}	{my}	second	plain word reads my
+565.12	after w dl	9	q	second	dark loop with a tail about 2x its height
+565.12	after 8 pi	{nez?}	{my}	second	plain word reads my
+565.13	after w P	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.13	after D w	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.13	after w ne	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.13	after x 8	3	z	ambiguous	3/zed not separable on shape (coordinator rule: keep first + ?)
+565.13	after 3	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.13	after h i	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.14	line start	o	n	first	small closed circle = o
+565.14	after w dl	qa	al	ambiguous	a-like glyph with upper loop; not decidable
+565.14	after qa x	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.14	after oc dl	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.14	after b pi	plus	{plus}	first	same word plus (nomenclature)
+565.14	after i D	{manua?}	{manue}	ambiguous	last letter a vs e undecidable
+565.14	after w S	dl	i	second	short thick stroke over a small loop (hook up-left), no tall ascender: i
+565.15	after 7 x	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.15	after plain words (plain-word spelling differences not judged)	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.15	after x i	dl	th	ambiguous	narrow oval-with-bar glyph; dl vs th undecidable
+565.15	after x b	?	VM	second	ring with a cross inside = VM (Vostre Majeste) glyph
+565.15	after VM	t4?	fl	ambiguous	stem with bar and V below: oc-like, neither t4 nor fl
+565.15	after 2 S	4	fl	first	cross shape, no boxed foot
+565.16	after 3	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.16	after 8 w	{nez?}	{my}	second	plain word reads my
+565.16	after {my} 9	oc	fl	first	cross whose bar carries a closed triangle hanging below it (oc); the second transcriber names this glyph fl/t4
+565.16	after oc	dl	i	second	short thick stroke over small loop = i
+565.16	after dl D	di?	di	second	clear lozenge
+565.16	after di b	4	t4	first	cross with closed triangle above-left of the bar = 4 (a); not an arrowhead t4
+565.16	after 4	dl	i	second	short thick stroke over small loop = i
+565.16	after w b	{fec}	{sec}	first	long-s; same word
+565.16	line end	{vib?}	{Vre}	ambiguous	final plain word not decidable

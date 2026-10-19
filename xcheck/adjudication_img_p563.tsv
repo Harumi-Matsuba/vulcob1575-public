@@ -1,0 +1,94 @@
+line	position/context	first_token	second_token	decision	reason
+563.01	after ne w	9	(absent)	first	a 9 (short tail) stands between omega and the hooked i
+563.01	after {saturnus}	3	z	ambiguous	flat-topped 3/zed form with heavy foot; not separable from z
+563.01	after 3	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.01	after 7	?	phi	ambiguous	stem + upper-right loop + extra lower-left bowl; not the key phi (loop centred on stem); kept ?
+563.01	after pi x	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.01	after dl g	x	D	first	plain x (crossed strokes), no triangle
+563.02	after i b	c	{c}	first	same small plain c; naming difference only
+563.02	after c D	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.02	after oc S	di	o	first	a lozenge/diamond, not a small circle
+563.02	after dl x	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.02	after oc	2	x	first	flat-topped 2 with tail, not crossed strokes
+563.02	after 8 h	i 9	q	ambiguous	dark tall hooked stem overlaps a 9 whose tail is long; cannot tell i+9 from one q
+563.03	line start	ros	{sec}	first	plain word reads r-o-s (middle letter o)
+563.03	after x 2	p	phi	ambiguous	stem with left bar and small right loop; between p and phi
+563.03	after 7 x	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.03	after b D	9	q	first	9 with short tail
+563.03	after D pi	3	z	ambiguous	narrow flat-topped 3/zed form
+563.03	line end	{say?}	{pry}	ambiguous	plain word: thick long-s/p stem with flourish, then x-like r?, y; first letter s vs p undecidable
+563.04	after w S	3	z	ambiguous	flat-topped 3/zed form with heavy foot
+563.04	after w dl	9	S	first	a plain 9, no enclosing arc
+563.04	after 9	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.04	line end	plus	{pour}	first	plain word reads plus
+563.05	after hash w	x	D	first	x, no triangle
+563.05	after x b	?	ne	ambiguous	stem with several bars and a top hook (same glyph as 565.04 @20, ne vs ffx vs p-loop); not safely any key sign; kept ?
+563.05	after ?	3	z	ambiguous	small round-topped 3 but 3/z not separable on shape (coordinator rule: keep first + ?)
+563.05	after dl D	8	al	ambiguous	two-loop glyph with open tail (same glyph read 8/qa/al elsewhere); not clearly alpha
+563.05	after pi ne	qa?	q w	second	two separate glyphs: a 9 with long straight tail (q) then a small faint a-like glyph; not one qa. small glyph looks alpha rather than omega
+563.05	after ne 4	9	q	ambiguous	tail curves left, about 1.6x loop height; between 9 and q
+563.06	line start	?	phi	ambiguous	same stem + upper-right loop + lower-left bowl glyph as 563.01 @21; kept ?
+563.06	after pi S	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.06	after D i	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.06	after oc dl	9	q	ambiguous	curved tail of intermediate length
+563.06	after 9 x	9	q	first	short-tailed 9
+563.06	after ne w	8	al	ambiguous	two-loop glyph with open tail; not clearly alpha
+563.06	after ne 4	x	D	first	x
+563.06	line end	dl	i	ambiguous	thick top stroke with leftward tick over a small loop; could be dl or the dark short-stemmed i (cf. 565.14, 565.16)
+563.07	after w 8	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.07	after oc	box	ne	ambiguous	rectangle with a stem and a bar above it; could be box or box+ne overlap
+563.07	after b S	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.08	after dl w	3	z	ambiguous	tall flat-topped 3/zed form
+563.08	after w S	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.08	after i dl	9	q	ambiguous	curved tail of intermediate length
+563.08	after 9 pi	3	z	ambiguous	round-topped 3 but 3/z not separable on shape (coordinator rule)
+563.08	after 8 pi	c	{c}	first	same small plain c; naming only
+563.08	after c	3	z	ambiguous	tall flat-topped 3/zed form
+563.08	after 3	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.08	after oc	i	o	first	round body with a hook (dot at top) = i; a small circle o is smaller and closed
+563.09	line start	9	q	second	tail sweeps far left and down, about 2x the loop; short-tailed 9 elsewhere on the line is clearly different
+563.09	after x w	at	{au}	first	"au" in script inside a large circle = circled a (at)
+563.09	after ne w	9	q	first	short-tailed 9 with ink dot below
+563.09	after di? b	4	t4	ambiguous	stem + bar + small triangle below the bar (oc-like), fits neither 4 nor t4 well
+563.10	after dl P	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.10	after w x	9	q	ambiguous	curved tail of intermediate length
+563.10	after 9 w	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.10	after i dl	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.10	after pi S	c	{c}	first	same small plain c; naming only
+563.10	after dl D	9	q	ambiguous	curved tail of intermediate length
+563.10	after 9 i	p	ffx	second	q-like glyph whose stem is crossed by a horizontal bar near the foot (not p)
+563.10	after ne w	9	q	first	short-tailed 9
+563.10	line end	w ?	o phi	ambiguous	omega with a dark blob at its right end (o?), then a stem+bowl+bar glyph over paper damage; undecidable
+563.11	after 7 di	th	fl	first	oval with horizontal bar = theta
+563.11	after th	9	q	ambiguous	tail curves left, intermediate length
+563.11	after ne w	3	z	ambiguous	flat-topped 3/zed form with heavy foot
+563.11	after plus ne	plus	{pour}	first	plain word reads plus
+563.11	after w 8	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.11	after S pi	{x}	{c}	ambiguous	tiny plain mark: a c-like curve plus a separate tick; x or c undecidable (both null)
+563.12	line start	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.12	after oc b	9	q	ambiguous	curved tail of intermediate length
+563.12	after pi x	3	z	ambiguous	round-topped compact 3 but 3/z not separable on shape (coordinator rule)
+563.12	after phi w	qa	al	ambiguous	a-like glyph with upper loop and open tail (same glyph read 8/qa/al); neither clearly
+563.12	after qa x	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.12	after oc dl	fl	di	first	stem with boxed foot = fl (the boxed foot is not a free diamond)
+563.12	after i b	9	q	first	short-tailed 9
+563.13	after D 7	{x}	{c}	ambiguous	tiny plain mark, x vs c undecidable
+563.13	after pi S	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.13	after oc b	9	q	ambiguous	curved tail of intermediate length
+563.13	after w dl	fl? g	{ucl}	second	three small script strokes u-c-l (with dot), not a b-shape + bracket
+563.13	after g P	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.14	after b S	9	q	ambiguous	curved tail of intermediate length
+563.14	after S 4	{x}	w	ambiguous	faint small glyph before the omega; present, but x vs omega undecidable
+563.14	after {x} w	c	{c}	first	small plain c; naming only
+563.14	after 4 dl	9	q	first	short-tailed 9
+563.14	after 9 pi	o	(absent)	first	small circle present between pi and oc
+563.14	after x b	g	L	first	bracket with curved top and long horizontal base = g; not a lambda
+563.14	after w S	qa	lz	ambiguous	a-like glyph with upper loop and open tail; not a l+z ligature
+563.14	after th D	4	t4	ambiguous	stem + bar with small triangle below; fits neither well
+563.14	after w S	oc 4	t4 t4	ambiguous	two similar stem+bar+small-triangle glyphs; first reads oc, second one doubtful
+563.15	after pi x	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.15	after oc x	9	q	ambiguous	long curved tail, intermediate
+563.15	after 9 b	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.15	after dl D	9	q	ambiguous	long curved tail, intermediate
+563.15	after x 8	oc	t4	first	cross with bar and closed triangle hanging below the bar, stem above: oc, not an arrowhead-on-top t4
+563.15	after P 4	qx 4 t4? dl	ffx t4 i	second	glyphs after P 4 are: q-with-crossbar, oc-like, tall delta; first has a spurious extra 4; dl (tall ascender) not i; qx and ffx are the same shape

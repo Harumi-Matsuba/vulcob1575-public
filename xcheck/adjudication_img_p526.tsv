@@ -1,0 +1,89 @@
+526.01	idx32 ctx:dl pi _ 	x	(none)	first	trailing x; not separately zoomed, first kept
+526.01	idx28 ctx:S w _ dl pi	dl g	i L	mixed	g->L: flat L with base (as elsewhere), second right; dl vs i not resolved at this zoom
+526.01	idx18 ctx:dl S _ 9 i	ne?	ne	first	formatting only (braces/?), same reading
+526.01	idx12 ctx:n D _ P w	pi? ros	pi {ros}	first	formatting only (braces/?), same reading
+526.01	idx2 ctx:8 h _ S pi	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.02	idx30 ctx:dl oc _ 	t4? oo b S D?	o o	ambiguous	line end: tokens not resolvable at the zoom used; first kept with ?
+526.02	idx29 ctx:ne dl _ oc t4?	(none)	t4	ambiguous	extra t4 before oc proposed by second; same oc/t4 sign question, no change
+526.02	idx22 ctx:dl 8 _ dl S	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.02	idx19 ctx:dl S _ dl 8	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.02	idx10 ctx:c? 8 _ dl 8	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.02	idx7 ctx:pi b _ 8 oc	ne? c?	ne {c}	second	plain-script c (not a cipher sign); second right
+526.02	idx4 ctx:ne i _ pi b	b	o	first	b vs small circle o not individually zoomed; first kept
+526.02	idx0 ctx: _ pi ne	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.03	idx33 ctx:w i _ 	ne	(none)	first	not individually zoomed (or trailing token); first kept
+526.03	idx28 ctx:qa x _ dl x	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.03	idx26 ctx:pi S _ x oc	qa	al	second	a-shaped sign without curled tail below (alpha)
+526.03	idx16 ctx:S 8 _ dl i	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.03	idx1 ctx:D _ x di	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.04	idx33 ctx:P b _ 	w D?	(none)	first	not individually zoomed (or trailing token); first kept
+526.04	idx21 ctx:w dl _ P ne	plus	{plus}	first	formatting only (braces/?), same reading
+526.04	idx16 ctx:b w _ i w	c b	{c} i	mixed	c is plain-script letter (second right); b vs i after it not resolved
+526.04	idx11 ctx:dl 8 _ dl D	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.05	idx32 ctx:7 S _ 	x dl	(none)	first	not individually zoomed (or trailing token); first kept
+526.05	idx14 ctx:S i _ dl 9	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.05	idx9 ctx:pi x _ M 7	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.05	idx2 ctx:dl D _ dl 7	mu	{my}	second	plain-script letters "my", not Greek mu
+526.06	idx32 ctx:x w _ 	x	(none)	first	not individually zoomed (or trailing token); first kept
+526.06	idx24 ctx:ne w _ S w	c	{c}	first	formatting only (braces/?), same reading
+526.06	idx19 ctx:oc dl _ dl 8	oc	?{filled 4-like sign}	ambiguous	unusual filled sign; second reads it as unmapped, not resolved
+526.06	idx17 ctx:b S _ dl oc	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.06	idx10 ctx:S P _ x i	oc?	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.06	idx5 ctx:b w _ pi S	ros 9	{ros} q	first	ros 9 vs {ros} q: ros bracing only; 9 has short hooked tail, first kept
+526.06	idx0 ctx: _ b pi	p?	p	first	formatting only (braces/?), same reading
+526.07	idx33 ctx:w dl _ 	9	(none)	first	not individually zoomed (or trailing token); first kept
+526.07	idx25 ctx:D 4 _ w i	g	L	second	flat L-like sign with horizontal base and small top hook, not bracket g
+526.07	idx10 ctx:b 7 _ 7 b	up	M	first	up vs M not separately zoomed; first kept
+526.07	idx2 ctx:8 w _ i ne	plus	{plus}	first	formatting only (braces/?), same reading
+526.08	idx32 ctx:ros 8 _ 	pi	(none)	first	trailing pi not separately zoomed
+526.08	idx30 ctx:w b _ 8 pi	ros	{ros}	first	formatting only (braces/?), same reading
+526.08	idx19 ctx:P w _ dl w	8	i	ambiguous	8 (open-tail) vs i (hook) not resolved
+526.08	idx15 ctx:w th _ pi P	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.08	idx6 ctx:qa x _ dl 7	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.08	idx4 ctx:pi x _ x oc	qa	al	second	a-shaped sign without curled tail below (alpha)
+526.09	idx34 ctx:dl D _ 	dl	(none)	second	image ends at D; no further sign after it
+526.09	idx32 ctx:3 w _ D dl	dl	i	ambiguous	tall-stem hook after w: dl vs i borderline
+526.09	idx23 ctx:ne w _ q 7	plus	{plus}	first	formatting only (braces/?), same reading
+526.09	idx18 ctx:h i _ x 8	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.09	idx8 ctx:w i _ dl pi	g	L	second	flat L-like sign with horizontal base and small top hook, not bracket g
+526.09	idx2 ctx:ne w _ i D	9	q	ambiguous	tail longer than the other 9s but hooked, not straight like true q (l.09 pos ~1500); borderline
+526.10	idx32 ctx:hash i _ 	plus	p	ambiguous	line image cuts off at the right edge after "p"; plus vs p undecidable
+526.10	idx29 ctx:w 7 _ hash i	al?	x	ambiguous	not resolved
+526.10	idx23 ctx:9 i _ x S	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.10	idx21 ctx:dl 7 _ i oc	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.10	idx18 ctx:w ne _ dl 7	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.10	idx13 ctx:4? ne _ D w	oc t4?	t4 ?{filled diamond with stem}	ambiguous	sign pair, oc/t4 sign question
+526.10	idx11 ctx:pi x _ ne oc	4?	t4	ambiguous	4 vs t4 (same oc/t4 sign question)
+526.10	idx8 ctx:7 dl _ pi x	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.10	idx4 ctx:oc P _ b 7	g	L	second	flat L-like sign with horizontal base and small top hook, not bracket g
+526.10	idx2 ctx:D b _ P g	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.11	idx30 ctx:w 7 _ 	at w	{au}	second	circled plain letters "au" word, not at+w signs
+526.11	idx16 ctx:S D _ pi S	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.11	idx6 ctx:w i _ dl w	g	L	second	flat L-like sign with horizontal base and small top hook, not bracket g
+526.11	idx0 ctx: _ i D	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.12	idx34 ctx:i ne _ 	th? h ?	th	first	line end not separately zoomed
+526.12	idx28 ctx:D th _ w dl	g	L	second	flat L-like sign with horizontal base and small top hook, not bracket g
+526.12	idx24 ctx:x S _ i D	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.12	idx9 ctx:w x _ pi P	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.13	idx33 ctx:ne pi _ 	S	(none)	first	trailing S, not separately zoomed
+526.13	idx26 ctx:dl ne _ D pi	w	dl	ambiguous	not resolved
+526.13	idx21 ctx:x D _ i w	b	i	ambiguous	not resolved
+526.13	idx11 ctx:c? 8 _ pi i	oc box	t4 dq	mixed	square with stem and crossbar on top = dq (matches key dq glyph); oc/t4 sign question remains
+526.13	idx9 ctx:i dl _ 8 oc	c?	(none)	second	the "(" before 8 is the left arc of an S flourish from the line above/neighbour, not a c
+526.14	idx36 ctx:9? pi _ 	3 w?	(none)	first	trailing 3 w?, not separately zoomed
+526.14	idx33 ctx:ne 7 _ pi 3	b 9?	o ?{filled q-like sign}	mixed	b->o: small circle; the following filled sign is a blob, not resolved
+526.14	idx30 ctx:w 3 _ ne 7	b	o	second	small plain circle (o), clearly not beta
+526.14	idx28 ctx:c S _ 3 b	w	at	ambiguous	blotted omega-like sign; second reads circled-a, not resolved
+526.14	idx26 ctx:9 2 _ S w	c	{c}	first	formatting only (braces/?), same reading
+526.14	idx24 ctx:3 i _ 2 c	9	q	first	9 has short hooked tail ending in a blob; true q (l.09 ~x1500, l.16) is a straight heavy stem
+526.14	idx18 ctx:i b _ dl ne	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.14	idx11 ctx:dl D _ x w	qa	al	second	a-shaped sign without curled tail below (alpha)
+526.15	idx33 ctx:x di _ 	pi	(none)	first	not individually zoomed (or trailing token); first kept
+526.15	idx30 ctx:D di _ x di	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.15	idx20 ctx:8 pi _ w S	mu	{my}	second	plain-script letters "my", not Greek mu
+526.15	idx12 ctx:pi 8 _ dl -	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.15	idx6 ctx:dl S _ x n	oc	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.15	idx2 ctx:w dl _ dl S	9 oc	q t4	mixed	9 short hooked tail (first); oc/t4 sign question
+526.16	idx26 ctx:w S _ 	{Admira}	(none)	first	"Admira" word is visible at line end; second omitted it
+526.16	idx13 ctx:dl x _ 2 7	oc?	t4	ambiguous	oc vs t4/fl: same recurring cross-with-diagonal sign; shape not clearly oc (loop) nor clearly t4/4; value o vs t undecidable from image
+526.16	idx9 ctx:pi S _ w dl	mu	{my}	second	plain-script letters "my", not Greek mu
