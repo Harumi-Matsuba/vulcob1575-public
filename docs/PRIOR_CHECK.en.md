@@ -45,7 +45,7 @@ Mainly places not covered above.
 | studies of Archduke Matthias's journey to the Low Countries (1577) | web search (FR/EN/DE): Malstet, Varambon, Borgia, Ancel | no use of the French ambassador's cipher reports found |
 
 ## Not checked
-- Whether the ZHF dossier (proceedings above) has appeared, and its content.
-- Full-text search of Google Books and HathiTrust (printed editions of Ancel's letters).
+- The ZHF dossier (proceedings above). The table of contents of Vol. 53 (2026), Issue 1 (publisher eLibrary, 20 Oct 2026) has no cryptography article and none of the editors; later issues were not yet found on the publisher eLibrary.
+- Full-text search of Google Books and HathiTrust (printed editions of Ancel's letters). The Google Books API returned 429 (rate limit) on both tries on 20 Oct 2026.
 - Document lists of DECODE records (login required; the catalogue has no record of Colbert 398).
 - Unpublished decipherments by G. Lasry.
