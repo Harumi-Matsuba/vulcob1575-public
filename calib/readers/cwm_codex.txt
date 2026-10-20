@@ -1,0 +1,13 @@
+# Codex (codex-cli 0.163.0-alpha.10.2) reading of the 12 margin crops beside code-word lines
+m355_L17	··· solicité? damour
+m355_L18	sur Jaelle? Ni aultre?
+m355_L19	quelz? ay·u·? es? a·?
+m477_L13	··· les po··? au
+m477_L15	··· desfiens?
+m477_L17	··· celactoria?
+m477_L25	··· laffection? Mau·?
+m477_L28	··· la aultre?
+m483_L15	···
+m535_L11	··· guy?
+m535_L13	··· plus
+m535_L18	··· est deu

@@ -49,3 +49,4 @@ No images are included. Sources are cited by shelfmark and Gallica view number i
 - 2026-10-20: the calibration reference (margin reading) replaced by the majority of five independent readings (method fixed before the result was seen): calibration 81.8% → 85.9%. Decode and scoring unchanged. Status changed to full reading.
 - 2026-10-20: the single line on p.570 found to have a contemporary decipherment in the last margin line of p.569 and removed from the undeciphered passages (the key output agrees with it). Code-word meanings checked against the margins of the two calibration pages (saturnus = l'empereur etc., OPEN section 3).
 - 2026-10-20: code word Juno checked against the contemporary decipherment on p.440 (three independent readings of the margin agree on "le Roy d'Espaig[ne] … avoit … voulu"; OPEN section 3).
+- 2026-10-20: code word my (qu'il) checked against the margin of p.321; totum (l'Empire?) and others added to OPEN.

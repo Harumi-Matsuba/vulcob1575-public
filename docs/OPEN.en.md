@@ -32,14 +32,16 @@ These are listed per position in `xcheck/adjudication_img_<page>.tsv` (decision 
 | ucb+ (with smua, sec?) | l'Electeur de Saxe | p.33 margin | confirmed for the whole group; how it splits is open |
 | saturnus | l'Empereur (Rudolf II) | on the calibration pages p.258 and p.285 the margin (five-reader majority) has "l'empereur" / "emper…" at the place of saturnus; p.440 margin "…ur" at the same place; p.525 "ledit seigneur [saturnus] son frere" | matches the contemporary decipherment on p.258 (one instance with exact anchors); p.285 and p.440 point the same way with weak anchors |
 | Juno | le Roy d'Espagne (the King of Spain) | p.440: beside the cipher "… [que] {Juno} avoit voulu …" three independent readings of the margin (two Claude Sonnet 5.5 readers, Codex) agree on "le Roy d'Espaig[ne] … avoit … voulu" (`calib/codeword_juno_p440.txt`); fits p.561 "ou du dit [Juno] ou du dit seigneur Archiduc" | confirmed by contemporary decipherment (1 instance) |
-| my | qu'il | p.526 "sur ce [my] escrivit toutes les lettres [my] envoya"; p.562 "[my] semble maintenant", "bonne affection [my] a" | probable (context only) |
+| my | qu'il (my z = qu'ilz) | p.321: beside the cipher "il semble [my]z ayent en ceci intelligence" the margin is read "quelz? ay·u·?" by Codex and "quelz ay·en·" by Claude Sonnet 5.5 (`calib/readers/cwm_*.txt`); context: p.526 "sur ce [my] escrivit … [my] envoya", p.501 "celle [my] faut trouver", p.449 "tout haut [my]z veulent vivre" etc. | confirmed by contemporary decipherment (1 instance); many context instances |
+| totum | l'Empire? | p.443 "les deputez de [totum] assemblez a Francfort", "des autres Estatz de [totum]"; p.258 margin "l'Empire et que" at "[mait totum] et que" | probable (margin reading uncertain) |
+| mare, grinter (eviter) | persons or titles | p.443 "service du [mare]", "en la faveur du [mare]", "ledit [grinter] a fait des levées" | open |
 | my3, my3θ, mine | my3 = qu'il (or que); my3θ = qu'ilz (θ = z); mine my3θ = du pis qu'ilz | p.258 margin: "que/qu'il" at "contributions [my3] demande", "du pis qu'ilz" at "seroient [mine my3θ] porroient" | my3θ confirmed (1 instance); mine alone open |
 | nelluy benitow (p.258) | probably l'Electeur palatin et duc Casimir | p.258 margin "Loys Elect. Palatin et duc Casimir" beside these groups | probable (calibration page) |
 | manua, manue | a person (Spanish side?) | p.561 "[manue] a dit", p.565 "le susdit [manua]" | open |
 | Mitte (p.258) | "dauantage les autres"? | p.258 margin at the same place (anchors match, word boundaries uncertain) | open |
 | principalem (p.258) | et principallement celuy | p.258 margin | confirmed (an abbreviation) |
 | roe | pour (a variant of ros?) | p.258 margin: "pour" at "souvent [roe] la defense" | 1 instance |
-| mare, nez/mez, totum, bel, mim | ? | deciphered letters p.439–501 (low-confidence alignments by Claude Sonnet 5.5; not included) | open |
+| nez/mez, bel, mim | ? | deciphered letters p.439–501 (low-confidence alignments by Claude Sonnet 5.5; not included) | open |
 | fec, sec, sanc, sane, pome, estre, toe, vib, roc, ar, puis, x | nulls (the reading never needs them) | absent from the margin decipherments where checked (p.33, p.258; sane pome on p.258) | probable |
 
 ## 4. Passages not read
