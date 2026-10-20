@@ -33,7 +33,7 @@
 | pur bellum | l'Electeur palatin（プファルツ選帝侯） | p.33 の余白 | 当時の解読で確かめた |
 | ucb+（smua・sec を含む?） | l'Electeur de Saxe（ザクセン選帝侯） | p.33 の余白 | まとまりとしては確か。どう分かれるかは未確定 |
 | saturnus | l'Empereur（皇帝ルドルフ2世） | 較正の p.258・p.285 で、saturnus の位置の余白（5つの読みの多数決）が「l'empereur」「emper…」。p.440 でも同じ位置の余白が「…ur」。p.525「ledit seigneur [saturnus] son frere」 | p.258 で当時の解読と合った（前後の文字がずれずに合った1例）。p.285・p.440 は位置合わせが弱いが同じ語 |
-| Juno | スペイン王 | p.440 で「plus Juno」の横の余白が「le Roy d'Espagne」（確かさ高、1例）。p.561「ou du dit [Juno] ou du dit seigneur Archiduc」 | 可能性が高い |
+| Juno | le Roy d'Espagne（スペイン王） | p.440：暗号「… [que] {Juno} avoit voulu …」の横の余白を、独立した3つの読み（Claude Sonnet 5.5 の2人、Codex）がそろって「le Roy d'Espaig[ne] … avoit … voulu」と読む（`calib/codeword_juno_p440.txt`）。p.561「ou du dit [Juno] ou du dit seigneur Archiduc」とも合う | 当時の解読で確かめた（1例） |
 | my | qu'il | p.526「sur ce [my] escrivit toutes les lettres [my] envoya」、p.562「[my] semble maintenant」「bonne affection [my] a」 | 可能性が高い（文脈だけ） |
 | my3、my3θ、mine | my3＝qu'il（または que）、my3θ＝qu'ilz（θ＝z）、mine my3θ＝du pis qu'ilz | p.258 の余白：「contributions [my3] demande」の位置に「que／qu'il」、「seroient [mine my3θ] porroient」の位置に「du pis qu'ilz」 | my3θ は当時の解読で確かめた（1例）。mine 単独の意味は未確定 |
 | nelluy benitow（p.258） | l'Electeur Palatin et duc Casimir か | p.258 でこの語の横の余白に「Loys Elect. Palatin et duc Casimir」 | 可能性あり（較正の頁） |

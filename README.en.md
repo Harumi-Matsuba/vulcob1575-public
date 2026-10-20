@@ -18,7 +18,7 @@ BnF, Cinq Cents de Colbert 398 holds letters of Jean de Vulcob (1575–76) and G
 - **22 October 1577 (p.523–526):** Archduke Matthias's departure for the Low Countries. Malstet, envoy of the States, had asked the Emperor for Matthias "not as governor but as lord". The cipher gives Ancel's view that the Emperor (code word *saturnus*) will deny any part in it, and why: the young archduke could not take a step out of his room without his brother's leave, could not have left the castle that is shut at night, and had no one to rely on.
 - **2 November 1577 (p.539):** the Emperor does all he can to persuade the Spaniards that the departure happened without his knowledge.
 - **14 December 1577 (p.561–563):** the Marquis of Varambon, sent by Don John of Austria to obtain leave to levy troops in Germany, has waited more than three weeks for an answer; the Spanish envoy Borgia says that if the Emperor supports his brother he must do it in earnest, as the Catholic King will do everything to keep his right; the Emperor gives the Spaniards fair words but secretly does things against them; the Estates of the Empire will hardly grant extraordinary aid.
-- **21 December 1577 (p.565):** Varambon is back from Archduke Charles's court and has obtained nothing; the Emperor waits for the answer of the King of Spain (code word *Juno*, inferred) to what he wrote after Matthias's departure.
+- **21 December 1577 (p.565):** Varambon is back from Archduke Charles's court and has obtained nothing; the Emperor waits for the answer of the King of Spain (code word *Juno*, checked against the contemporary decipherment on p.440) to what he wrote after Matthias's departure.
 
 ## What this work adds
 1. Identification of the passages without a contemporary decipherment (all pages listed by Tomokiyo were viewed; docs/METHOD.en.md).
@@ -48,3 +48,4 @@ No images are included. Sources are cited by shelfmark and Gallica view number i
 - 2026-10-20: first version.
 - 2026-10-20: the calibration reference (margin reading) replaced by the majority of five independent readings (method fixed before the result was seen): calibration 81.8% → 85.9%. Decode and scoring unchanged. Status changed to full reading.
 - 2026-10-20: the single line on p.570 found to have a contemporary decipherment in the last margin line of p.569 and removed from the undeciphered passages (the key output agrees with it). Code-word meanings checked against the margins of the two calibration pages (saturnus = l'empereur etc., OPEN section 3).
+- 2026-10-20: code word Juno checked against the contemporary decipherment on p.440 (three independent readings of the margin agree on "le Roy d'Espaig[ne] … avoit … voulu"; OPEN section 3).
