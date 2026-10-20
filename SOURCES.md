@@ -16,7 +16,7 @@ Page → Gallica view (from the IIIF manifest labels) / 頁→コマ:
 | p.539 | f573 | read here ("2 novemb. 1577") |
 | p.561–563 | f595–597 | read here ("14 decemb. 1577") |
 | p.565 | f599 | read here ("21 decemb. 1577") |
-| p.569–570 | f603–604 | p.570 first line read here; p.569 has a margin decipherment |
+| p.569–570 | f603–604 | p.569 has a margin decipherment, whose last line deciphers the single cipher line at the top of p.570 |
 | p.284–285, 311, 321, 366, 439–440, 443, 449, 467–468, 501, 514, 599, 621 | f316–317, 345–346, 355, 400, 473–474, 477, 483, 501–502, 535, 548, 633, 655 | viewed: cipher with a contemporary margin decipherment (not read here) |
 
 ## Key / 鍵
@@ -36,7 +36,7 @@ Page → Gallica view (from the IIIF manifest labels) / 頁→コマ:
 | BravoBravoIX repositories | 19 Oct 2026 | none |
 | Cryptoole API (854 cases) | 20 Oct 2026 | no case |
 | Web search (EN/FR) | 20 Oct 2026 | D. Fontvieille, "Du bon usage du chiffre par les ambassadeurs. L'exemple de la correspondance chiffrée de Jean de Vulcob, ambassadeur dans le Saint-Empire (1570–1576)", colloquium "Entre France et Allemagne : théorie et pratique cryptographiques (1300-1800)", Heidelberg, 11 Apr 2024 (programme: chssc.u-picardie.fr). Content and any proceedings not checked. |
-Not checked: DECODE database search, G. Lasry's unpublished reports, D. Fontvieille's publications.
+Re-checked before publication on 20 Oct 2026 (docs/PRIOR_CHECK.en.md, last section): nothing new. Not checked: DECODE database search, G. Lasry's unpublished reports, D. Fontvieille's publications.
 
 ## Software / ソフトウェア
 - wordfreq (French word list for the trigram model). OpenAI Codex CLI 0.163.0-alpha.10.2. Python 3, Pillow, NumPy.

@@ -164,4 +164,4 @@ The clear opening reports the negotiation of the Sieur de Malstet, sent by the S
 
 | line | key output | reading | mark |
 |---|---|---|---|
-| 570.01 | [ss]irOitpeuOSpOintdeprO[ff]it {sans}{estre} | 読みは載せない：1行だけで、対照が 0/1,000 に届かない（OPEN.md の4節） | △ |
+| 570.01 | [ss]irOitpeuOSpOintdeprO[ff]it {sans}{estre} | (qu'il en re)ussiroit peu ou point de profit. ［当時の解読：p.569 の余白の最後の行「… quil ny reussiroit(?) peu ou point de proffit」］ | ○ |

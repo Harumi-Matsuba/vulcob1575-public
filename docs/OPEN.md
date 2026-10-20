@@ -32,18 +32,20 @@
 |---|---|---|---|
 | pur bellum | l'Electeur palatin（プファルツ選帝侯） | p.33 の余白 | 当時の解読で確かめた |
 | ucb+（smua・sec を含む?） | l'Electeur de Saxe（ザクセン選帝侯） | p.33 の余白 | まとまりとしては確か。どう分かれるかは未確定 |
-| saturnus | 皇帝（ルドルフ2世） | p.525「ledit seigneur [saturnus] son frere」（大公マティアスの兄）。p.440 で同じ位置の余白に「l'empereur」（確かさ低） | 可能性が高い |
+| saturnus | l'Empereur（皇帝ルドルフ2世） | 較正の p.258・p.285 で、saturnus の位置の余白（5つの読みの多数決）が「l'empereur」「emper…」。p.440 でも同じ位置の余白が「…ur」。p.525「ledit seigneur [saturnus] son frere」 | p.258 で当時の解読と合った（前後の文字がずれずに合った1例）。p.285・p.440 は位置合わせが弱いが同じ語 |
 | Juno | スペイン王 | p.440 で「plus Juno」の横の余白が「le Roy d'Espagne」（確かさ高、1例）。p.561「ou du dit [Juno] ou du dit seigneur Archiduc」 | 可能性が高い |
 | my | qu'il | p.526「sur ce [my] escrivit toutes les lettres [my] envoya」、p.562「[my] semble maintenant」「bonne affection [my] a」 | 可能性が高い（文脈だけ） |
-| my3、my3θ、mine | 短い語（que／qu'il／il?） | p.561「[my3] est necessaire [my3] se resolve」、p.539 | 未確定 |
+| my3、my3θ、mine | my3＝qu'il（または que）、my3θ＝qu'ilz（θ＝z）、mine my3θ＝du pis qu'ilz | p.258 の余白：「contributions [my3] demande」の位置に「que／qu'il」、「seroient [mine my3θ] porroient」の位置に「du pis qu'ilz」 | my3θ は当時の解読で確かめた（1例）。mine 単独の意味は未確定 |
 | nelluy benitow（p.258） | l'Electeur Palatin et duc Casimir か | p.258 でこの語の横の余白に「Loys Elect. Palatin et duc Casimir」 | 可能性あり（較正の頁） |
 | manua、manue | 人物（スペイン側?） | p.561「[manue] a dit」、p.565「le susdit [manua]」 | 未確定 |
-| mitte、mime（p.258） | 「les autres Electeurs」「du pis qu'ils」か | p.258 の同じ位置の余白 | 未確定 |
+| Mitte（p.258） | 「dauantage les autres」か | p.258 の同じ位置の余白（前後の文字は合うが、余白の語の切れ目が不確か） | 未確定 |
+| principalem（p.258） | et principallement celuy | p.258 の余白 | 当時の解読で確かめた（略記とみる） |
+| roe | pour（ros の書き方の揺れか） | p.258 の余白：「souvent [roe] la defense」の位置に「pour」 | 1例 |
 | mare、nez／mez、totum、bel、mim | ? | 解読済みの書簡 p.439–501（Claude Sonnet 5.5 による確かさの低い対応。ここには入れていない） | 未確定 |
-| fec、sec、sanc、estre、toe、vib、roc、roe、ar、puis、x | 空字 | 確かめた所（p.33、p.258）で余白に対応する語がない | 可能性が高い |
+| fec、sec、sanc、sane、pome、estre、toe、vib、roc、ar、puis、x | 空字 | 確かめた所（p.33、p.258）で余白に対応する語がない（sane pome は p.258 で確認） | 可能性が高い |
 
 ## 4. 読めていない所
-- p.570（1行・22記号）：対照で、かき混ぜた鍵が本物以上になる回がある（4/1,000、表の記号だけで 8/1,000）。読みは載せない（鍵の出力は「…roit peu ou point de proffit」と読めそうだが、1行では確かめられない）。
+- p.570（1行・22記号）：対照では 4/1,000（表の記号だけで 8/1,000）と弱いが、p.569 の余白の最後の行に当時の解読「… quil ny reussiroit(?) peu ou point de proffit」があり、鍵の出力と合う（未解読ではなかった）。余白の動詞は、Claude Sonnet 5.5 と Claude Opus 5.5 が「reussiroit」、Codex が「en sera」と読み、決めきれない。
 - p.539 l.2–3：「[my3θ] sont n'avoient charge」と「nonobstant que est · [saturnus] [sanc]」。符号語のまわりの文の形が分からない。
 - p.561 l.1–4・l.18–19、p.562 l.25–26、p.565 l.9・l.15–16：一部が読めないか、符号語。
 - p.526 l.9–10・l.13–14：文の形が分からない。

@@ -166,4 +166,4 @@ The clear opening reports the negotiation of the Sieur de Malstet, sent by the S
 
 | line | key output | reading | mark |
 |---|---|---|---|
-| 570.01 | [ss]irOitpeuOSpOintdeprO[ff]it {sans}{estre} | not given: one line only; the control test does not reach 0/1,000 on it (see OPEN.en.md section 4) | △ |
+| 570.01 | [ss]irOitpeuOSpOintdeprO[ff]it {sans}{estre} | (qu'il en re)ussiroit peu ou point de profit. [contemporary decipherment: last margin line of p.569, "… quil ny reussiroit(?) peu ou point de proffit"] | ○ |

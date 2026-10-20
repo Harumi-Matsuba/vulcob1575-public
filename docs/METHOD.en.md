@@ -8,7 +8,7 @@ Japanese: METHOD.md
 - Images: BnF IIIF Image API, 2400 px wide. No image is included here.
 
 ## Which passages were undeciphered
-All cipher pages listed by Tomokiyo were viewed. Most carry a contemporary decipherment in the left margin. The cipher on p.525–526, p.539, p.561–563, p.565 and the single cipher line on p.570 has none; these are the undeciphered passages (124 cipher lines, 4,383 symbols in the final transcription, plus a short cipher fragment at the end of p.524); the reading is given for p.525–565 (123 lines, 4,357 symbols).
+All cipher pages listed by Tomokiyo were viewed. Most carry a contemporary decipherment in the left margin. The cipher on p.525–526, p.539, p.561–563 and p.565 has none (the single line on p.570, at first counted with them, has a contemporary decipherment in the last margin line of p.569); these are the undeciphered passages (124 cipher lines, 4,383 symbols in the final transcription, plus a short cipher fragment at the end of p.524); the reading is given for p.525–565 (123 lines, 4,357 symbols).
 
 ## Steps
 1. **Key table** (`data/key.tsv`, `src/vk.py` `TOKENS`): Tomokiyo's symbols with names; additions are marked in `TOKENS` (source `C`), the rest is his table (`T`). Symbols not in his table: OPEN.en.md section 1.
@@ -50,7 +50,7 @@ By symbol name instead of value (`src/namecompare.py`), all nine pages: pass 4a 
 | p.565 | 533 | −2.933 | −4.349 | 0 | 0 |
 | p.570 | 22 | −3.770 | −3.580 | **4** | **8** |
 
-p.570 (one line) does not reach 0/1,000; its reading is not given (READING, OPEN section 4).
+p.570 (one line) does not reach 0/1,000; it has a contemporary decipherment in the margin of p.569, which the key output matches (READING).
 
 **Calibration** (letters only; long gaps of ≥4 letters — code-word positions and text outside the margin's span — are not scored):
 
@@ -72,7 +72,7 @@ Against the other margin readings the p.258 decode gives 82.1% (Sonnet) and 85.8
 
 **Share of symbols with a value** (final transcription, nine pages): of 4,672 symbols and plain-letter groups, 4,552 (97.4%) have a value, 18 (0.4%) are unreadable, 102 (2.2%) are plain-letter groups (code words or nulls), most without a known meaning.
 
-**Status: full reading (of the seven read pages; p.570 excluded).** On the seven read pages (p.525–526, 539, 561–565): control 0/1,000 on every page; lowest independent agreement 88.8% (p.565), 95.2% over the seven pages; 97.4% of symbols have a value; calibration 85.9% on two pages (against the five-reader majority margin; 81.8% against a single adjudicated margin reading). Most code words are unexplained (OPEN section 3). p.570 (one line) is left unread.
+**Status: full reading.** On the seven read pages (p.525–526, 539, 561–565): control 0/1,000 on every page; lowest independent agreement 88.8% (p.565), 95.2% over the seven pages; 97.4% of symbols have a value; calibration 85.9% on two pages (against the five-reader majority margin; 81.8% against a single adjudicated margin reading). Most code words are unexplained (OPEN section 3). The single line on p.570 turned out to have a contemporary decipherment in the last margin line of p.569 ("… quil ny reussiroit(?) peu ou point de proffit"), so it was not undeciphered; the key output ("…[ss]iroit peu ou point de profit") agrees with it.
 
 ## AI use (COPE disclosure)
 - Claude Opus 5.5 (Anthropic): prior-work search, key table, first transcription of p.33 and p.539, coordination, decoding, word division, the 15 context reversions and 2 sign renamings, documents.
@@ -85,4 +85,4 @@ Against the other margin readings the p.258 decode gives 82.1% (Sonnet) and 85.8
 - Look-alike symbol pairs (OPEN.en.md section 2) are decided partly by context; uppercase letters in the key output mark the uncertain ones.
 - Code words are mostly unexplained (OPEN.en.md section 3); the readings put them in [brackets].
 - Calibration rests on two pages and on AI readings of their margins.
-- p.570 has one line (22 symbols scored); it does not pass the control and is not read.
+- p.570 has one line (22 symbols scored), 4/1,000 in the control; it agrees with the contemporary decipherment in the margin of p.569.

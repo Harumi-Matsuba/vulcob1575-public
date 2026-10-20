@@ -49,3 +49,12 @@ Mainly places not covered above.
 - Full-text search of Google Books and HathiTrust (printed editions of Ancel's letters). The Google Books API returned 429 (rate limit) on both tries on 20 Oct 2026.
 - Document lists of DECODE records (login required; the catalogue has no record of Colbert 398).
 - Unpublished decipherments by G. Lasry.
+
+## Re-check before publication (20 Oct 2026, 08:40–08:50 JST)
+A reader who took no part in the decipherment re-checked the main places for anything new since the checks above. The result is still "not found".
+| Place | Date / version | Result |
+|---|---|---|
+| Cyphersolver ledger | origin/main 0258b8ab (18 Oct 2026, unchanged) | no entry for Ancel's letters in Colbert 398 |
+| Its issues | up to #51 (19 Oct 2026) | titles and bodies for "Vulcob", "Ancel", "Colbert 398": no hits |
+| Cryptiana frencheastern.htm | Last-Modified 15 Mar 2026 (unchanged) | no readings added |
+| GitHub code search | 20 Oct 2026 | "\"Colbert 398\"": only NoAutopilot/cipher-lab and cyphersolver; the cipher-lab hits (e.g. the numerical-cipher table in birago-nevers-1571) are those listed above |

@@ -49,3 +49,12 @@
 - Google Books・HathiTrust の全文検索（Ancel の書簡の刊本）。Google Books の API は 2026-10-20 に2回とも 429（回数の上限）。
 - DECODE の記録の文書一覧（ログインが要る。ただし目録に Colbert 398 の記録はない）。
 - Lasry 氏の未公開の解読。
+
+## 公表前の見直し（2026-10-20 08:40〜08:50 JST）
+解読に加わっていない読み手が、上の確かめの後に新しい動きがないかを、主な先で見直した。区分は「見つからない」のまま。
+| 先 | 日付・版 | 結果 |
+|---|---|---|
+| Cyphersolver の台帳 | origin/main 0258b8ab（2026-10-18、変わっていない） | Colbert 398 の Ancel の書簡の項目はない |
+| 同 issue | #51 まで（2026-10-19） | 題名と本文で「Vulcob」「Ancel」「Colbert 398」：当たりなし |
+| Cryptiana frencheastern.htm | Last-Modified 2026-03-15（変わっていない） | 読みの追加なし |
+| GitHub のコード検索 | 2026-10-20 | 「"Colbert 398"」：NoAutopilot/cipher-lab と cyphersolver だけ。cipher-lab の当たりは birago-nevers-1571 の数字暗号の表など、上の表に書いたものと同じ |
