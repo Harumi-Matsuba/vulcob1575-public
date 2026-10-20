@@ -58,3 +58,11 @@
 | 同 issue | #51 まで（2026-10-19） | 題名と本文で「Vulcob」「Ancel」「Colbert 398」：当たりなし |
 | Cryptiana frencheastern.htm | Last-Modified 2026-03-15（変わっていない） | 読みの追加なし |
 | GitHub のコード検索 | 2026-10-20 | 「"Colbert 398"」：NoAutopilot/cipher-lab と cyphersolver だけ。cipher-lab の当たりは birago-nevers-1571 の数字暗号の表など、上の表に書いたものと同じ |
+
+## 公開後の見直し（2026-10-20 00:56 UTC）
+| 先 | 結果 |
+|---|---|
+| Cyphersolver の台帳（origin/main 0258b8ab、変わっていない）と issue（#54 まで） | Colbert 398 に関わる issue は、このリポジトリの報告（#53）だけ |
+| Cryptiana unsolved.htm（Last-Modified 2026-10-19 23:08 GMT）・GL.htm（10-15）・frencheastern.htm（03-15） | 更新は別の項目。Colbert 398・Vulcob・Ancel の記述なし |
+| GitHub コード検索「"Colbert 398"」 | NoAutopilot/cipher-lab と Cyphersolver だけ（前回と同じ） |
+| NoAutopilot/cipher-lab の 2026-10-19 12:00 UTC 以降のコミット70件と ciphers/ | Colbert 398・Ancel・Vulcob に関わるものなし |

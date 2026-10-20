@@ -58,3 +58,11 @@ A reader who took no part in the decipherment re-checked the main places for any
 | Its issues | up to #51 (19 Oct 2026) | titles and bodies for "Vulcob", "Ancel", "Colbert 398": no hits |
 | Cryptiana frencheastern.htm | Last-Modified 15 Mar 2026 (unchanged) | no readings added |
 | GitHub code search | 20 Oct 2026 | "\"Colbert 398\"": only NoAutopilot/cipher-lab and cyphersolver; the cipher-lab hits (e.g. the numerical-cipher table in birago-nevers-1571) are those listed above |
+
+## Re-check after publication (2026-10-20 00:56 UTC)
+| place | result |
+|---|---|
+| Cyphersolver ledger (origin/main 0258b8ab, unchanged) and issues (up to #54) | the only issue on Colbert 398 is this repository's report (#53) |
+| Cryptiana unsolved.htm (Last-Modified 2026-10-19 23:08 GMT), GL.htm (10-15), frencheastern.htm (03-15) | changes concern other items; no mention of Colbert 398, Vulcob or Ancel |
+| GitHub code search "Colbert 398" | NoAutopilot/cipher-lab and Cyphersolver only (as before) |
+| NoAutopilot/cipher-lab: 70 commits since 2026-10-19 12:00 UTC and ciphers/ | nothing on Colbert 398, Ancel or Vulcob |
